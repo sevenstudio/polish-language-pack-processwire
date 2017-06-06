@@ -1,0 +1,36 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeModule.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypemodule-module",
+    "translations": {
+        "40e27ece1fd60ce7081fd3084e866820": {
+            "text": "Typ Modu\u0142u"
+        },
+        "e4b9c7449faedd6b2667e3db22d04cc1": {
+            "text": "Wybierz wszystkie typy modu\u0142\u00f3w, kt\u00f3re mog\u0105 zosta\u0107 wybrane w tym polu."
+        },
+        "4aa842af483898d272ce5ea136a446d3": {
+            "text": "Czy to pole ma si\u0119 sta\u0107 odpowiednikiem wybranego modu\u0142u?"
+        },
+        "1d4b3399eb44d29f0188147089a9fb8a": {
+            "text": "Je\u015bli zaznaczono, to pole b\u0119dzie odpowiednikiem wybranego modu\u0142u. Je\u015bli nie zaznaczono, warto\u015b\u0107 pola b\u0119dzie zmienn\u0105 zawieraj\u0105c\u0105 nazw\u0119 klasy danego modu\u0142u."
+        },
+        "bbddef2b960b6e14a0c9510c2312192e": {
+            "text": "Etykieta Opcji"
+        },
+        "0900a3f6adfa931e0130c02c436e7e7f": {
+            "text": "Nazwa klasy modu\u0142u"
+        },
+        "335fdfd0673e7e457d51384f686b00dc": {
+            "text": "Tytu\u0142 modu\u0142u"
+        },
+        "a749642e2afeea63aac9d550e51abf64": {
+            "text": "Typ pola"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Lista rozwijana"
+        },
+        "d5a4c326398e96cdf97b6d4a3cc300c1": {
+            "text": "Pola wyboru (radios)"
+        }
+    }
+}

@@ -1,0 +1,240 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeComments\\FieldtypeComments.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--fieldtypecomments-module",
+    "translations": {
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Wy\u0142\u0105czone"
+        },
+        "b39a035a995fc6597c8eb942210d1527": {
+            "text": "Zachowanie"
+        },
+        "0c6e8a761530efc7ecfe773a5b5a6f7e": {
+            "text": "Brak - Komentarze publikowane natychmiastowo"
+        },
+        "4f214f3246f03a94773427de4f2e7699": {
+            "text": "Wszystkie - wszystkie komentarze musz\u0105 zosta\u0107 zaakceptowane przez u\u017cytkownika posiadaj\u0105cego prawa dost\u0119pu do edycji strony"
+        },
+        "d3a76eec189143c6945282d37bd81bb5": {
+            "text": "Tylko nowe - akceptacji wymagaj\u0105 komentarze tylko od u\u017cytkownik\u00f3w kt\u00f3rzy nie komentowali wcze\u015bniej na stronie"
+        },
+        "c98106d2a3b2a0a14016f73894f59d10": {
+            "text": "Moderacja komentarzy"
+        },
+        "18800239150e923984ade45f5e961fbd": {
+            "text": "Decyduje kiedy nowe komentarze zostan\u0105 opublikowane na stronie"
+        },
+        "b7f00c1afdf69f32c12c300c02ac1da7": {
+            "text": "Przekierowanie po zostawieniu komentarza?"
+        },
+        "cea2870f162b18b9ab95c8c84da6d05a": {
+            "text": "Kiedy zaznaczone, ProcessWire przekieruje u\u017cytkownika po zostawieniu komentarza w celu unikni\u0119cia pozostawienia dwukrotnie tego samego komentarza. (Zalecane)"
+        },
+        "e90234905413e689d67361b8f618b63f": {
+            "text": "Ca\u0142kiem bezpieczne?"
+        },
+        "d2c1e7bd67d4253ff76376ed718cf94f": {
+            "text": "Kiedy zaznaczone, czas modyfikacji strony i u\u017cytkownik nie zostan\u0105 zaktualizowani po dodaniu nowego komentarza."
+        },
+        "152cae5f743b4ea655ef70fab6684593": {
+            "text": "Typ powiadomienia"
+        },
+        "1df95d9b624496ecb2f4158676c98825": {
+            "text": "Nie wysy\u0142aj powiadomie\u0144"
+        },
+        "eac16a1e6e640d0fd649262cc154287d": {
+            "text": "Prze\u015blij powiadomienie na konkretny adres e-mail"
+        },
+        "56c6193a67167dcdd8befdc1cf3f7958": {
+            "text": "Prze\u015blij powiadomienie do u\u017cytkownika kt\u00f3ry doda\u0142 stron\u0119"
+        },
+        "176686fd5ea38cce85007c58bc91861a": {
+            "text": "Prze\u015blij powiadomienie do konkretnego u\u017cytkownika"
+        },
+        "a274f4d4670213a9045ce258c6c56b80": {
+            "text": "Powiadomienia"
+        },
+        "e3b1a956fff16a2f9b781479bcbea925": {
+            "text": "Adres email administratora dla powiadomie\u0144"
+        },
+        "f895a3cb718c7d7cacdf08e19c72a19b": {
+            "text": "Adres email powiadamiany o nowych komentarzach. Wiele adres\u00f3w nale\u017cy odddzieli\u0107 spacjami lub przecinkami."
+        },
+        "e793b132f67e3437dae254ad00e2cc48": {
+            "text": "U\u017cytkownik otrzymuj\u0105cy ten email b\u0119dzie mia\u0142 mozliwo\u015b\u0107 akceptacji komentarza bezpo\u015brednio z linku do\u0142\u0105czonego do wiadomo\u015bci email."
+        },
+        "abf48974ca61ec74f073f2359c29da03": {
+            "text": "Jako dodatkowy adres email (lub zamiast), mo\u017ce poda\u0107 jeden lub wi\u0119cej nast\u0119pujacych:"
+        },
+        "d0ffa91c19a6c97eac905834065a48a4": {
+            "text": "podaj [b]user:anna[\/b] aby okre\u015bli\u0107 u\u017cytkownika, zmie\u0144 \"anna\" na imi\u0119 u\u017cytkownika."
+        },
+        "e703c4cbaf0b1030f389f7a3f4c91f34": {
+            "text": "Wprowad\u017a **field:email** aby pobra\u0107 adres email automatycznie ze strony, zast\u0119puj\u0105c \"email\" nazw\u0105 pola, kt\u00f3re zawiera adres email."
+        },
+        "0cf8830f9d1aaf42ad9e178f9af4f3d0": {
+            "text": "Wprowad\u017a **123:email** aby pobra\u0107 adres email automatycznie ze strony o okre\u015blonym idendyfikatorze, zast\u0119puj\u0105c 123 indetyfiaktorem strony (ID) oraz zast\u0119puj\u0105c \"email\" nazw\u0105 pola, kt\u00f3re zawiera adres email."
+        },
+        "be4676f05d7147b99e5addd2b27b6889": {
+            "text": "Wprowad\u017a **\/path\/to\/page:email** aby pobra\u0107 adres email automatycznie ze strony o okre\u015blonej \u015bcie\u017cce, zast\u0119puj\u0105c \"\/path\/to\/page\" \u015bcie\u017ck\u0105 do strony oraz zast\u0119puj\u0105c \"email\" nazw\u0105 pola, kt\u00f3re zawiera adres email."
+        },
+        "f6fdd0b4b152fc4fb6fa144eb7718873": {
+            "text": "Powiadomienie z adresu email"
+        },
+        "a5356041796dfb51e1131f9557cf7225": {
+            "text": "Opcjonalny adres e-mail z kt\u00f3ry b\u0119dzie widoczny jako nadawca. Pozostaw puste aby u\u017cy\u0107 domy\u015blnego ustawienia serwera."
+        },
+        "0ad4c8b2b43eb0c8cfa21dd7571401b5": {
+            "text": "Wys\u0142a\u0107 powiadomienie email w przypadku wykrycia Spamu?"
+        },
+        "ec8fbd0794fa6fafb9061431f9bffa03": {
+            "text": "Kiedy zaznaczone, ProcessWire wy\u015ble e-mail z powiadomienie\u0144 nawet wtedy, kiedy wiadomo\u015bc zostanie zakwalifikowana jako spam."
+        },
+        "031de71d8bede5de985c354bbd23cdc6": {
+            "text": "Zezw\u00f3l na powiadomienia o komentarzach?"
+        },
+        "dc8c7869896eed885ca7b7cc73de8e0a": {
+            "text": "Ta opcja pozwala komentuj\u0105cym na otrzymywanie powiadomie\u0144 o nowych komentarzach."
+        },
+        "0ad051f48ed2ca988a4b60689eb13ad5": {
+            "text": "U\u017cytkownik mo\u017ce otrzymywa\u0107 powiadomienia o odpowiedziach do w\u0142asnych komentarzy."
+        },
+        "4795eaf7300ae848d67ca8c64cfa357f": {
+            "text": "U\u017cytkownik mo\u017ce otrzymywa\u0107 powiadomienia o wszystkich komentarzach na danej stronie."
+        },
+        "e9dfd31cc505d51fc26975250750deab": {
+            "text": "Spam"
+        },
+        "694c233e3c1cf5b97224bd5fcbebb340": {
+            "text": "U\u017cyj filtru spamu Akismet?"
+        },
+        "13df57b389c6175fd742098a67385895": {
+            "text": "Ta us\u0142uga automatycznie wykrywa wi\u0119kszo\u015b\u0107 spamu. Zanim zaczniesz jej u\u017cywa\u0107, upewnij si\u0119, \u017ce zosta\u0142 podany klucz Akismet API key w: Modu\u0142y > Filtr Komentarzy: Akismet"
+        },
+        "bf31492fe5d4821b483bc7cb8cfe07a3": {
+            "text": "Liczba dni po kt\u00f3rych spam zostanie usuni\u0119ty"
+        },
+        "72fe450a750c9f11bf0531e5395e6e75": {
+            "text": "Po up\u0142ywie okre\u015blonej liczby dni, spam zostanie automatycznie usuni\u0119ty."
+        },
+        "29c2c02a361c9d7028472e5d92cd4a54": {
+            "text": "\u0179r\u00f3d\u0142o"
+        },
+        "9e6530a34353d7610fd5455767b28df4": {
+            "text": "G\u0142\u0119boko\u015b\u0107 odpowiedzi"
+        },
+        "1f33bbe656fa140ce52347fb0af13a18": {
+            "text": "Wprowad\u017a 0 dla tradycyjnych chronologicznych komentarzy. W przypadku komentarzy tematycznych (odpowiedzi pojawiaj\u0105 si\u0119 wraz z odpowiedzi\u0105 na komentarz) okre\u015bl maksymaln\u0105 dopuszczaln\u0105 g\u0142\u0119boko\u015b\u0107 odpowiedzi (zaleca si\u0119 od 0 do 4)."
+        },
+        "9bf3d3d959883d38b84f1990340bff84": {
+            "text": "Sortuj od najnowszych do najstarszych?"
+        },
+        "0c9743be855a9e62ab36d4d4eb321932": {
+            "text": "Domy\u015blne, komentarze b\u0119d\u0105 sortowoane chronologicznie (od najstarszych do najnowszych). W celu odwr\u00f3cenie sortowanie zaznacz to pole."
+        },
+        "cba07fe99979c9f01d9c61a39aae3045": {
+            "text": "Poka\u017c pole \"witryna\" w formularzu?"
+        },
+        "bb28b3686215b773129c8259cf0e6525": {
+            "text": "Je\u015bli zaznaczono, formularz komentarzy poka\u017ce tak\u017ce pole \"witryna\"."
+        },
+        "b3dc4b8696a26f0852afc3df1785ce24": {
+            "text": "Data\/czas form (dla listy komentarzy)"
+        },
+        "ea706988dcb6ea169518eb97da49df9d": {
+            "text": "Wprowad\u017a format daty \/ godziny, kt\u00f3ry ma zosta\u0107 u\u017cyty jako domy\u015blny dla listy komentarzy. Mo\u017ce to by\u0107 format PHP [date] (http:\/\/php.net\/manual\/en\/function.date.php) lub [strftime] (http:\/\/php.net\/manual\/en\/function.strftime.php) . Mog\u0105 te\u017c by\u0107 \"wzgl\u0119dne\" dla wzgl\u0119dnego formatu daty."
+        },
+        "9fbc91b8ace5ac4afdc754d6d81d1f28": {
+            "text": "Zezw\u00f3l na ocen\u0119 komentarzy?"
+        },
+        "3ffa920a9c00477904f187e62f9d8582": {
+            "text": "Ocena komentarzy pozwala oceni\u0107 komentarz pozytywnie lub negatywnie. Oceny wy\u015bwietlane s\u0105 osobno dla ka\u017cdego z komentarzy. Dozwolona jest tylko  jedna ocena pozytywna\/negatywna dla komentarza\/dla adresu IP\/na godzin\u0119."
+        },
+        "2d020e5cbf014a734c83323e430afce0": {
+            "text": "Oceny wy\u0142\u0105czone"
+        },
+        "e344d6ca196c888a521047effab607b3": {
+            "text": "Wy\u0142\u0105cz pozytywne ocenianie"
+        },
+        "3404fab8f99ccde53b123699711e6b6c": {
+            "text": "Pozw\u00f3l ocenia\u0107 pozytywnie\/negatywnie"
+        },
+        "40e8db84e220fe9c816eb334d1b42a70": {
+            "text": "Pokaza\u0107 oceny gwiazdek?"
+        },
+        "00837cdf48d92331ec9c355847ed9ef5": {
+            "text": "Pozwala komentuj\u0105cym oceni\u0107 temat kt\u00f3ry komentuj\u0105 przy u\u017cyciu gwiazdek, w skali od 1 do 5 gwiazdek."
+        },
+        "924daa0b046449bd4fb99af3c97b5f2b": {
+            "text": "Zmie\u0144 domy\u015blne ikony gwiazdy (u\u017cycie HTML tutaj jest mo\u017cliwe)"
+        },
+        "359310b90581d6b9baa3cdccc10607b2": {
+            "text": "Tak (opcjonalne ocenianie gwiazdkami)"
+        },
+        "806e88271605e15a20e9d6d47673f42e": {
+            "text": "Tak (wymagane ocenianie gwiazdkami)"
+        },
+        "b70aad8c6cb77fde247be00630d7f5ef": {
+            "text": "G: Odpowiednie do wy\u015bwietlania na stronach z ka\u017cdym rodzajem odbiorc\u00f3w."
+        },
+        "8e25a98f71c3244890fa8ecf2230fe18": {
+            "text": "PG: Mog\u0105 zawiera\u0107 niegrzeczne gesty, prowokuj\u0105co ubrane osoby, \"\u0142agodne\" przekle\u0144stwa, \u0142agodn\u0105 przemoc."
+        },
+        "2900074213d129e33d5d4b6e74076f29": {
+            "text": "R: Mog\u0105 zawiera\u0107 takie rzeczy, jak ostra przekle\u0144stwa, przemoc, nago\u015b\u0107 lub u\u017cywanie narkotyk\u00f3w."
+        },
+        "043cab853d189bb505d101c3c7ab3176": {
+            "text": "X: Mo\u017ce zawiera\u0107 zdj\u0119cia seksualne lub bardzo niepokoj\u0105c\u0105 przemoc."
+        },
+        "a4949d12f429ca4af2feb4e30c1e84e4": {
+            "text": "Uzy\u0107 Gravatar?"
+        },
+        "c5fce56aee82d2bc007cbf213998945b": {
+            "text": "Ta us\u0142uga udost\u0119pnia obraz u\u017cytkownik\u00f3w (awatar ) dla komentarzy (niepowtarzalny dla ka\u017cdego adresu e-mail, przypisany do adresu email zarejsetrowanego w serwise gravatar.com). Aby w\u0142\u0105czy\u0107, wybierz maksymaln\u0105 ocen\u0119 tre\u015bci twojej witryny, gdzie G jest najbardziej przyjazny dla rodziny, a X nie."
+        },
+        "82829c5912f395b029a87c565359835c": {
+            "text": "Formatowanie tekstu"
+        },
+        "53a682f62e65f496a659d3a12c754f75": {
+            "text": "Opcjonalnie wybierz jeden lub wi\u0119cej rodzai formatowania tekstu dla tekstu komentarzy, w okre\u015blonej kolejno\u015bci. Je\u015bli nie wybierzesz \u017cadnego, tekst b\u0119dzie w ca\u0142o\u015bci przekodowany, nowa linie zostan\u0105 zamienione na tagi <br>, a ca\u0142o\u015b\u0107 zostanie zamkni\u0119ta tagiem <p>."
+        },
+        "81958f1863ae9ebb74b7a23cbf0dbd78": {
+            "text": "Uwaga: wybieraj rodzaje formatowania tekstu, kt\u00f3re s\u0105 bezpieczne do u\u017cycia w tekstach dodawanych przez osoby nieznane, jak np. like Entity Encoder (systemowy) or Textile Restricted (rozszerzenie firm trzecich). Je\u015bli nie wiesz jakiego dokona\u0107 wyboru pozostaw to pole bez zmian, b\u0142\u0119dny wyb\u00f3r mo\u017ce by\u0107 przyczyn\u0105 problem\u00f3w z bezpiecze\u0144stwem strony."
+        },
+        "b672f52ade975e864ae6b58722c03689": {
+            "text": "Implementacja"
+        },
+        "309ccca9b8ae5408ee15a28c2bd2c9c2": {
+            "text": "Ta sekcja pomo\u017ce Ci doda\u0107 system komentarzy do twojej strony. Wszystko tutaj jest opcjonalne."
+        },
+        "c0cf19f012781de14679b0d857fe4cbd": {
+            "text": "Je\u015bli u\u017cywasz pami\u0119ci podr\u0119cznej, skonfiguruj j\u0105 tak, aby pomin\u0105\u0107 pami\u0119\u0107 podr\u0119czn\u0105 gdy obecna jest zmienna GET \"comment_success\"."
+        },
+        "e2ee73419f58949b9fdfb97f23a8a6ac": {
+            "text": "kod PHP do wy\u015bwietlania komentarzy w witrynie"
+        },
+        "2b961475041b8a085eae4ed1a597f76a": {
+            "text": "Kod CSS dla komentarzy w witrynie"
+        },
+        "4a08db526853d7aa35400a97c968e60d": {
+            "text": "kod JS dla komentarzy w witrynie"
+        },
+        "cf5bd74bd24d341a63cdcf36fba20dbb": {
+            "text": "Ocenia\u0142e\u015b(a\u015b) ju\u017c ten komentarz"
+        },
+        "511c09f7e853bcc074d29ba36a8da7f7": {
+            "text": "B\u0142\u0105d zapisywania oceny"
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Komentarze"
+        },
+        "a27c92ebebda4931039636893b5c716d": {
+            "text": "Pole kt\u00f3re przechowuje komentarze dla pojedynczej strony"
+        },
+        "1f2f44c370f66e4d06d25042e93e39c1": {
+            "text": "Wy\u0142\u0105czone"
+        },
+        "e9f6051c655ca4a6773af3f2d8458815": {
+            "text": "wi\u0119cej informacji o ocenach na stronie Gravatar - https:\/\/en.gravatar.com\/site\/implement\/images\/"
+        }
+    }
+}

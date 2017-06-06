@@ -1,0 +1,18 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeOptions\\FieldtypeOptions.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--fieldtypeoptions-module",
+    "translations": {
+        "69b3176dd209b9a908446d55ceb0cfd2": {
+            "text": "Automatyczny wyb\u00f3r nie zosta\u0142 dokonany, gdy\u017c warto\u015b\u0107 nie zawsze jest wymagana. Prosz\u0119 poprawi\u0107 to w konfiguracji pola."
+        },
+        "aee44a384657fe502a5b91c94fbc7713": {
+            "text": "Import opcji nie zosta\u0142 jeszcze zaimplementowany, jednak\u017ce opcje mog\u0105 zosta\u0107 przeniesione mi\u0119dzy stronami poprzez kopij\/wklej bezpo\u015brednio z ekranu edycji pola."
+        },
+        "33568d5ff03072672cce95681df20964": {
+            "text": "Lista wyboru opcji"
+        },
+        "440494bea619acd17c0a19326d9030fd": {
+            "text": "Pole listy kt\u00f3re przechowuje pojedyncze lub wielokrotne opcje wyboru (single\/multiple select field)."
+        }
+    }
+}

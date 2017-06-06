@@ -1,0 +1,18 @@
+{
+    "file": "wire\\core\\Fieldtype.php",
+    "textdomain": "wire--core--fieldtype-php",
+    "translations": {
+        "a528ac2d2f326703f458dec14cba03e5": {
+            "text": "Automatycznie do\u0142\u0105cz"
+        },
+        "2af316156c9ea64d6d56bfe221486efd": {
+            "text": "Je\u015bli zaznaczono, dane tego pola zostan\u0105 za\u0142adowane na ka\u017cdej stronie, bez wzgl\u0119du na to czy pole jest u\u017cywane lub nie. Je\u015bli nie zaznaczono, dane pola zostan\u0105 za\u0142adowane \"na \u017c\u0105danie\", tylko gdy pole b\u0119dzie wykorzystywane."
+        },
+        "4cc6684df7b4a92b1dec6fce3264fac8": {
+            "text": "Globlanie"
+        },
+        "ad1bc8634063998074151ecfaaf2e6a1": {
+            "text": "Je\u015bli zaznaczono, WSZYSTKIE strony b\u0119d\u0105 musia\u0142y posiada\u0107 to pole. Zostanie ono automatycznie dodane do wszystkich grup p\u00f3l\/szablon\u00f3w kt\u00f3re go nie posiadaj\u0105. Nie oznacza to, \u017ce zawarto\u015b\u0107 pola (wype\u0142nienie pola) jest wymagane, b\u0119dzie po prostu dodane do wszystkich stron."
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeComments\\InputfieldCommentsAdmin.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--inputfieldcommentsadmin-module",
+    "translations": {
+        "88559a0cfd8250c9d65970cc145c92d4": {
+            "text": "Off"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Usu\u0144"
+        },
+        "97154f7c3d4195084cbcb58bc5357c7a": {
+            "text": "Komentarz #%d (%s)"
+        },
+        "077821dbbc7b778e3fccdb71e1f8cda3": {
+            "text": "Wszystkie nowe komentarze"
+        },
+        "a2c889314eecccf6704dd2427f12b478": {
+            "text": "Tylko odpowiedzi"
+        },
+        "5150f466372999feb1c31b868e087dfc": {
+            "text": "Spam jest automatycznie usuwany po up\u0142ywie czasu okre\u015blonego w konfiguracji pola."
+        },
+        "193a4762fa2301d6e5d9fac2730dbe71": {
+            "text": "Ten komentarz oczekuje na akceptacj\u0119 lub usuni\u0119cie."
+        },
+        "95742f3daaebcf075ad53961b11fc0dd": {
+            "text": "Komentarz #%1$d napisay %2$s przez %3$s"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Status"
+        },
+        "84c4dfc8fccf9350a9610e366ae769a5": {
+            "text": "Odpowiedz do"
+        },
+        "6f9e04c43332fd4945f2c933c8eea611": {
+            "text": "Cytuj"
+        },
+        "082e55a73f10496681c84231dc1c88f7": {
+            "text": "E-mail"
+        },
+        "15bbb9d0bbf25e8d2978de1168c749dc": {
+            "text": "Witryna"
+        },
+        "d37c550d781bfb93b0088a2470598bcf": {
+            "text": "Gwiazdki"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Tekst"
+        },
+        "8922ee2d287d6d1cad3fd33f6341f512": {
+            "text": "Powiadomienia email:"
+        },
+        "ece9015e4facb7c419ce80abecfd6852": {
+            "text": "Nie ma \u017cadnych element\u00f3w do wy\u015bwietlenia."
+        },
+        "dea78eecface40ce1489d1acdc31eae4": {
+            "text": "Usuni\u0119to komentarz #%d"
+        },
+        "58b6f822b062991647cf2e70b0140352": {
+            "text": "Aktualizacja %s dla komentarza #%d"
+        },
+        "4da50726e74180c03ab1cfe637bb590b": {
+            "text": "Komentarze panel administracyjny"
+        },
+        "9e1775dd11710f1858dc1f9c21174ec8": {
+            "text": "Zapewnia interfejs administracyjny do zarz\u0105dzania komentarzami"
+        },
+        "a12b241da69948907eecb3786cedc5a3": {
+            "text": "Zatwierdzony"
+        },
+        "af4a8ef24b938b7857109b49e38c8969": {
+            "text": "Oczekuje"
+        },
+        "39ef1e97d0b7fa0510cd93cd5f2cf99b": {
+            "text": "Spam"
+        }
+    }
+}

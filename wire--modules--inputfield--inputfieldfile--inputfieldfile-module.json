@@ -1,0 +1,87 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldFile\\InputfieldFile.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfile--inputfieldfile-module",
+    "translations": {
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Opis"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Tagi"
+        },
+        "5e176961ecb3a67e9c653e60de703fdb": {
+            "text": "Przeci\u0105gnij i upu\u015b\u0107 pliki tutaj"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Usu\u0144"
+        },
+        "e635032a5f71d809146d3872389f5b0c": {
+            "text": "Wybierz plik"
+        },
+        "96baacdc276036c2b8fb65264750a3b4": {
+            "text": "Wybierz pliki"
+        },
+        "004a10c5de4a2eea5fc8f15e97a8030c": {
+            "text": "\u017badne rozszerzenia plik\u00f3w nie zosta\u0142y zdefiniowane dla tego pola."
+        },
+        "e8b3e55c0f4d6cce7d8ee14772ec33e2": {
+            "text": "Niedozowolny plik"
+        },
+        "1a6d5576222d1a16320dda443f43b1fa": {
+            "text": "Dodano plik:"
+        },
+        "5d28dcd09c5073bb0e454aee16d9b349": {
+            "text": "Odrzucono plik %s poniewa\u017c istnieje on ju\u017c w systemie i jest przypisany do innego pola."
+        },
+        "a2c68b109a7c8855b92e56e64bdf4c01": {
+            "text": "Usuni\u0119to plik:"
+        },
+        "b15dd49c58da836d9802f6e9e063a998": {
+            "text": "Zmieniono nazw\u0119 pliku \"%1$s\" na \"%2$s\""
+        },
+        "d7c8c85bf79bbe1b7188497c32c3b0ca": {
+            "text": "Niepowodzenie"
+        },
+        "cde86841445e53259c5beb7b61aaf389": {
+            "text": "destinationPath jest pusta lub nie istnieje"
+        },
+        "53fbb1f98e15224437792f2ea80847a2": {
+            "text": "destinationPath nie jest zapisywalna"
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "Osi\u0105gni\u0119to limit przesy\u0142ania - Max file"
+        },
+        "bed8a5795ff53ecfd7b9dab0face84b6": {
+            "text": "Rozpakowa\u0107 archiwmu ZIP?"
+        },
+        "fab7f7d0de48baa58342b39e975c9aab": {
+            "text": "Je\u015bli zaznaczono, archiwum ZIP zostanie rozpakowane i wszystkie dozwolone pliki zostan\u0105 przes\u0142ane (je\u015bli s\u0105 obs\u0142ugiwane przez \u015brodowisko serwera). Max files musi by\u0107 ustawione na 0 (brak maksimum) aby opcja przesy\u0142ania archiw\u00f3w ZIP dzia\u0142a poprawnie."
+        },
+        "4839f7d2588943e6763c3c91cbd8d7f2": {
+            "text": "Zast\u0105pi\u0107 instniej\u0105ce pliki?"
+        },
+        "35a96944722fb825db8bf04ab791c209": {
+            "text": "Je\u015bli zaznaczono, wszystkie przes\u0142ane pliki o takiej samej nazwie jak pliki istniej\u0105ce zostan\u0105 zast\u0105pione (opisy oraz tagi pozostan\u0105 bez zmian). Je\u015bli nie zaznaczono, nazwy przes\u0142anych plik\u00f3w zostan\u0105 zmienione na unikalne."
+        },
+        "2713d4f20fb5e7947fb2bb844d57322d": {
+            "text": "Prosz\u0119 zauwa\u017cy\u0107, kiedy ta opcja jest w\u0142\u0105czona, pliki przes\u0142ane przy pomocy AJAX s\u0105 zapisywane natychmiast po uko\u0144czeniu przes\u0142aniu, nie po klikni\u0119ciu przycisku \"zapisz\". Mo\u017cesz pozostawi\u0107 t\u0105 opcj\u0119 nie zaznaczon\u0105 je\u015bli Tw\u00f3j projekt wymaga takiego dzia\u0142ania."
+        },
+        "91015caeadb6afed86544257b5d796f5": {
+            "text": "Ilo\u015b\u0107 wierszy dla pola opisu?"
+        },
+        "27eebd9281cfaa6f4173d02986c9ad71": {
+            "text": "Podaj liczb\u0119 wierszy dost\u0119pn\u0105 dla opsiu pola, lub wprowad\u017a 0 by nie u\u017cywa\u0107 opisu pola."
+        },
+        "1aac69c83eb57d215a710401956430f1": {
+            "text": "Wy\u0142\u0105czy\u0107 wieloj\u0119zyczne opisy?"
+        },
+        "9c0e34e99b5acfb622d682dabefa5578": {
+            "text": "Domy\u015blnie opisy s\u0105 wieloj\u0119zyczne je\u015bli zainstalowana jest opcja obs\u0142ugi j\u0119zyk\u00f3w. Zaznacz aby wy\u0142\u0105czy\u0107 wieloj\u0119zyczne opisy."
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Pliki (files)"
+        },
+        "fbf221ff984c277d7fea5d290e817767": {
+            "text": "Jeden lub wi\u0119cej plik\u00f3w do przes\u0142ania (z mo\u017cliwo\u015bci\u0105 sortowania)"
+        }
+    }
+}

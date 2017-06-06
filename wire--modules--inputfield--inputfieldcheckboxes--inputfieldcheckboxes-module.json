@@ -1,0 +1,18 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldCheckboxes\\InputfieldCheckboxes.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
+    "translations": {
+        "d3f3236393ce7a48198cde99acaed365": {
+            "text": "Ilo\u015b\u0107 kolumn z polami wyboru (checkboxes)"
+        },
+        "50bad9e0658dd79a35545ebcd18f92ac": {
+            "text": "Je\u015bli chcesz aby pola wyboru zosta\u0142y wy\u015bwietlone w kolumnach (zamiast jedno pod drugim) podaj liczb\u0119 kolumn (do 10). Aby wy\u015bwietli\u0107 pola wyboru w linii podaj 1."
+        },
+        "c425f296c6b905c91fb3f6da1a1702b6": {
+            "text": "Pola wyboru (checkboxes)"
+        },
+        "632ae34b804c1914c3a51af327a3379d": {
+            "text": "Pola wielokrotnego wyboru (checkboxes)"
+        }
+    }
+}

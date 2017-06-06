@@ -1,0 +1,45 @@
+{
+    "file": "wire\\core\\FieldSelectorInfo.php",
+    "textdomain": "wire--core--fieldselectorinfo-php",
+    "translations": {
+        "0ccb67e7eaae09d9e4078d161eeca100": {
+            "text": "R\u00f3wne"
+        },
+        "fb83c9b66919b4a757a43a807b6af2cf": {
+            "text": "Nier\u00f3wne"
+        },
+        "7288454fa442d48bc741c5cbadc2621b": {
+            "text": "Wi\u0119cej ni\u017c"
+        },
+        "45ed1ce04bcf6003d4702422e1221c85": {
+            "text": "Mniej ni\u017c"
+        },
+        "948f7ffb9d1e26622df83711e20e2fb2": {
+            "text": "Wi\u0119cej niz lub r\u00f3wne"
+        },
+        "189ce8ec24447eef9869d18043c9e303": {
+            "text": "Mniej ni\u017c lub r\u00f3wne"
+        },
+        "7842f2dabc6c53dca4319818c88ebeb9": {
+            "text": "Zawieraj\u0105ce tekst"
+        },
+        "8354008c16032b35e36589957a3bd65f": {
+            "text": "Zawieraj\u0105ce fraz\u0119"
+        },
+        "7df149c48f0508977c06be79341a40ed": {
+            "text": "Zawieraj\u0105ce s\u0142owa"
+        },
+        "062e49c0f9af31da4f7314124191d9ef": {
+            "text": "Rozpoczynaj\u0105ce si\u0119 od"
+        },
+        "3ad33d3cec01f7125e3cd0575cada7ef": {
+            "text": "Ko\u0144cz\u0105ce si\u0119 na"
+        },
+        "78c143802119a85c9774c0459240085d": {
+            "text": "S\u0105 psute"
+        },
+        "cbe0970a192d6df9999f4469f0854984": {
+            "text": "Nie s\u0105 puste"
+        }
+    }
+}

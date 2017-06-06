@@ -1,0 +1,117 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldImage\\InputfieldImage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--inputfieldimage-module",
+    "translations": {
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Przytnij (kadrowanie)"
+        },
+        "a4374740662193b987e63eb5b727c994": {
+            "text": "Wariacje"
+        },
+        "f4843c1c797abf1a256c8802b6cd9f51": {
+            "text": "Wymiary"
+        },
+        "b18c29b8470190a02813415a04a2191f": {
+            "text": "Rozmiar pliku"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Edycja"
+        },
+        "f6462f94fa453f425245109b06f64d22": {
+            "text": "Przeci\u0105gnij i upu\u015b\u0107 nowe obrazy powy\u017cej"
+        },
+        "382b0f5185773fa0f67a8ed8056c7759": {
+            "text": "="
+        },
+        "f4795ac01103c68bc75e637665b7bd12": {
+            "text": "To pole obraz\u00f3w posiada niezapisane zmiany, kt\u00f3re mog\u0105 zosta\u0107 utracone po wykonaniu tej akcji. Prosz\u0119 zapisa\u0107 przed kadrowaniem, lub prosz\u0119 klikn\u0105\u0107 przycisk dwukrotnie aby kontynuowa\u0107 mimo to."
+        },
+        "d6a369d29506d3151a76c33791fc80b6": {
+            "text": "dodaj nowy obraz aby zast\u0105pi\u0107"
+        },
+        "f0b3dbf5ce5950ff0ecc7dbea5f8a874": {
+            "text": "Istniej\u0105 starsze\/gorszej jako\u015bci miniatury obraz\u00f3w, zaznacz to pole aby wygenerowa\u0107 nowe."
+        },
+        "126b21ce46c39d12c24058791a236777": {
+            "text": "Niew\u0142a\u015bciwy obraz"
+        },
+        "41cfe40655c4b51507eff9d22bd777f2": {
+            "text": "Obraz %s nie spe\u0142nia minimalnego wymaganego rozmiaru"
+        },
+        "5e244fccb2d4cda18bebf756dacce94c": {
+            "text": "Obraz %s przekracza dopuszczalny maksymalny rozmiar"
+        },
+        "7e4cc6c00140cefcecd178df1836fbba": {
+            "text": "Rozmiar obrazu zosta\u0142 dopasowany do maksymalnych dopuszczalnych wymiar\u00f3w"
+        },
+        "96733a97d96b04ddd6e06cdf3147df1e": {
+            "text": "Nie-edytowalny."
+        },
+        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
+            "text": "Domy\u015blna siatka obraz\u00f3w"
+        },
+        "c53c009277b900e7292c4b49f07ddaec": {
+            "text": "W panelu administracyjnym, lista obraz\u00f3w zostanie wy\u015bwietlona domy\u015blnie w tym trybie. U\u017cytkownik mo\u017ce go zmieni\u0107 w dowolnym momencie poprzez klikni\u0119cie ikony w g\u00f3rnym prawym rogu pola."
+        },
+        "e6c7b90087278c53b5361182358a2d92": {
+            "text": "Je\u015bli to pole obraz\u00f3w by\u0142o w\u0142a\u015bnie u\u017cywane, nale\u017cy usun\u0105\u0107 pliki cookies w przegl\u0105darce (usun\u0105\u0107 pami\u0119\u0107 podr\u0119czn\u0105) aby zobaczy\u0107 zmiany wprowadzone w ustawieniach."
+        },
+        "a188c29fb8020eee47113073e366f78e": {
+            "text": "siatka obraz\u00f3w (kwadratowa)"
+        },
+        "06d5ddb736061086ad90f364eca1c56d": {
+            "text": "siatka obraz\u00f3w (proporcjonlane obrazy)"
+        },
+        "fa996d5ac4351e7e603f3ab1b9f77afe": {
+            "text": "Pionowa lista"
+        },
+        "7f0785e56befa113ce8fca2316a12a2e": {
+            "text": "Maksymalne rozmiary obrazu"
+        },
+        "ef375d406da59811c42dc0f5a245dca3": {
+            "text": "Opcjonalnie - podaj maksymaln\u0105 dopuszczaln\u0105 szeroko\u015b\u0107 i\/lub wysoko\u015b\u0107 przesy\u0142anych obraz\u00f3w. Je\u015bli okre\u015blono, rozmiar obraz\u00f3w zostanie automatycznie zmieniony w przypadku przekroczenia maksymalnej dopuszczalnej szeroko\u015bci lub wysoko\u015bci. Zmiana rozmiaru ma miejsce w trakcie przesy\u0142ania obraz\u00f3w i nie ma wp\u0142ywu na obrazy przes\u0142ane ju\u017c do systemu, lub dodane poprzez API systemu."
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "Podaj warto\u015b\u0107 w pikselach lub pozostaw puste aby nie stosowa\u0107 limitu."
+        },
+        "e69ccb31941d2fd7923c6b0c01957db3": {
+            "text": "Maksymalna szeroko\u015b\u0107 dla przesy\u0142anych obraz\u00f3w"
+        },
+        "c58e466902d0ff945d0677114e41682b": {
+            "text": "Maksymalna wysoko\u015b\u0107 dla przesy\u0142anych obraz\u00f3w"
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "Odrzuci\u0107 obrazy przekraczaj\u0105ce dopuszczalny rozmiar?"
+        },
+        "e0af28e6bea01f8a983ebd94ec3b7468": {
+            "text": "Je\u015bli zaznaczono, system odrzuci wszystkie obrazy kt\u00f3re przekrocz\u0105 dopuszczaln\u0105 szeroko\u015b\u0107\/wysoko\u015b\u0107, zamiast zmieni\u0107 ich rozmiar."
+        },
+        "6760d392e57247a882e160cdb8b3680c": {
+            "text": "Minimalne rozmiary obrazu"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "Opcjonalnie - podaj minimaln\u0105 dopuszczaln\u0105 szeroko\u015b\u0107 i\/lub wysoko\u015b\u0107 przesy\u0142anych obraz\u00f3w. Je\u015bli okre\u015blono, obrazy kt\u00f3re nie spe\u0142niaj\u0105 minimalnych wymaga\u0144 zostan\u0105 odrzucone."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "Minimalna szeroko\u015b\u0107 przesy\u0142anego obrazu"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "Minimalna wysoko\u015b\u0107 przesy\u0142anego obrazu"
+        },
+        "a39e1de5e7b995d90322ab7d047428bc": {
+            "text": "Zamie\u0144 minimum\/maksimum dla obraz\u00f3w portretowych (pionowych)?"
+        },
+        "7f3d934927a1c106f5191c01b36c7766": {
+            "text": "Je\u015bli zaznaczono, warto\u015bci minimalnej i maksymalnej wysoko\u015bci\/szeroko\u015bci zostan\u0105 zamienione dla obraz\u00f3w portretowych (pionowych) aby uwzgl\u0119dni\u0107 inny wsp\u00f3\u0142czynnik kszta\u0142tu."
+        },
+        "36400352f439e8894099e79dc33fada1": {
+            "text": "Stw\u00f3rz ponownie wszystkie starsze miniatury"
+        },
+        "fff0d600f8a0b5e19e88bfb821dd1157": {
+            "text": "Obrazy (images)"
+        },
+        "8a29508fcba587b8af0cfb36c544ee0d": {
+            "text": "Przesy\u0142anie jednego lub wi\u0119cej obraz\u00f3w (z mo\u017cliwo\u015bci\u0105 sortowania)"
+        }
+    }
+}

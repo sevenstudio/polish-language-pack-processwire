@@ -1,0 +1,18 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldHidden.module",
+    "textdomain": "wire--modules--inputfield--inputfieldhidden-module",
+    "translations": {
+        "689202409e48743b914713f96d93947c": {
+            "text": "Warto\u015b\u0107"
+        },
+        "1758cb96bcb06c04bd244697d51ed7dd": {
+            "text": "Warto\u015b\u0107 wykorzystana w tym urkrytym polu."
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Ukryte"
+        },
+        "82a84988fe9847b174ab13ccd822f53c": {
+            "text": "Ukryta warto\u015b\u0107 w formularzu"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypePage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepage-module",
+    "translations": {
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Licznik"
+        },
+        "7b438db8547ac1c9ab6c7ba6cb1532db": {
+            "text": "Wiele stron (PageArray)"
+        },
+        "a24fcc695edbc57c60c768a732d2f30d": {
+            "text": "Pojedyncza strona (Strona) lub boolean false gdy nie wybrano."
+        },
+        "94a53712b9a34f922a776fc5aa68d31f": {
+            "text": "Pojedyncza strona (Strona) lub pusta strona (NullPage) gdy nie wybrano."
+        },
+        "b163d440906ff7e0a02262fb1406e123": {
+            "text": "Typ warto\u015bci pola - Strona"
+        },
+        "e28f86b62065207ceeb0b5057eb98537": {
+            "text": "Je\u015bli Twoje pole b\u0119dzie zawiera\u0107 wiele stron, wtedy powinna zosta\u0107 wybrana pierwsza opcja (PageArray). Je\u015bli twoje pole ma zawiera\u0107 tylko jedn\u0105 stron\u0119, wtedy wybierz jedn\u0105 z opcji 'pojedynczej strony.' (Je\u015bli nie wiesz kt\u00f3r\u0105 opcj\u0119 wybra\u0107, wybierz ostatni\u0105 opcj\u0119)"
+        },
+        "be288f506d4d5100260d915b396a83be": {
+            "text": "Przyk\u0142ady wykorzystania API"
+        },
+        "c563103ae743ad1643e5f3e49a2c89d5": {
+            "text": "Takie samo jak powy\u017cej z alternatywn\u0105 sk\u0142adni\u0105"
+        },
+        "0a7cd2620545065d49a8ca58f5fc0b28": {
+            "text": "Wi\u0119cej na temat %s tej metody."
+        },
+        "7d5f7f76b51ac880e91da28dbc52df35": {
+            "text": "Zezwoli\u0107 na niepublikowane strony?"
+        },
+        "58b4f6dae2009a3d22a395a94de85360": {
+            "text": "Gdy zaznaczono, nieopublikowane strony s\u0105 dozwolone jako warto\u015b\u0107 pola. Nieopublikowane strony nie b\u0119d\u0105 wy\u015bwietlane w witrynie, z wyj\u0105tkiem dla os\u00f3b kt\u00f3re posiadaj\u0105 uprawnienia do edycji tych\u017ce stron."
+        },
+        "393e717c8215abdbe581b21180abfa2b": {
+            "text": "Nie znaleziono strony"
+        },
+        "34a56e6d474c258bb9f4553aae0c7b81": {
+            "text": "Nie znaleziono szablonu"
+        },
+        "2d6565614947b2a6daba1a06515124da": {
+            "text": "Znajd\u017a i usu\u0144 czytelne odno\u015bniki do stron"
+        },
+        "f7e35a334f1501cc0365458563f90cf5": {
+            "text": "Opcja ta pozwala usun\u0105\u0107 b\u0142\u0105d zwi\u0105zany ze starszymi wersjami ProcessWire, kt\u00f3re mog\u0105 pozostawi\u0107 odno\u015bniki do usuni\u0119tych stron. Je\u015bli otrzymujesz b\u0142\u0119dne wyniki wyszukiwania stron (zw\u0142aszcza w trakcie korzystania z selektora pageref.count), wtedy mo\u017cesz skorzysta\u0107 z tej opcji."
+        },
+        "35a326c72a6584f3c7d70109b5cd45f1": {
+            "text": "Uwaga: W celu unikni\u0119cia ewnetualnych problem\u00f3w nale\u017cy wykona\u0107 kopi\u0119 zapsow\u0105 bazy danych przed uruchomieniem!"
+        },
+        "081c14de091c8761b82f930fd59c8f16": {
+            "text": "Przeszukiwanie i czyszczenie ..."
+        }
+    }
+}

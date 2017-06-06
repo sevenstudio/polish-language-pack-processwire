@@ -1,0 +1,30 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldPageListSelect\\InputfieldPageListSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagelistselect--inputfieldpagelistselect-module",
+    "translations": {
+        "f4ec5f57bd4d31b803312d873be40da9": {
+            "text": "Zmie\u0144"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Anuluj"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Wybierz"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Usu\u0144 wybrane"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Wi\u0119cej"
+        },
+        "417c313c31381894998d5fa72eac82c8": {
+            "text": "Nie uda\u0142o si\u0119 wy\u015bwietli\u0107 tego pola, ze wzgl\u0119du na brak podanej strony rodzica w ustawieniach pola."
+        },
+        "9f3f3426fca77479498742b32c7d5d31": {
+            "text": "Lista wyboru strony (Page List Select)"
+        },
+        "a140a80c76193cb5a6bd75c2f9a13393": {
+            "text": "Wyb\u00f3r pojedynczej strony z listy stron ProcessWire"
+        }
+    }
+}

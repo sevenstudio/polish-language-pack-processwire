@@ -1,0 +1,81 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypePageTable.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepagetable-module",
+    "translations": {
+        "56d29e2358c489ca2ba085412d22b543": {
+            "text": "Wybierz jeden lub wi\u0119cej szablon\u00f3w dla element\u00f3w"
+        },
+        "23eb7651d596fbeec11e64a6c67925d9": {
+            "text": "Szablony wykorzystywane przez strony, zarz\u0105dzane przez to pole. Mo\u017cesz utworzy\u0107 indywidualny szablon, specyficzny dla potrzeb tego pola."
+        },
+        "cc338cc1f9035c657183288e8a8679c4": {
+            "text": "Po wybraniu szablonu prosz\u0119 klikn\u0105c Zapisz,  ewnetualne dodatkowe opcje konfiguracji pojawi\u0105 si\u0119 w zak\u0142adce 'Pole'."
+        },
+        "280bdbf9e514764e2b558c5a45b03ba3": {
+            "text": "Wybierz element nadrz\u0119dny (rodzic)"
+        },
+        "0aa782b2995bb478abdc16ebbb4a3e12": {
+            "text": "Wszystkie elementy dodane z tego pola b\u0119d\u0105 przechowywanie jako element podrz\u0119dny rodzica wybranego tutaj."
+        },
+        "5243227b5f4a58e7cc1be6b30f4bbce8": {
+            "text": "Je\u015bli element nadrz\u0119dny nie zostanie wybrany, wtedy wszystkie elementy b\u0119d\u0105 elementami podrz\u0119dnymi edytowanej strony."
+        },
+        "fcb2facea33821286bfd4cad3f7ac76d": {
+            "text": "Usun\u0105\u0107 elementy gdy strona zostanie usuni\u0119ta?"
+        },
+        "08f53f44f5a22058682ec7c305c2f37b": {
+            "text": "Je\u015bli zaznaczono, wszystkie elementy strony zostan\u0105 automatycznie usuni\u0119te wraz ze stron\u0105. Je\u015bli nie zaznaczono, elementy b\u0119d\u0105 dost\u0119pne pod elementem nadrz\u0119dnym (rodzicem) wybranym powy\u017cej."
+        },
+        "276fe80c8306b8f1211c933c5b0789dd": {
+            "text": "Ta opcja ma zastosowanie jedynie je\u015bli zostanie wybrany element nadrz\u0119dny (rodzic) powy\u017cej."
+        },
+        "7a25f2fb1df8b415ae376a1bc744ddc1": {
+            "text": "Zachowania strony"
+        },
+        "f80a4ad87fee7c9fdc19b7769495fdb5": {
+            "text": "Nic"
+        },
+        "4cfd1fcdeecdd1e6acb46393d787316c": {
+            "text": "Przenie\u015b je do kosza"
+        },
+        "6ac9a034dc3a8b4cf5a3902d2b7755d4": {
+            "text": "Usu\u0144 je"
+        },
+        "eb2f5e1930872f2aed78a2ffca4af260": {
+            "text": "Wy\u0142\u0105cz je z publikacji"
+        },
+        "8840e48a3c2b71738f5a52d5ae1e084f": {
+            "text": "Ukryj je"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Usu\u0144"
+        },
+        "88ab1471027561ff02fc8cfbd073ebc2": {
+            "text": "Co powinno si\u0119 sta\u0107 z elementami \"%s\" gdy zawieraj\u0105ce je strona zostanie ca\u0142kowicie usuni\u0119ta?"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Kosz"
+        },
+        "bdea0eb389c61e57930d661c74b21423": {
+            "text": "Co powinno si\u0119 sta\u0107 z elementami \"%s\" gdy zawieraj\u0105ce je strona zostanie przeniesiona do kosza?"
+        },
+        "181e9a13059454fb2212f1bf10f394ac": {
+            "text": "Wy\u0142\u0105cz z publikacji"
+        },
+        "22b094a7d09fdb1839dbfe384a0f4fac": {
+            "text": "Co powinno si\u0119 sta\u0107 z elementami \"%s\" gdy zawieraj\u0105ce je strona zostanie wy\u0142\u0105czona z publikacji?"
+        },
+        "113931420c7a2560f63fcd9af198df3f": {
+            "text": "Pola Sortowania"
+        },
+        "b72b1e7470d1bbec8cb9ae2eb8843131": {
+            "text": "Wybierz pole wed\u0142ug kt\u00f3rego powinna zosta\u0107 posortowana tabela. W przypadku sortowania malej\u0105cego poprzed\u017a nazw\u0119 pola z \u0142\u0105cznikiem, tj. \"-date\", a nie \"date\"."
+        },
+        "bad3d943c1f7443d2205de6edd995d6e": {
+            "text": "Mo\u017cesz okre\u015bli\u0107 wiele p\u00f3l sortowania, oddzielaj\u0105c je przecinkiem, tj. \"Last_name, first_name, -birthday\"."
+        },
+        "8198f788c0d53d819605c0dcdfdfe413": {
+            "text": "Pozostaw puste, aby u\u017cy\u0107 srtowanie poprzez \"przeci\u0105gnij i pupu\u015b\u0107\" (domy\u015blne)."
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "wire\\core\\ModulesDuplicates.php",
+    "textdomain": "wire--core--modulesduplicates-php",
+    "translations": {
+        "58a6d03e30331d26f3ab31c392c104ab": {
+            "text": "Istnieje wiele kopii modu\u0142u \"%s\" w systemie plik\u00f3w"
+        },
+        "47edefbd0afb7d34d9a1ea2e99a18d1b": {
+            "text": "Prosz\u0119 zmieni\u0107 ustawienia modu\u0142u aby wskaza\u0107 ProcessWire kt\u00f3ry powinien zosta\u0107 u\u017cyty:"
+        }
+    }
+}

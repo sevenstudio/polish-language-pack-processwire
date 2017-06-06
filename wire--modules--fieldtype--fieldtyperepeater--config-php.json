@@ -1,0 +1,159 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeRepeater\\config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--config-php",
+    "translations": {
+        "cb2d417d536ac6b6d8668d272b28ca47": {
+            "text": "Pole Repeater \"%s\" posiada jedynie opcj\u0119 \"wymagane tylko je\u015bli\" i nie jest ono obs\u0142ugiwane wewn\u0105trz Repeater-a."
+        },
+        "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
+            "text": "Prosz\u0119 doda\u0107 wybrane pola do tego Repeater-a w zak\u0142adce \"detale\"."
+        },
+        "f41ae5ce37aeed3613288bb8c0cc3489": {
+            "text": "Okre\u015bl pola wykorzystywane przez ten repeater. Mo\u017cesz tak\u017ce ustawi\u0107 kolejno\u015b\u0107 wybranych p\u00f3l poprzez \"przeci\u0105gnij i upu\u015b\u0107\"."
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Dodaj pole"
+        },
+        "ebfc6d0dd40c27dd753e7e6dfbf18dd2": {
+            "text": "Etykieta elementu repeater-a"
+        },
+        "66a81e26ad18214b582553f4d33030f2": {
+            "text": "Podaj nazw\u0119 pola do wykorzystania jako etykiety na stronie edycji, lub pozostaw puste aby zosta\u0142y wygenreowane automatyczne."
+        },
+        "699a4d80b29a2b87e8bea7946afebe8e": {
+            "text": "Aby u\u017cy\u0107 wielu p\u00f3l, lub aby okre\u015bli\u0107 w\u0142asny format, otocz nazwy p\u00f3l nawiasami - {tytu\u0142}."
+        },
+        "c5e90fa5edbe00c619ca4d69c3692627": {
+            "text": "Aby doda\u0107 numer indeksu do ka\u017cdej z etykiet, dodaj \"#n\" do formatu etykiet."
+        },
+        "4c95bcccf333bef2208b02fbd212af55": {
+            "text": "Przyk\u0142ad: #n: {tytu\u0142}"
+        },
+        "d347b63bb97431df68506ea3059be495": {
+            "text": "Etykieta dla nowych element\u00f3w"
+        },
+        "db9d65ca0ad208926207fbf99636b1f4": {
+            "text": "Podaj etykiet\u0119 kt\u00f3ra zostanie wykorzystana dla przycisku \"Dodaj nowy element\", lub pozostaw puste by u\u017cy\u0107 domy\u015blnej nazwy."
+        },
+        "ef9eb3b1c72a3d00e09495aa7ecf195a": {
+            "text": "Widoczno\u015b\u0107 repeater-a w edytorze"
+        },
+        "e420623b25fa348e2155e3e2bdbf5620": {
+            "text": "Elementy repeatar-a mog\u0105 by\u0107 otwarte lub zwini\u0119te (wymagane klikni\u0119cie by rozwin\u0105\u0107). Zwijany tryb jest bardziej przyjazny dla sortowania i pozwala zobaczy\u0107 wszystkie elementy na raz."
+        },
+        "c2d450307945339defec74620dd295d2": {
+            "text": "Nowe elementy otwarte, istniej\u0105ce elementy zwini\u0119te (zalecane w wi\u0119kszo\u015bci przypadk\u00f3w)"
+        },
+        "0905199ed34fceff86e31adf81cbc702": {
+            "text": "Elementy zawsze otwarte (wy\u0142\u0105cza dynamiczne \u0142adowanie istniej\u0105cych element\u00f3w)"
+        },
+        "83a9d92f04fe2ce7f34ad4e7070c61aa": {
+            "text": "Elementy zawsze zwini\u0119te"
+        },
+        "1c1fc75d282666eeffc288a4d82594ba": {
+            "text": "Dynamiczne \u0142adowanie repeater-a w edytorze (z u\u017cyciem AJAX)"
+        },
+        "78385cca5a362b333c60753b2fcf6e40": {
+            "text": "Kt\u00f3re elementy powinny zosta\u0107 dynamicznie za\u0142adowane (AJAX) na stronie edycji? Je\u015bli repeater wykorzystuje pola, kt\u00f3re nie dzia\u0142aj\u0105 z dynamicznym \u0142adowaniem, mo\u017ce zaistnie\u0107 konieczno\u015b\u0107 wy\u0142\u0105czenia tej funkcji."
+        },
+        "18e57decad6ecfd57b1231426deb7f2d": {
+            "text": "Istniej\u0105ce i nowe elementy (rekomendowane, zw\u0142aszcza dla repeater-\u00f3w kt\u00f3re mog\u0105 zawiera\u0107 wiele element\u00f3w)"
+        },
+        "e8b8b3345ab0076aaef6c21cd7ca5b79": {
+            "text": "Tylko nowe elementy (dobre rozwi\u0105zanie dla repeater-\u00f3w zawieraj\u0105cych tylko kilka element\u00f3w)"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Wy\u0142\u0105czone"
+        },
+        "2db718f06a27de2a35a889b205ef0bb4": {
+            "text": "Zapami\u0119ta\u0107 kt\u00f3re repeater-y s\u0105 otwarte?"
+        },
+        "031e3292fe279734b454896226066dfc": {
+            "text": "Je\u015bli zaznaczone, otwarte repeater-y pozostan\u0105 otwarte po zapisanie lub ponownym za\u0142oadowaniu strony edycji (dop\u00f3ki u\u017cytkownik ich nie zamknie)"
+        },
+        "fc47b04d62211ce6992143d1e92e2fbe": {
+            "text": "Wykorzysta\u0107 tryb akordeon?"
+        },
+        "d608f61f5c7a0e2b84a3ae252a596a48": {
+            "text": "Je\u015bli zaznaczono, tylko jeden repeater pozostanie otwarty w tym samym czase."
+        },
+        "90ed744894b90ce9c561d6a428cad4ee": {
+            "text": "Maksymalna ilo\u015b\u0107 element\u00f3w"
+        },
+        "528f529d4617eb805a332c782f8666fe": {
+            "text": "Je\u015bli chcesz ograniczy\u0107 ilo\u015b\u0107 dozwolonych element\u00f3w, podaj maksymaln\u0105 ilo\u015b\u0107 tutak (0=brak limitu)."
+        },
+        "f504e6acf8424e003e90434b8f4ada08": {
+            "text": "Minimalna ilo\u015b\u0107 element\u00f3w"
+        },
+        "d167f14d9682362265c133aca323b335": {
+            "text": "Tyle element\u00f3w pozostanie otwarte i gotowe do edycji (0=brak minimum)"
+        },
+        "d0deefb333b608453cbec94b81a136de": {
+            "text": "G\u0142\u0119boko\u015b\u0107 element\u00f3w (elementy podrz\u0119dne)"
+        },
+        "e316c9556c1be5b536576ce4b27d0575": {
+            "text": "Aby zezwoli\u0107 na g\u0142\u0119boko\u015b\u0107 element\u00f3w, wprowad\u017a tutaj warto\u015b\u0107 maksymalnej dozwolonej g\u0142\u0119boko\u015bci, lub pozostaw puste aby nie korzysta\u0107 z tej funkcji."
+        },
+        "ea3a2c41fc47d9150f65147b030a3ad8": {
+            "text": "Podczas edycji repeater-a, mo\u017cesz zmieni\u0107 g\u0142\u0119boko\u015b\u0107 repeater-a klikaj\u0105c na strza\u0142k\u0119 przeci\u0105gania, i przeci\u0105gaj\u0105c ca\u0142y element w prawo lub w lewo."
+        },
+        "c8a9e54dcabe5cdebed9c5bd1fa334d4": {
+            "text": "G\u0142\u0119boko\u015b\u0107 liczona jest od 0, co oznacza \u017ce podaj\u0105c tutaj 3 dozwolone b\u0119d\u0105 g\u0142eboko\u015bci 0, 1, 2, 3."
+        },
+        "8b3964c39c4eb2db458965c40689f5a0": {
+            "text": "Mo\u017cesz uzyska\u0107 dost\u0119p do g\u0142eboko\u015bci repeater na stronie u\u017cywaj\u0105c $item->depth"
+        },
+        "65f6a551619120fdc79329b66ab6c1fd": {
+            "text": "Usun\u0105\u0107 stare\/nieu\u017cywane elementy repeater-a?"
+        },
+        "9c539ab2317d7056d5d664b083557796": {
+            "text": "Istnieje %d starych\/nieu\u017cywany element\u00f3w repeater-a, zaznacz to pole by je usun\u0105\u0107."
+        },
+        "2878ed508d1b136f7b170f593c0ff00f": {
+            "text": "Element uwa\u017cany jest za stary je\u015bli ma conajmniej 3 dni i nie zosta\u0142 wykorzystany lub opublikowany."
+        },
+        "06f7e37d7cc093483d98d11772f75837": {
+            "text": "Maksymalna ilo\u015b\u0107 repeater-\u00f3w"
+        },
+        "9175b33ed3085ade32188d58a242e0bc": {
+            "text": "Makymalna dozwolona ilo\u015b\u0107 repeater-\u00f3w"
+        },
+        "8db1e9fd86969c9e9ee4c09365c260a6": {
+            "text": "0 = brak maksymaslnego limitu"
+        },
+        "f29a8c723be64c58c0e9f4cbd6c32a88": {
+            "text": "Je\u015bli ustawione na 1, to pole b\u0119dzie reprezentowane jak pojedyncza strona [Page], nie jak [PageArray]"
+        },
+        "66eb0d45c43394f51bdb0397febc5b4f": {
+            "text": "Kiedy wy\u0142\u0105czony jest outputFormatting, pole zawsze b\u0119dzie reprezentowane jako PageArray, bez wzgl\u0119du na te ustawienia."
+        },
+        "8c50c81f9df1bb1d4bc5689f9a6e7204": {
+            "text": "Typ Repeater-a"
+        },
+        "cb1f0ec5795fd6ab9a2e980b428cfff5": {
+            "text": "Gdy \"do\u0142\u0105czony\" repeater b\u0119dzie zarz\u0105dza\u0142 w\u0142asnym szablonem i stron\u0105 nadrz\u0119dn\u0105 bez \u017cadnych dzia\u0142a\u0144 z Twojej strony."
+        },
+        "e3d6af2ddc6a90779dd75a3f9c753d7f": {
+            "text": "Gdy \"od\u0142\u0105czony\" mo\u017cesz zmieni\u0107 lub przenie\u015b\u0107 stron\u0119 nadrz\u0119dn\u0105 i szablon wed\u0142ug uznania."
+        },
+        "77e23d8e1ff8e93bfc6e188f62e409bd": {
+            "text": "Gdy \"od\u0142\u0105czony\", ProcessWire nie usunie szablonu nadrz\u0119dnego gdy\/je\u015bli pole zostanie usuni\u0119te."
+        },
+        "1f8c0e21410e1c136bf780fc141b35ae": {
+            "text": "Dodano pole \"%1$s\" do Repeater-a \"%2$s\""
+        },
+        "f54c2540ded6390c6328b2838850482d": {
+            "text": "Usuni\u0119to pole \"%1$s\" z Repeater-a \"%2$s\""
+        },
+        "27dafd7f7794d09bc001fc0acac8e1ad": {
+            "text": "Usuni\u0119to %d stare\/nieu\u017cywane elementy repeater-a"
+        },
+        "0fe1cc90d79ebfffb11a259cc05d406d": {
+            "text": "Strona nadrz\u0119dna %s jest teraz od\u0142\u0105czona i mo\u017ce zosta\u0107 przeniesiona lub zmodyfikowana."
+        },
+        "678e17a04cd1c42a28cc8a9eff4f60c0": {
+            "text": "Pole Repeater-a"
+        }
+    }
+}

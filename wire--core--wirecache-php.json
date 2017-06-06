@@ -1,0 +1,21 @@
+{
+    "file": "wire\\core\\WireCache.php",
+    "textdomain": "wire--core--wirecache-php",
+    "translations": {
+        "d35d926654fdaeed481722384826e32b": {
+            "text": "Zapisano pami\u0119\u0107 podr\u0119czn\u0105"
+        },
+        "a188964d2912198a985f7bcd9564c530": {
+            "text": "Usuni\u0119to pami\u0119\u0107 podr\u0119czn\u0105"
+        },
+        "8a4a48cd3a709f985d5ea015c2db76c0": {
+            "text": "Zarz\u0105dzanie og\u00f3ln\u0105 wygas\u0142\u0105 %d pami\u0119ci\u0105 podr\u0119czn\u0105"
+        },
+        "f64daf743a238aa0cd75ee82bff43332": {
+            "text": "Zarz\u0105dzanie wygas\u0142\u0105 %d pami\u0119ci\u0105 podr\u0119czn\u0105 dla zapisanych stron"
+        },
+        "fb00a11e56682a1fc9456f910b1ebcff": {
+            "text": "Zarz\u0105dzanie wygas\u0142\u0105 %d pami\u0119ci\u0105 podr\u0119czn\u0105 dla zapisanych szablon\u00f3w stron"
+        }
+    }
+}
