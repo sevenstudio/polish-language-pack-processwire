@@ -1,0 +1,117 @@
+{
+    "file": "wire\\modules\\Process\\ProcessPageSearch\\ProcessPageSearch.module",
+    "textdomain": "wire--modules--process--processpagesearch--processpagesearch-module",
+    "translations": {
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "Zaawansowane"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "Edycja"
+        },
+        "2c44229630ad7e2758a89bd14435a31b": {
+            "text": "Nie okre\u015blono wyszukiwania"
+        },
+        "f802f85dd1eb6a1b3fb0591c682807e9": {
+            "text": "Szukaj w polach:"
+        },
+        "52b9d143876d2754dd01be52587b1de8": {
+            "text": "Typ wyszukiwania:"
+        },
+        "75ecaaafd1f677d07360709be6528768": {
+            "text": "Poszukuj:"
+        },
+        "9e230fa5487a0172264f31c0a1b08b61": {
+            "text": "Ogranicz do szablonu:"
+        },
+        "6f9d01a14011f05fffe48559583fc609": {
+            "text": "Sortuj przez:"
+        },
+        "fa4e2f0cea3ceef82c840df64fecb9e4": {
+            "text": "Odwr\u00f3ci\u0107 kolejno\u015b\u0107?"
+        },
+        "1e9c565e43a1f652a2718003bbad887e": {
+            "text": "Poka\u017c pole(pola):"
+        },
+        "b4805a9af05d82889758dda70003cfc6": {
+            "text": "Opcje wyszukiwania"
+        },
+        "29e9d8e295b1d5b3002d2d3d5baa4c37": {
+            "text": "Skr\u00f3ty"
+        },
+        "d60c090c3c99aaae5f57da3eb85fe008": {
+            "text": "Domy\u015blne pola do wyszuikwania"
+        },
+        "bfe2201d3b973b0d8c3c5b0ea08e1736": {
+            "text": "Podaj nazwy jednego lub wi\u0119cej p\u00f3l tekstowych kt\u00f3re chcesz przeszuka\u0107, odddziel ka\u017cde spacj\u0105."
+        },
+        "6278e5dbbd21048091f612f55185257e": {
+            "text": "Pole(pola) do wyszukiwania w panelu administracyjnym (ajax)"
+        },
+        "cc10d38a176ad7cde1228d2e22f1122b": {
+            "text": "Zalecamy ograniczy\u0107 to do 1 lub 2 p\u00f3l, poniewa\u017c wyniki wype\u0142niaj\u0105 pole autouzupe\u0142niania na \u017cywo. Zwykle wystarczy wyszukiwanie po tytule."
+        },
+        "2d29cf36f3ebbd5bab570d70070e5102": {
+            "text": "Domy\u015blne nazwy p\u00f3l, do wswietlenia w wynikach wyszukiwania"
+        },
+        "6cfd6f09104bdac467bb40624aae4e9c": {
+            "text": "Je\u015bli okre\u015blono wi\u0119cej ni\u017c jedno pole, oddziel ka\u017cde spacj\u0105."
+        },
+        "51e1d489ac4198969f8daf52b7cdfaf6": {
+            "text": "Domy\u015blny operator wyszukiwania"
+        },
+        "0ccb67e7eaae09d9e4078d161eeca100": {
+            "text": "R\u00f3wne"
+        },
+        "3255c386f4276b5c66f12d216ec71906": {
+            "text": "Nie r\u00f3wne"
+        },
+        "05824b7be006782aaefd1fdb97c71e06": {
+            "text": "Wi\u0119ksze ni\u017c"
+        },
+        "798fe01fcb2754a295b6937ed885a69a": {
+            "text": "Wi\u0119ksze ni\u017c lub r\u00f3wne"
+        },
+        "ad647e4ae904c7ed54ee93040d8298c7": {
+            "text": "Mniejsze ni\u017c"
+        },
+        "28d1141142e2cbb29e657b69a044ddf4": {
+            "text": "Mniejsze ni\u017c lub r\u00f3wne"
+        },
+        "45fc43a01c15bc63159695441dfacd63": {
+            "text": "Zawiera fraz\u0119 lub cz\u0119\u015b\u0107 s\u0142owa"
+        },
+        "e44edbd140708c448e991cde9d8dc0b2": {
+            "text": "Zawiera frazy\/s\u0142owa wykorzystuje LIKE"
+        },
+        "593e63d42f95f6ad96cf700f80c2fe2c": {
+            "text": "Zawiera wszystkie s\u0142owa"
+        },
+        "4ecb0055aa1e66535afeaf6093585618": {
+            "text": "Wyszukiwanie"
+        },
+        "d27c07f4c0dd15e39cedd91c19cb279f": {
+            "text": "Szukaj"
+        },
+        "c488b358fae501da3848f9faeb83dd35": {
+            "text": "Pola"
+        },
+        "736f3e2669c68c02be0fb19d1e70622f": {
+            "text": "Szablony"
+        },
+        "c26ba1dd54d52630a0aedf779e5926af": {
+            "text": "Modu\u0142y"
+        },
+        "8aa55d906b86496efeb66b0eae7d75ce": {
+            "text": "Strony"
+        },
+        "4b315bff8c7b70281de8ffffbd150708": {
+            "text": "szukaj"
+        },
+        "1da914fe3f639d8b3d977a006d2b0c69": {
+            "text": "Znaleziono  %1$d stron\u0119 u\u017cywaj\u0105c\u0105: %2$s"
+        },
+        "dc87414810d43e27f63b89feabadc943": {
+            "text": "Znaleziono (%1$d) stron u\u017cywaj\u0105cych: %2$s"
+        }
+    }
+}

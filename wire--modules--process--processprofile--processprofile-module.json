@@ -1,0 +1,27 @@
+{
+    "file": "wire\\modules\\Process\\ProcessProfile\\ProcessProfile.module",
+    "textdomain": "wire--modules--process--processprofile--processprofile-module",
+    "translations": {
+        "9fbf3617c6172a75648e9ac0a864bb56": {
+            "text": "Profil:"
+        },
+        "f9e0ddbbff17d789d7844835e71e789f": {
+            "text": "Profil nie zapisany"
+        },
+        "d57a97a659253e107095a0ad40576d9f": {
+            "text": "Email \"%s\" jest obecnie u\u017cywany przez innego u\u017cytkownika."
+        },
+        "f29de224c874ad891ea1c3627aa468be": {
+            "text": "Zapisano profil"
+        },
+        "85337e04345622f27e1230c61efa9fd0": {
+            "text": "Jakie pole u\u017cytkownik mo\u017ce edytowa\u0107 we w\u0142asnym profilu?"
+        },
+        "90b1f6651953fcf8b43ddc0da6760aaf": {
+            "text": "Profil u\u017cytkownika"
+        },
+        "1a59a80bd045dd8cb5a37b841028cc00": {
+            "text": "Pozwala u\u017cytkownikowi zmieni\u0107 has\u0142o, adres email i inne ustawienia okre\u015blone przez Cieibe."
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "file": "wire\\modules\\LanguageSupport\\LanguageSupportFields.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportfields-module",
+    "translations": {
+        "16d43921f6466356a5420de1d357ffb6": {
+            "text": "Obs\u0142uga j\u0119zyk\u00f3w \/ brak dzia\u0142ania"
+        },
+        "d5984c66ace0dae1773e991655e79484": {
+            "text": "Co powinno si\u0119 sta\u0107 je\u015bli warto\u015b\u0107 tego pola jest pusta?"
+        },
+        "2890518e61caa93e64ca13dbc48fd26a": {
+            "text": "Dotyczy jedynie warto\u015bci j\u0119zyka innego ni\u017c domy\u015blny na froncie twojej strony."
+        },
+        "b22ada5d7a2fc27462f6c477fc5c4dbd": {
+            "text": "Pobierz warto\u015b\u0107 domy\u015blnego j\u0119zyka"
+        },
+        "58d2e94541b468a4154422bbbc8a6ba5": {
+            "text": "Pozostaw puste"
+        }
+    }
+}

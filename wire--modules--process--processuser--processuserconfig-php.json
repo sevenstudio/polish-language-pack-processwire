@@ -1,0 +1,15 @@
+{
+    "file": "wire\\modules\\Process\\ProcessUser\\ProcessUserConfig.php",
+    "textdomain": "wire--modules--process--processuser--processuserconfig-php",
+    "translations": {
+        "512bc1289fe1ab9723f6ed9d3d6e651e": {
+            "text": "Maksymalnie u\u017cytkownik\u00f3w do pokazania w menu rozwijanym AJAX"
+        },
+        "59b101e7ae1c41c851d1c05341347023": {
+            "text": "Gdy liczba u\u017cytkownik\u00f3w w systemie przekracza t\u0119 liczb\u0119, menu rozwijane wy\u015bwietli role z liczb\u0105 u\u017cytkownik\u00f3w, a nie u\u017cytkownik\u00f3w."
+        },
+        "77cb5109c9ae7f1f6359fefd4f8dbfaa": {
+            "text": "Podaj warto\u015b\u0107 pomi\u0119dzy 1 a 100 (domy\u015blnie 25)"
+        }
+    }
+}

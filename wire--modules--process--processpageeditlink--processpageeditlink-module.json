@@ -1,0 +1,123 @@
+{
+    "file": "wire\\modules\\Process\\ProcessPageEditLink\\ProcessPageEditLink.module",
+    "textdomain": "wire--modules--process--processpageeditlink--processpageeditlink-module",
+    "translations": {
+        "0f1d07df1a82d22e187c72bacabc1117": {
+            "text": "Wybierz stron\u0119"
+        },
+        "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
+            "text": "Podaj adres URL, wybierz stron\u0119 lub wybierz plik dla linku"
+        },
+        "97e7c9a7d06eac006a28bf05467fcc8b": {
+            "text": "="
+        },
+        "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
+            "text": "Link do adresu URL"
+        },
+        "c1ea9d15a4b45722e553d5227d2a68ec": {
+            "text": "Podaj adres URL, adres email, lub wprowad\u017a s\u0142owo(s\u0142owa) aby znel\u017a\u0107 stron\u0119."
+        },
+        "16fc67b7eaa1e52e2ad1ecd9d42917bc": {
+            "text": "Linki"
+        },
+        "b7a5bb32ec6b8bdd7933e1aed1226051": {
+            "text": "Link\u00f3w znalezionych w tek\u015bcie, kt\u00f3ry edytujesz"
+        },
+        "99e7707748ae048e17c5810fad119e0b": {
+            "text": "Wybierz stron\u0119"
+        },
+        "d98192e3cb911892e861fde0f812f062": {
+            "text": "Wybierz podstron\u0119"
+        },
+        "034cc05920524f811060e035664d50a6": {
+            "text": "Jest to to samo co \"Wybierz stron\u0119\" powy\u017cej, ale mo\u017ce by\u0107 \u017cybsze je\u015bli linkujesz do podstrony obecnej strony."
+        },
+        "287234a1ff35a314b5b6bc4e5828e745": {
+            "text": "Atrybuty"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Tytu\u0142"
+        },
+        "26175e18932f5310229ab78e3acdee97": {
+            "text": "Dodatkowy tekst opisuj\u0105cy link."
+        },
+        "c41a31890959544c6523af684561abe5": {
+            "text": "Cel"
+        },
+        "918dfcbd7b97a5aa266ceb37a76c3dee": {
+            "text": "Gdzie ten link zostanie otworzony."
+        },
+        "eba991d56b1be0b940d722211bab87bc": {
+            "text": "="
+        },
+        "d9167711e3727337c3e12dbaaac4511f": {
+            "text": "Relacja linku z dokumentem"
+        },
+        "9bd81329febf6efe22788e03ddeaf0af": {
+            "text": "="
+        },
+        "dcbd7beee5b5739c187b51f6305c7639": {
+            "text": "Dodatkowe klasy kt\u00f3re mog\u0105 wp\u0142yn\u0105c na wygl\u0105d lub zachowanie linku."
+        },
+        "22d6eb83c9e9109699daa15ef964e88f": {
+            "text": "Mo\u017cesz dopasowa\u0107 dost\u0119pne atrybuty pokazane powy\u017cej w ustawieniach modu\u0142u: %s"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Brak"
+        },
+        "d7e5b64c4aa7c174c3b8e7c013f57891": {
+            "text": "Otw\u00f3rz na nowej stronie\/zak\u0142adce"
+        },
+        "14ca6a0caadcbfe73ca835d810b6efe5": {
+            "text": "Dodaj informacje no-follow dla robot\u00f3w indeksuj\u0105cych wyszukiwarek"
+        },
+        "1aa14e9f377b528b5537d70fbd35c6a2": {
+            "text": "Wybierz plik"
+        },
+        "518c59a47fc797ac7a43040c96b8e2e2": {
+            "text": "Pokazane pliki na stronie:"
+        },
+        "35afa790dae10280b1b4b38417e756ee": {
+            "text": "Wybierz plik z tej strony do kt\u00f3rego chcesz linkowa\u0107."
+        },
+        "0fc76f2ae9061248b25a11b099e80fd6": {
+            "text": "Aby wybra\u0107 plik z innej strony, kliknij \"Wybierz stron\u0119\" i wybierz \u017c\u0105dan\u0105 stron\u0119."
+        },
+        "6c7999851a00aff2df139ead430fac5c": {
+            "text": "Opcje atrybutu"
+        },
+        "b31cbfca485dbc22cfb79ea992fa8e98": {
+            "text": "Podaj jedn\u0105 warto\u015b\u0107 atrybutu w linii. U\u017cytkownik b\u0119dzie m\u00f3g\u0142 je wybra\u0107 jako opcj\u0119 w trakcie dodawania link\u00f3w. Aby oznaczy\u0107 opcj\u0119 jako domy\u015bln\u0105 (dla nowo tworzonych link\u00f3w), poprzed\u017a j\u0105 znakiem plus \"+\"."
+        },
+        "a09630836c5a01bfa93c8cdfbbb065d3": {
+            "text": "Atrybuty linku zewn\u0119trznego"
+        },
+        "9b291241830397114b711a98ca6695d6": {
+            "text": "Okre\u015b domy\u015blnie wybrane atrybuty dla wszystkich zewn\u0119trznych link\u00f3w."
+        },
+        "7f4fd9351aed8f03ec4559872d125eb4": {
+            "text": "Je\u015bli u\u017cywane, warto\u015b\u0107 musi by\u0107 jedn\u0105 ze zdefiniowanych powy\u017cej."
+        },
+        "eafd32d33d67b845444c70572e6c1e50": {
+            "text": "Przyk\u0142ad: Okre\u015blenie nofollow spowoduje, \u017ce linki zewn\u0119trzne nie b\u0119d\u0105 uwzgl\u0119dniane przez wyszukiwarki."
+        },
+        "1da324557a591359538e1705e30b5dea": {
+            "text": "Przyk\u0142ad: podaj\u0105c _blank linki zewn\u0119trzne b\u0119d\u0105 zawsze otwierane w nowym oknie przegl\u0105darki"
+        },
+        "eb629addbfc0dd4a0353d6defff81923": {
+            "text": "Typ adresu URL dla link\u00f3w"
+        },
+        "6b02648ef824ca0a58b9a40518ff1152": {
+            "text": "Absolutne (domy\u015blne)"
+        },
+        "2c8a0fad581fd58be051633bfdaa53d0": {
+            "text": "Relatywne adresy URL w tych samych ga\u0142\u0119ziach"
+        },
+        "4750338c560d44be6d53bd75e386a966": {
+            "text": "Zawsze relatywne"
+        },
+        "2453cc3c047929e3210a51607202b8bb": {
+            "text": "* obecnie eksperymentalne"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "file": "wire\\modules\\Process\\ProcessLogin\\ProcessLogin.module",
+    "textdomain": "wire--modules--process--processlogin--processlogin-module",
+    "translations": {
+        "5048eab3b6b17142d965cf9d43f6e460": {
+            "text": "Jeste\u015b zalogowany(a)."
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Kontynuuj"
+        },
+        "847549ae30061a6767a4b17c6fb4f53c": {
+            "text": "Poprawne logowanie"
+        },
+        "48649d8c2d04aa439d10bc45eaba8f75": {
+            "text": "Logowanie nie powiod\u0142o si\u0119"
+        },
+        "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
+            "text": "Zosta\u0142e\u015b(a\u015b) wylogowany"
+        },
+        "646d9e77201093e05380ead006df9975": {
+            "text": "Ostrze\u017cenie o zabezpieczeniach: istnieje %s i powinien zosta\u0107 usuni\u0119ty tak szybko, jak to mo\u017cliwe."
+        },
+        "4c429484c06b2d2901b3a582f300af56": {
+            "text": "Ostrze\u017cenie, \/site\/config.php posiada uprawnienia plik\u00f3w kt\u00f3re mog\u0105 niebezpieczne w wielu \u015brodowiskach."
+        },
+        "748befe7a5d432caba8b6cadc4076e92": {
+            "text": "Wi\u0119cej szczeg\u00f3\u0142\u00f3w zawiera sekcja \"Zabezpieczanie uprawnie\u0144 do plik\u00f3w\""
+        },
+        "00796cc045b871fe7b2867edef6aaaf7": {
+            "text": "Aby wy\u0142\u0105czy\u0107 to ostrze\u017cenie, ustaw $config->chmodWarn = false; W pliku \/site\/config.php."
+        },
+        "efdf35a179a19ed3b3de0d3e7785f17d": {
+            "text": "Ostrze\u017cenie: ustawienia regionalne serwera s\u0105 nieokre\u015blone i mog\u0105 powodowa\u0107 problemy."
+        },
+        "25722c10f4f7abdc7297094d5d8f97e6": {
+            "text": "Prosz\u0119 przet\u0142umaczy\u0107 ustawienie regionalne \"C\" dla ka\u017cdego j\u0119zyka na w\u0142a\u015bciw\u0105 lokalizacj\u0119 w %s"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "Na przyk\u0142ad ustawienie regionalne dla j\u0119zyka angielskiego w j\u0119zyku angielskim mo\u017ce obejmowa\u0107:% s"
+        },
+        "58b0cb95c27f394bd4c6970b563153dd": {
+            "text": "Prosz\u0119 doda\u0107 to do pliku \/site\/config.php (dostosuj \"%s\" w razie potrzeby):"
+        },
+        "f6039d44b29456b20f8f373155ae4973": {
+            "text": "Nazwa u\u017cytkownika"
+        },
+        "dc647eb65e6711e155375218212b3964": {
+            "text": "Has\u0142o"
+        },
+        "99dea78007133396a7b8ed70578ac6ae": {
+            "text": "Zaloguj"
+        },
+        "d837cc5a72556c5e2abf4b9fe10ddef8": {
+            "text": "Logowanie"
+        },
+        "01a569ddc6cf67ddec2a683f0a5f5956": {
+            "text": "Zapomnia\u0142e\u015b(a\u015b) has\u0142a?"
+        }
+    }
+}

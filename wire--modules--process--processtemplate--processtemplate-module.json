@@ -1,0 +1,1008 @@
+{
+    "file": "wire\\modules\\Process\\ProcessTemplate\\ProcessTemplate.module",
+    "textdomain": "wire--modules--process--processtemplate--processtemplate-module",
+    "translations": {
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Tak"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nie"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Napewno?"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Eksportuj"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Importuj"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Wy\u0142\u0105czone"
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Ikona"
+        },
+        "2da33125162e59b2ff307fb050040ead": {
+            "text": "Nazwa"
+        },
+        "0934f0c8ef59c46cd3f23477dc242642": {
+            "text": "Etykieta"
+        },
+        "9aa8f6fc386e155886938a352548a81c": {
+            "text": "Zmodyfikowano"
+        },
+        "bd1ab8d7a2147046de89d54d6d03f39d": {
+            "text": "System"
+        },
+        "7de04564993d28e2b32be513c1575777": {
+            "text": "Dost\u0119p"
+        },
+        "799ef6a367b3b36deb5be25ef8e7c91a": {
+            "text": "Dost\u0119p"
+        },
+        "3be3efa6643b5a3f2af79ace0a5145c4": {
+            "text": "Zaawansowane"
+        },
+        "ac97a1ad01bd7b48508de449e229a73d": {
+            "text": "Importuj"
+        },
+        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
+            "text": "Usu\u0144"
+        },
+        "d5778a8b84efb3233d070016adb93326": {
+            "text": "Zapisz"
+        },
+        "2a138a3c1a54958a39f65b80e666b643": {
+            "text": "Etykieta"
+        },
+        "5124b02da7ffa5ef666dc8bde11cd10d": {
+            "text": "Dowolnie \/ nie ma znaczenia"
+        },
+        "4cca2a863deef0fc4de9115b9164537b": {
+            "text": "Nie otagowane"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Filtry"
+        },
+        "1ada25378d2f81d6394cb823cda822ad": {
+            "text": "Filtruj po polu"
+        },
+        "602717d1b0adbf6ff41366d6371e375d": {
+            "text": "Wybierz pole, aby zobaczy\u0107 tylko i wy\u0142\u0105cznie szablony kt\u00f3re korzystaj\u0105 z tego pola"
+        },
+        "3f8255a0588417dee11d58e2b92c59b4": {
+            "text": "Szablony z polem: %s"
+        },
+        "487cc58bb37a22e2cfc4d04c92267fee": {
+            "text": "Pokaza\u0107 szablony systemowe?"
+        },
+        "19a3fc9f896f1ef86f69f782be122c37": {
+            "text": "Domy\u015blnie, szablony systemowe\/wewn\u0119trzne nie s\u0105 pokazywane. Kliknij \"Tak\" aby pokaza\u0107 je na li\u015bcie poni\u017cej."
+        },
+        "86ec8350e4740a4cc47328ee7c984d40": {
+            "text": "Dodaj nowe szablony"
+        },
+        "6703f01fb2662a497ae2d29163ed68c2": {
+            "text": "Nazwa jest ju\u017c u\u017cywana"
+        },
+        "ff6be05386ed6fc79ccf24b5eb9432ac": {
+            "text": "Dodano szablon i grup\u0119 p\u00f3l: %s"
+        },
+        "0dea25b9c7f4d4afbe59f7f9b2741d29": {
+            "text": "Szablon\u00f3w znalezionych w: %s"
+        },
+        "66c97c50054d31c710d96c0073ec4c78": {
+            "text": "Nast\u0119puj\u0105ce nowe szablony zosta\u0142y odnalezione. Zaznacz pole obok ka\u017cdego szablonu, kt\u00f3ry chcesz doda\u0107."
+        },
+        "f392144a3652c7daf4ee4f0377497709": {
+            "text": "Nie znaleziono nowych szablon\u00f3w w: %s"
+        },
+        "01582c3e65dc06c2cf178a0bdce2b4dd": {
+            "text": "Stw\u00f3rz nowy szablon bez pliku"
+        },
+        "524fe63ba99d979ba854d38529c9abc1": {
+            "text": "Je\u015bli chcesz stworzy\u0107 nowy szablon kt\u00f3ry obecnie nie jest powi\u0105zany z \u017cadnym plikiem, podaj tutaj jego nazw\u0119."
+        },
+        "0e2511c51c799246bc640afd3b4cc07b": {
+            "text": "Mo\u017cesz poda\u0107 wiele nazw szablon\u00f3w, oddzielaj\u0105c ka\u017cd\u0105 nazw\u0119 spacj\u0105."
+        },
+        "088244ca195e0e9e57bd38027406b66b": {
+            "text": "Nie do\u0142\u0105czaj rozszerzenia pliku"
+        },
+        "24a144ffc0e6aae299d3a23c2152e7fa": {
+            "text": "Edytuj szablon: %s"
+        },
+        "545d923164ab07a1b18e48e526f51259": {
+            "text": "Strony wykorzystuj\u0105ce ten szablon nie s\u0105 dost\u0119pne, poniewa\u017c plik (%s) nie istnieje."
+        },
+        "b5b8f523cefee8895f19a223c85f431f": {
+            "text": "Zarz\u0105dzaj dost\u0119pem do szablonu"
+        },
+        "7a91f878f0e4c02c502a8d0583b0c6be": {
+            "text": "Opcjonalne u\u017cycie i pozycja na li\u015bcie\/drzewie stron"
+        },
+        "501dba7089bbfb45c7c1a733477bcdc5": {
+            "text": "Opcjonalne ustawienia dla adres\u00f3w URL stron korzystaj\u0105cych z tego szablonu"
+        },
+        "23f23b8b2e4cc5c8517468a6d001b3fd": {
+            "text": "Pami\u0119\u0107 podr\u0119czna"
+        },
+        "244561833b6ce4599891cf9e33fb33d6": {
+            "text": "Opcjonalne, zaawansowane ustawienia szablonu"
+        },
+        "5dd56426fff182e0610cc0bf9d389437": {
+            "text": "Systemowe ustawienia szablonu"
+        },
+        "bef497d3a07d13fedba143fc543e606d": {
+            "text": "Importuj pola z innego szablonu"
+        },
+        "0d4ca2b82aa1381b25348c8509009839": {
+            "text": "Usu\u0144 szablon"
+        },
+        "a6cdf6c364498c02bdaa499492780445": {
+            "text": "Opcjonalna etykieta opisuj\u0105ca ten szablon"
+        },
+        "c64518704ce0c0d5501a45763f464276": {
+            "text": "U\u017cycie"
+        },
+        "f89bc18e7afb05b3ac03300bec624b63": {
+            "text": "Potwierd\u017a usuni\u0119cie"
+        },
+        "833914963b9e76310195f43171e185a6": {
+            "text": "Ten szablon nie mo\u017ce zosta\u0107 usuni\u0119ty"
+        },
+        "f7c9b4730186dec196b0eaf4be43f530": {
+            "text": "Szablony systemowe nie mog\u0105 zosta\u0107 usuni\u0119te"
+        },
+        "890f96a8e633d19ff700b360949982af": {
+            "text": "Zauwa\u017c, \u017ce usuni\u0119cie szablonu usuwa go jedynie z bazy danych, nie usuwa to pliku szablonu."
+        },
+        "0968f67bf85224770756cc134016da2b": {
+            "text": "Domy\u015blnie, ka\u017cdy szablon zarz\u0105dza w\u0142asn\u0105 grup\u0105 p\u00f3l. Je\u015bli chcesz, aby ten szablon wykorzysta\u0142 pola innego szablonu, wybierz go tutaj."
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(domy\u015blne)"
+        },
+        "b6b0afb901a4db116f6b8403cf434280": {
+            "text": "Dla twojej informacji, to jest lista p\u00f3l wykorzystywanych przez ten szablon. Ten szablon pobiera swoje pola z szablonu '%s'."
+        },
+        "ae89f7319ca951efb3ce055e92b8ade2": {
+            "text": "Okre\u015bl pola wykorzystywane przez ten szablon. Mo\u017cesz tak\u017ce przeci\u0105gn\u0105\u0107 i upu\u015bci\u0107 pola aby ustali\u0107 ich kolejno\u015b\u0107."
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Dodaj pole"
+        },
+        "044c72d21891e006e09a78d32a1e3226": {
+            "text": "Zamknij i Dodaj"
+        },
+        "1ad747442af37649526e00927b7d0a1f": {
+            "text": "Aby skonfigurowa\u0107 pola, kt\u00f3re u\u017cytkownik mo\u017ce edytowa\u0107 w swoim profilu, zajrzyj do ustawie\u0144 modu\u0142u profilu."
+        },
+        "71bb941583eef6e3e5ed3eaad39cc315": {
+            "text": "Dpulikuj pola u\u017cywane przez inny szablon"
+        },
+        "0a18045f3c2d800b18fc146d3f16b97e": {
+            "text": "Je\u015bli chcesz zduplikowa\u0107 pola u\u017cywane przez inny szablon, wybierz je tutaj. Pole obecne ju\u017c w tym szablonie pozostan\u0105 bez zmian."
+        },
+        "c5abeb6189c82d5b9d81bbcac604408b": {
+            "text": "Status pami\u0119ci podr\u0119cznej"
+        },
+        "399c72ebbb8b618eeb11aab334a88369": {
+            "text": "W\u0142\u0105czona (pami\u0119c podr\u0119czna)"
+        },
+        "6d490a96685b13339b51530ee05a7c9a": {
+            "text": "W\u0142\u0105czona (ProCache, konfiguruj tutaj)"
+        },
+        "404deca0459b84d7308fb7c434301657": {
+            "text": "Strony korzystaj\u0105ce z tego szablonu s\u0105 obecne w pami\u0119ci podr\u0119cznej ProCache, ale s\u0105 skonfigurowane bezpo\u015brednio w ProCache. Aby skonfigurowa\u0107 ustawienia ProCache tutaj, wybierz opcj\u0119 ProCache powy\u017cej."
+        },
+        "0f62a8abd379b96004d8118b0d9a2399": {
+            "text": "Aby w\u0142\u0105czy\u0107 pami\u0119\u0107 podr\u0119czn\u0105 dla tego szablonu, podaj czas (w sekundach) jak d\u0142ugo strona powinna by\u0107 w pami\u0119ci podr\u0119cznej, zanim zostanie ona od\u015bwie\u017cona.  Pami\u0119\u0107 podr\u0119czna mo\u017ce w znacz\u0105cy spos\u00f3b przyspieszy\u0107 renderowanie stron, kt\u00f3re wymagaj\u0105 znacznych zasob\u00f3w serwera (np. ze wzgl\u0119du na du\u017cy ruch u\u017cytkownik\u00f3w). Zwr\u00f3\u0107 uwag\u0119, \u017ce pami\u0119\u0107 podr\u0119czna nie powinna by\u0107 wykorzystywana (chyba, \u017ce jest to naprawd\u0119 potrzebne), na stronach kt\u00f3re wymagaj\u0105 ci\u0105g\u0142ej zmiany danych, jak np. formularze czy sesje. Zwr\u00f3\u0107 tak\u017ce uwag\u0119, \u017ce segmenty URL mog\u0105 tak\u017ce by\u0107 umieszczone w pami\u0119ci podr\u0119cznej, ale zmienne GET i POST nie."
+        },
+        "e71a260bc8db16e30f2dedeba9440a25": {
+            "text": "Na przyk\u0142ad: 60 = 1 minuta, 600 = 10 minut, 3600 = 1 godzina, 86400 = 1 dzie\u0144,  604800 = 1 tydzie\u0144, 2419200 = 1 miesi\u0105c."
+        },
+        "b0349bb2d18f943c6aa52c5c038850a0": {
+            "text": "Je\u015bli korzystasz z ProCache, nie ma potrzeby zmiany ustawie\u0144 pami\u0119ci podr\u0119cznej tutaj."
+        },
+        "fa15c33b6ad59f9f8183f1b3c68ab082": {
+            "text": "Czas Zapisu strony\/Wyga\u015bni\u0119cia pami\u0119ci podr\u0119cznej"
+        },
+        "7ff5f438d6cc10c5f333e97329c72daa": {
+            "text": "Kiedy strona wykorzystuj\u0105ca ten szablon korzysta z pami\u0119ci podr\u0119cznej, co powinno si\u0119 sta\u0107 z pami\u0119ci\u0105?"
+        },
+        "fe4a994d36e75cfb408bdf0b5dd7af09": {
+            "text": "Wyczy\u015b\u0107 pami\u0119\u0107 podr\u0119czn\u0105 tylko dla zapisanych stron (domy\u015blnie)"
+        },
+        "e83d2e6601e2f724159034563ad4fde0": {
+            "text": "Wyczy\u015b\u0107 pami\u0119\u0107 podr\u0119czn\u0105 dla ca\u0142ej witryny*"
+        },
+        "3bba41317ab3da84fd247ebaa32ea821": {
+            "text": "Wyczy\u015b\u0107 pami\u0119\u0107 podr\u0119czn\u0105 dla zapisanych stron i stron nadrz\u0119dnych (w tym strony g\u0142\u00f3wnej)"
+        },
+        "f841b3150a439220f669e77e12ea0bda": {
+            "text": "Wyczy\u015b\u0107 pami\u0119\u0107 podr\u0119czn\u0105 dla zapisanych stron i innych stron podanych przez u\u017cytkownika ..."
+        },
+        "70445e42e2f9089020b0ba1c23063287": {
+            "text": "Wyczy\u015b\u0107 pami\u0119\u0107 podr\u0119czn\u0105 dla zapisanych stron i innych stron kt\u00f3re pasuj\u0105 do selektora"
+        },
+        "cd88ce600576fcc630878b5e374835a5": {
+            "text": "Nie r\u00f3b nic"
+        },
+        "cac7796ca8e88c31d8b23733cb7aaf03": {
+            "text": "*Aby zwi\u0119kszy\u0107 wydajno\u015b\u0107, pliki pami\u0119ci podr\u0119cznej wygasaj\u0105 jako grupa, nie s\u0105 czyszczone indywidualnie."
+        },
+        "7ebdcad871020558be972578bdf46a10": {
+            "text": "Okre\u015bl inne strony kt\u00f3rych pami\u0119\u0107 podr\u0119czna powinna zosta\u0107 od\u015bwie\u017cona"
+        },
+        "501a09415d30cab1819195e5566a0c0d": {
+            "text": "Gdy strony u\u017cywaj\u0105ce tego szablonu s\u0105 zapisane, ich pliki pami\u0119ci podr\u0119cznej b\u0119d\u0105 wyczyszczone. Wybierz poni\u017cej inne strony kt\u00f3re tak\u017ce powinny mie\u0107 wyczyszczone pliki pami\u0119ci podr\u0119cznej."
+        },
+        "f62b09e2a4c1eb3583afe9c213b981c8": {
+            "text": "Selektor pozwalaj\u0105cy odnale\u017a\u0107 inne strony w celu czyszczenia pami\u0119ci podr\u0119cznej."
+        },
+        "dcbec326309994892030ce4aa6f72f75": {
+            "text": "Zapisz ten szablon, i powr\u00f3\u0107 tutaj aby skonfigurowa\u0107 sw\u00f3j selektor."
+        },
+        "711aef464118d5be216c2879591fbb5a": {
+            "text": "Selektor wygasania pami\u0119ci podr\u0119cznej"
+        },
+        "d6b522c2ed20093505dfa63be2ba0454": {
+            "text": "U\u017cywaj pami\u0119ci podr\u0119cznej podczas renderowanie stron dla tych u\u017cytkownik\u00f3w"
+        },
+        "787f82b093280bcb87901ea228d7b083": {
+            "text": "Tylko go\u015bcie"
+        },
+        "8a8e700d3ef2487708d671db81ed8ce3": {
+            "text": "Go\u015bcie i zalogowani u\u017cytkownicy"
+        },
+        "8d5e98c594942c49efea1af30c90efe5": {
+            "text": "Zauwa\u017c, \u017ce pami\u0119\u0107 podr\u0119czna jest zawsze wy\u0142\u0105czona dla stron gdzie u\u017cytkownik ma prawa edycji, bez wzgl\u0119du na wyb\u00f3r ustawie\u0144 tutaj."
+        },
+        "d1db89af3df82862d45c9755e9aa0075": {
+            "text": "Wy\u0142\u0105czanie zmiennych GET z pami\u0119ci podr\u0119cznej"
+        },
+        "ad63801f30d93a9f54257aa637d5ed89": {
+            "text": "Wy\u0142\u0105czanie zmiennych POST z pami\u0119ci podr\u0119cznej"
+        },
+        "dcc07e185c0c88ca7c4439fbaa56e4cb": {
+            "text": "Gdy tw\u00f3j szablon korzysta z pami\u0119ci podr\u0119cznej, zmienne tego typu s\u0105 domy\u015blnie ignorowane. Opcjonalnie mo\u017cesz tak\u017ce poda\u0107 jedn\u0105 lub wi\u0119cej zmiennych kt\u00f3re maj\u0105 by\u0107 pomini\u0119te przez pami\u0119\u0107 podr\u0119czn\u0105."
+        },
+        "f32d42af055544c46a989bceee851733": {
+            "text": "Opcjonalnie podaj nazw\u0119 jednej lub wi\u0119cej zmiennych. Je\u015bli podasz wi\u0119cej ni\u017c jedn\u0105, oddziel je spacjami."
+        },
+        "fc5817e1bd14f3acbf2266635b0e30ed": {
+            "text": "Aby wy\u0142\u0105czy\u0107 pami\u0119\u0107 podr\u0119czn\u0105 kiedy obecna jest jakakolwiek zmienna, wpisz gwiazdk\u0119 * (rekomendowane)"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Tagi"
+        },
+        "5cb36b26303f4abb0dea36f9bb96887f": {
+            "text": "Je\u015bli chcesz zgrupowa\u0107 ten szablon z innymi na li\u015bcie szablon\u00f3w, podaj tag w postaci jednego s\u0142owa. Podaj ten sam tag w innych szablonach kt\u00f3re chcia\u0142by\u015b zgrupowa\u0107. Aby poda\u0107 wi\u0119cej tag\u00f3w, oddziel je spacjami. U\u017cycia tag\u00f3w mo\u017ce by\u0107 pomocne w przypadku stron korzystaj\u0105cych z wielu r\u00f3\u017cnych szablon\u00f3w."
+        },
+        "7f511c25eccff9ce7127eecfb136f443": {
+            "text": "Ka\u017cdy tag musi by\u0107 jednym s\u0142owem (u\u017cycie my\u015blnik\u00f3w jest dozwolone)."
+        },
+        "9238cda6a9c91cd5cc846791a49ba3ab": {
+            "text": "Aby zwin\u0105\u0107 tag na li\u015bcie szablon\u00f3w, dodaj do niego my\u015blnik na pocz\u0105tku, przyk\u0142ad: -hello"
+        },
+        "f578ef5a7330291e151dc6052fe85bfe": {
+            "text": "Opcjonalnie nadpisz domy\u015bln\u0105 etykiet\u0119 \"Tre\u015b\u0107\""
+        },
+        "5fda5af59d211bd673998a69f051c3f2": {
+            "text": "Opcjonalnie nadpisz domy\u015bln\u0105 etykiet\u0119 \"Strony podrz\u0119dne\""
+        },
+        "4a49f761ce504d9c073de20eba6ca069": {
+            "text": "Opcjonalnie nadpisz domy\u015bln\u0105 etykiet\u0119 \"Nazwa\""
+        },
+        "f9c716f29bd379e49e4485ea8afd1556": {
+            "text": "Zmie\u0144 nazw\u0119 szablonu"
+        },
+        "f1a2199b60e95006b3d66f9eb5a9e621": {
+            "text": "Nazwa odnosz\u0105ca si\u0119 do tego szablonu. Jest to tak\u017ce domy\u015blna nazwa pliku szablonu (z rozszerzeniem php) w \/site\/templates\/."
+        },
+        "04f22e1af73c705475a4cc38a5c89ae3": {
+            "text": "Plik szablonu jest zapisywalny i jego nazwa zostanie r\u00f3wnie\u017c zmieniona."
+        },
+        "8d5a5a7af810d2ef80cf02082615c9dd": {
+            "text": "Plik szablonu nie jest zapisywalny w zwi\u0105zku z czym b\u0119dziesz musia\u0142 zmieni\u0107 jego nazw\u0119 manualnie (instrukcje zostan\u0105 podane po zapisaniu)"
+        },
+        "e1f4b06346cdbed5063a5e42a9593f59": {
+            "text": "Podaj dowoln\u0105 kombinacj\u0119 liter (a-z), cyfr (0-9) my\u015blnik\u00f3w lub podkre\u015blnik\u00f3w (bez spacji). Nie do\u0142\u0105czaj rozszerzenia pliku .php"
+        },
+        "30281e3b2fa626d5f52c833c541c84ac": {
+            "text": "Zduplikowa\u0107\/sklonowa\u0107 ten szablon?"
+        },
+        "4b5a4101eef9107a93653ecef0418ed1": {
+            "text": "Podaj nazw\u0119 nowego szablonu kt\u00f3re chcesz stworzy\u0107. Kopia zostanie stworzona przy zapisie. Je\u015bli Tw\u00f3j katalog szablon\u00f3w posiada prawa zapisu a szablon ma w\u0142asny plik, zostanie on tak\u017ce skopiowany."
+        },
+        "4a290c3c1090e21dd600de5f741fa083": {
+            "text": "Akcja dla wymaganych p\u00f3l"
+        },
+        "413c8d36faee24af361553c804386428": {
+            "text": "Jakie dzia\u0142anie powinno zosta\u0107 podj\u0119te, gdy opublikowana ju\u017c strona zosta\u0142a zapisana z niewype\u0142nionym wymaganym polem?"
+        },
+        "6aa324ce3baf41a239eaa440caba0a51": {
+            "text": "Informuj u\u017cytkownika o b\u0142\u0119dzie (domy\u015blnie)"
+        },
+        "df169cc44c2c05b1bc4f79938c03405b": {
+            "text": "Przywr\u00f3c poprzedni\u0105 warto\u015b\u0107 (je\u015bli dost\u0119pna)"
+        },
+        "90ffa24b83a6a28137f9063f7e6cdc4b": {
+            "text": "Wy\u0142\u0105cz z publikacji stron\u0119 (je\u015bli jest to mo\u017cliwe)"
+        },
+        "4f50a13dad7a9fb97496e4b62718d3a8": {
+            "text": "Wybierz ikon\u0119, kt\u00f3ra b\u0119dzie powi\u0105zana z tym szablonem i stronami wykorzystuj\u0105cymi ten szablon (w panelu administreacyjnym)."
+        },
+        "7328590933d4202f89220d6b435b0e8f": {
+            "text": "Lista p\u00f3l do wy\u015bwietlenia na li\u015bcie stron w panelu administracyjnym"
+        },
+        "61b468c296e8ff1ed4c18bd86392e1cc": {
+            "text": "Wybierz jedn\u0105 lub wi\u0119cej nazw p\u00f3l przypisanych do tego szablonu, aby wy\u015bwietli\u0107 je na li\u015bcie stron podczas pokazywania stron korzystaj\u0105cych z tego szablonu. Je\u015bli nie zaznaczono, pola podane w konfiguracji modu\u0142u ProcessPageList b\u0119d\u0105 u\u017cywane. Nazwy p\u00f3l powinny by\u0107 oddzielone spacj\u0105 i \/ lub przecinkiem. Puste pola zostan\u0105 zignorowane."
+        },
+        "9a4127b29b0b6c40638af21074829f0e": {
+            "text": "Mo\u017cesz r\u00f3wnie\u017c u\u017cy\u0107 w\u0142asnego formatu (i dowolnej interpunkcji \/ znak\u00f3w), okre\u015blaj\u0105c nazwy p\u00f3l w nawiasie, tj. {Name}, {categories.title} itd."
+        },
+        "b1a8a50c7276f36aeca631c5f4d18c9d": {
+            "text": "Mo\u017cesz wprowadzi\u0107 jedno lub wi\u0119cej z tych p\u00f3l:"
+        },
+        "9c16eb3042fbf6c2b73a21dea122d19e": {
+            "text": "Aby okre\u015bli\u0107 w\u0142a\u015bciwo\u015b\u0107 pola, otocz pole nawiasami i podaj {nazwa_pola.wlasciwosc}, na przyk\u0142ad {kategorie.tytul}."
+        },
+        "8f0944546d02e3fd7de73e9418494b3b": {
+            "text": "Prze\u0142\u0105czniki szablonu"
+        },
+        "249d044ac9d6d23ba96d1515cc4717e4": {
+            "text": "Generalnie powinno si\u0119 pozostawi\u0107 te prze\u0142\u0105czniki nie zaznaczone, chyba \u017ce masz specyficzne wymagania okre\u015blone tutaj."
+        },
+        "b919a5aafc6740109c0c58fe51916178": {
+            "text": "Nie pozwalaj stronom na zmian\u0119 ich szablonu?"
+        },
+        "6bb5af6d5240fb8b1d720a7e5bec4497": {
+            "text": "Je\u015bli zaznaczono, strony korzystaj\u0105ce z szablonu nie b\u0119d\u0105 mog\u0142y go zamieni\u0107 na inny."
+        },
+        "5c9171f7b16eac3245d2e5f3e79aadbc": {
+            "text": "API: $template->noChangeTemplate = 1; \/\/ lub 0 aby wy\u0142\u0105czy\u0107"
+        },
+        "29f47bc61ea7a6f45ee3d36da3a3feff": {
+            "text": "Nie zezwalaj na nieopublikowane strony"
+        },
+        "94c9fe9ddbd9380ceb726bef40232ea3": {
+            "text": "Je\u015bli zaznaczone, strony b\u0119d\u0105 mog\u0142y istnie\u0107 tylko jako opublikowane."
+        },
+        "691edb2dd99517cf0e15dbf596e10cc5": {
+            "text": "API: $template->noUnpublish = 1; \/\/ lub 0 aby wy\u0142\u0105czy\u0107"
+        },
+        "6064635b0dec3189859052c02adc0fc5": {
+            "text": "Zezw\u00f3l na zmian\u0119 u\u017cytkownika 'created user' na stronach?"
+        },
+        "16a657e6bf4576ef101f1bcca129694c": {
+            "text": "Po zaznaczeniu, strony z tym szablonem b\u0119d\u0105 mia\u0142y mo\u017cliwo\u015b\u0107 zmiany 'created by user' (tylko dla super administrator\u00f3w). Umo\u017cliwi to tak\u017ce zapisanie p\u00f3l $page->createdUser or $page->created_users_id bezpo\u015brednio z poziomu API."
+        },
+        "1684cd1767cda6618ed92febec9e78c6": {
+            "text": "API: $template->allowChangeUser = 1; \/\/ lub 0 by wy\u0142\u0105czy\u0107. Domy\u015blnie - 0."
+        },
+        "42a6e7a5ed0d0ae111fa88a2ccf1aca2": {
+            "text": "Nie zezwala\u0107 na przenoszenie stron?"
+        },
+        "518270f594c5488ff1f8de2ac0429f0e": {
+            "text": "Je\u015bli chcesz, aby strony z tym szablonem nie by\u0142y przenoszone (zmiana rodzica), zaznacz to pole."
+        },
+        "7ee14ea7ba968378f99fb3efa7ac22da": {
+            "text": "API: $template->noMove = 1; \/\/ lub 0 aby wy\u0142\u0105czy\u0107"
+        },
+        "4250b64aabe2bd1f7764377c2f5380c4": {
+            "text": "Wy\u0142\u0105czy\u0107 wsparcie wieloj\u0119zyczno\u015bci dla tego szablonu?"
+        },
+        "109da571222f1c753257a9ea7d9c0f23": {
+            "text": "Po zaznaczeniu strony korzystaj\u0105ce z tego szablonu b\u0119d\u0105 u\u017cywa\u0107 tylko j\u0119zyka domy\u015blnego."
+        },
+        "2ae2316266d64c1c1caa543c16fe62bc": {
+            "text": "API: $template->noLang = 1; \/\/ domy\u015blnie 0."
+        },
+        "8a08c3b7f2922be4ad8e59744781b796": {
+            "text": "Format nazwy strony"
+        },
+        "8a396099e3eecefcbbbbac1715a464de": {
+            "text": "Opcjonalnie okre\u015bl format dla nazw stron u\u017cywanych podczas dodawania nowej strony. Pozwala to pomin\u0105\u0107 krok \"Dodaj stron\u0119\", podczas dodawania stron. Do poprawnego dzia\u0142ania, szablon u\u017cywany przez stron\u0119 nadrz\u0119dn\u0105 musi definiowa\u0107 ten szablon (%s) jako jedyny dozwolony jako podrz\u0119dny (zobacz kart\u0119 \"Relacje\" w szablonie u\u017cywanym przez rodzica)."
+        },
+        "6058394e74833c97153b0edaec2fb369": {
+            "text": "Mo\u017cesz tu wpisa\u0107 dowolny tekst. Gdy zostanie utworzona nowa strona, a jej nazwa nie b\u0119dzie unikatowa, do ko\u0144ca b\u0119dzie dodawana liczba narastaj\u0105ca, a\u017c zostanie unikatowa."
+        },
+        "026e4114c3bd578141d593edfdcba4b6": {
+            "text": "Je\u015bli chcesz, aby nazwy stron otrzyma\u0142y swoj\u0105 warto\u015b\u0107 z pola tytu\u0142u: wpisz \"tytu\u0142\" powy\u017cej (bez cudzys\u0142ow\u00f3w)."
+        },
+        "cde43753349041653da0d29cc52a15fa": {
+            "text": "** Je\u015bli chcesz, aby Twoje nazwy stron odzwierciedla\u0142y dat\u0119 utworzenia ** wprowad\u017a [format daty] (http:\/\/www.php.net\/manual\/en\/function.date.php) powy\u017cej. Tw\u00f3j format daty musi zawiera\u0107 co najmniej jeden znak nie-alfanumeryczny (np. Uko\u015bnik \"\/\" lub dwukropek \":\"), aby m\u00f3c go rozpozna\u0107 jako format daty. Przyk\u0142ad: \"Y \/ m \/ d H: i: s\" utworzy stron\u0119 o nazwie: \"2014-10-30-12-39-01\". Jak wida\u0107, znaki inne ni\u017c alfanumeryczne nadal wyst\u0119puj\u0105ce w sformatowanej dacie, lecz s\u0105 one konwertowane na my\u015blniki."
+        },
+        "dc8ce981931b1e9b1f784c57730a67c1": {
+            "text": "Nale\u017cy pami\u0119ta\u0107, \u017ce wszystkie te ustawienia systemowe s\u0105 przeznaczone do opracowywania systemu ProcessWire (a nie do tworzenia witryn). Korzystaj z nich na w\u0142asne ryzyko."
+        },
+        "3920cc9a9feba6acfae659a68688f13c": {
+            "text": "Flaga systemowa."
+        },
+        "e92f2f24e876c414f6cca0e1ed3bfa73": {
+            "text": "Je\u015bli zaznaczono, ten szablon zostanie oznaczony jako systemowy i nie b\u0119dzie mo\u017cna go usun\u0105\u0107. Je\u015bli flaga zostanie w\u0142\u0105czona, mo\u017cn\u0105 j\u0105 wy\u0142\u0105czy\u0107 jedynie z poziomu API (flagSystemOverride)."
+        },
+        "86c66b6c28f25016de70be40475eb881": {
+            "text": "API: $template->flagSystem = 1; \/\/ lub 0 aby wy\u0142\u0105czy\u0107"
+        },
+        "0b81495a48a77b7743e0a20fa02e6af9": {
+            "text": "Nazwa klasy strony"
+        },
+        "cfab2e7a62a89871220c3ebac5367331": {
+            "text": "Nazwy klasy PHP kt\u00f3ra zostanie wykorzystana do stworzenia tego szablonu. Domy\u015blnie strona zostanie stworzona przy u\u017cyciu klasy Page. Pozostaw puste dop\u00f3ki nie masz w\u0142asnej klasy tworzenia stron kt\u00f3r\u0105 chcesz wykorzysta\u0107."
+        },
+        "9278bd133a7f5cd50f24a5a253f8ac9b": {
+            "text": "="
+        },
+        "85ac227eb16808008afaf07f66cf0f7e": {
+            "text": "Pomi\u0144 pola globalne?"
+        },
+        "fd83133f05e8bacf7eb368a2d95de8fe": {
+            "text": "Domy\u015blnie, gdy pole jest oznaczone jako \"globalne\", b\u0119dzie wymagane we wszystkich szablonach (i automatycznie dodawane do szablon\u00f3w, kt\u00f3re go nie maj\u0105). Je\u015bli ten szablon ma specjalny cel, w kt\u00f3rym pola \"globalne\" nie b\u0119d\u0105 mia\u0142y zastosowania, mo\u017cesz zaznaczy\u0107 to pole, aby ten szablon nie uwzgl\u0119dnia\u0142 \"globalnych\" p\u00f3l."
+        },
+        "381e3cba7a92b2d007d0d534a58b17ff": {
+            "text": "API: $template->noGlobal = 1; \/\/ lub 0 by wy\u0142\u0105czy\u0107"
+        },
+        "0176d878928026caefe7c81262335e1d": {
+            "text": "Wy\u015bwietl pole \"nazwa\" w zak\u0142adce zawarato\u015b\u0107?"
+        },
+        "61788997b579a9bcfe17e394d394ad01": {
+            "text": "Domy\u015blnie w zak\u0142adce edytora stron znajduje si\u0119 wbudowane pole 'name' (Nazwa). Je\u015bli wolisz umie\u015bci\u0107 je na karcie \"Zawarto\u015b\u0107\", zaznacz to pole."
+        },
+        "e864c0d94cbc5dc0faf1ce78d9021e63": {
+            "text": "API: $template->nameContentTab = 1; \/\/ lub 0 by wy\u0142\u0105czy\u0107"
+        },
+        "19a460b1edf9cc0616cd0ce03e9a0ddf": {
+            "text": "Wy\u0142\u0105czy\u0107 opcj\u0119 przenoszenia do kosza?"
+        },
+        "38354c9531a0d7056f7f98de8810a2f1": {
+            "text": "Je\u015bli zaznaczono, strony korzystaj\u0105ce z tego szablonu nie b\u0119d\u0105 mog\u0142y zosta\u0107 przeniesione do kosza."
+        },
+        "69385004eb4f22d17482beb09e549453": {
+            "text": "API: $template->noTrash = 1; \/\/ lub 0 by wy\u0142\u0105czy\u0107"
+        },
+        "a7c1ec59b9f4fea9e41e1ca799437193": {
+            "text": "Wy\u0142\u0105czy\u0107 zak\u0142adk\u0119 Ustawienia?"
+        },
+        "abad59d4cf5691fd0506cb650dff0f5b": {
+            "text": "Je\u015bli zaznaczono, strony korzystaj\u0105ce z tego szablonu nie b\u0119d\u0105 posiada\u0142y zak\u0142adki \"ustawienia\" w trakcie edycji."
+        },
+        "6a90024dcca935af3329542c3f346229": {
+            "text": "API: $template->noSettings = 1; \/\/ lub 0 by wy\u0142\u0105czy\u0107"
+        },
+        "a8d7050d17168bae58f775f20d56eeba": {
+            "text": "Czy strony korzystaj\u0105ce z tego szablonu mog\u0105 zawiera\u0107 podstrony?"
+        },
+        "0f79346b34fe5a07bf9ad38ef37e1723": {
+            "text": "Czy ten szablon mo\u017ce by\u0107 wykorzystywany dla nowych stron?"
+        },
+        "6ab8ac5b13a48347d2ca00a38bb06f94": {
+            "text": "Przyk\u0142adem szablonu, do kt\u00f3rego nie chcia\u0142(a)by\u015b dodwa\u0107 podstron, jest szablon \"strony g\u0142\u00f3wnej\"."
+        },
+        "06c2cea18679d64399783748fa367bdd": {
+            "text": "Jeden"
+        },
+        "b4a25e0860ab98f8476c6339abbb773b": {
+            "text": "wi\u0119cej nie jest dozwolone"
+        },
+        "1e791aefe4014d2551110c4348279487": {
+            "text": "Dozwolony szablon(szablony) dla podstron"
+        },
+        "fcdd2e278208618dfa795ed85ba1eb06": {
+            "text": "Wybierz szablon, kt\u00f3ry b\u0119dzie dozwolony dla podstron u\u017cywaj\u0105cych tego szablonu. U\u017cyj tej opcji tylko wtedy, gdy chcesz ograniczy\u0107 umieszczanie stron przy u\u017cyciu tego szablonu."
+        },
+        "9927f70231db8b53612513d00b934a7c": {
+            "text": "Je\u015bli nie wybrano \u017cadnego, wszystkie s\u0105 dozwolone, w granicach dost\u0119pu u\u017cytkownika. Przyk\u0142adem mo\u017ce by\u0107 szablon \"news-list\", kt\u00f3ry mo\u017ce mie\u0107 podstrony korzystaj\u0105ce tylko z szablon\u00f3w \"news-item\" lub \"press-release\"."
+        },
+        "ad1d924dc261c8945b07d271c9cd5888": {
+            "text": "Szablony oznaczone %s r\u00f3wnie\u017c musz\u0105 by\u0107 skonfigurowane tak, aby ten szablon by\u0142 nadrz\u0119dny. Kliknij dowolny wybrany szablon jako skr\u00f3t do konfiguracji dozwolonych stron nadrz\u0119dnych."
+        },
+        "81d8cfa67d7f3fa526cff71bd27238c5": {
+            "text": "Szablony oznaczone jako %s s\u0105 ju\u017c skonfigurowane tak, aby ten szablon by\u0142 nadrz\u0119dny."
+        },
+        "1b50b9bdfa1846ef031dc3cc190267d6": {
+            "text": "Dozwolony szablon(szablony) dla stron nadrz\u0119dnych"
+        },
+        "8d3a827d5474c79dc3434e5e29f7a80f": {
+            "text": "Wybierz szablon(szablony), kt\u00f3ry b\u0119dzie dozwolony jako rodzice stron, u\u017cywaj\u0105cych tego szablonu. U\u017cyj tego tylko wtedy, gdy chcesz ograniczy\u0107 umieszczanie stron przy u\u017cyciu tego szablonu."
+        },
+        "dc70febc65985c326b6d7a85502ddc0a": {
+            "text": "Je\u015bli nie wybrano \u017cadnego, ka\u017cdy szablon nadrz\u0119dny jest dozwolony, w granicach dost\u0119pu u\u017cytkownika. Przyk\u0142adem u\u017cycia mo\u017ce by\u0107 szablon \"pracownik\", kt\u00f3ry mo\u017ce mie\u0107 tylko stron\u0119 nadrz\u0119dn\u0105 korzystaj\u0105c\u0105 z szablonu \"katalog firmowy\"."
+        },
+        "fb3f093ab0572a059120f2c7c680da3c": {
+            "text": "Szablony oznaczone za pomoc\u0105 %s r\u00f3wnie\u017c musz\u0105 by\u0107 skonfigurowane tak, aby zezwala\u0107 na u\u017cycie tego szablonu na podstronach. Kliknij dowolny wybrany szablon jako skr\u00f3t do konfiguracji."
+        },
+        "173fc4509c54323d4c0da3ffea41742c": {
+            "text": "Szablony oznaczone z %s s\u0105 ju\u017c skonfigurowane tak, aby wykorzysta\u0107 ten szablon jako podstron\u0119."
+        },
+        "92fe79a8aa59b037f5f6e2b43f89fea8": {
+            "text": "Format nazw dla podstron"
+        },
+        "5cf485ae4559df60232a5ff0f87783cb": {
+            "text": "Opcjonalnie okre\u015bl format dla nazw podstron gdy nowa podstrona jest dodane. Pozwala to pomin\u0105\u0107 krok \"Dodaj stron\u0119\", gdy dodasz now\u0105 stron\u0119. Do poprawnego dzia\u0142ania, w polu \"Dozwolone szablony podstron\" w sekcji powy\u017cej nale\u017cy wybra\u0107 jeden szablon (1)."
+        },
+        "27dd547b53bb1b3c67c345f984747010": {
+            "text": "Pozostaw puste by wy\u0142\u0105czy\u0107. Wprowad\u017a \"tytu\" (bez apostrof\u00f3w) aby automatycznie wygenerowa\u0107 nazw\u0119 z tytu\u0142u strony. Wi\u0119cej opcji w tym u\u017cycie format\u00f3w daty jest dost\u0119pnych. [wi\u0119cej](http:\/\/processwire.com\/api\/modules\/process-template\/)"
+        },
+        "de4914b2943f3cfce0232ae281a8b155": {
+            "text": "Pokaza\u0107 skr\u00f3t w menu \"dodaj stron\u0119\"?"
+        },
+        "eaf9115aadc503ff009e4c769963a877": {
+            "text": "Po zaznaczeniu ten szablon mo\u017ce si\u0119 pojawi\u0107 na przycisku \/ menu podr\u0119cznym dodaj\u0105cym nowe strony na ekranie g\u0142\u00f3wnym. Zak\u0142ada si\u0119, \u017ce wszystkie inne warunki s\u0105 spe\u0142nione (patrz poni\u017cej)."
+        },
+        "9351544406147e2f9a081ce279e7f687": {
+            "text": "Aby dostosowa\u0107 kolejno\u015b\u0107 wy\u015bwietlania szablon\u00f3w w menu skr\u00f3t\u00f3w, zajrzyj do ustawie\u0144 modu\u0142u PageAdd."
+        },
+        "91426b7105692d7c29b6307385ea99d1": {
+            "text": "Wymagane warunki do poprawnego dzia\u0142ania"
+        },
+        "635a2459897d3f0072993713558c84b0": {
+            "text": "1. Musisz wybra\u0107 szablon nadrz\u0119dny (patrz: \"dozwolone szablony dla rodzic\u00f3w\" powy\u017cej). Je\u015bli wybrano wi\u0119cej ni\u017c 1, zostanie u\u017cyty tylko pierwszy."
+        },
+        "b14d306525e8d6e9927d577a59064048": {
+            "text": "2. Wybrany szablon nadrz\u0119dny musi mie\u0107 ten szablon zdefiniowany jako dozwolony dla podstron."
+        },
+        "67c0041f81951ac9b6b46dd2311fb9aa": {
+            "text": "Opcje sortowania dla podstron"
+        },
+        "2a233a750cca4cc7bde0dcc7f8a2c4ec": {
+            "text": "Je\u015bli chcesz, aby podstrony by\u0142y automatycznie sortowane wed\u0142ug konkretnego pola, zaznacz je tutaj. W przeciwnym razie wybierz opcj\u0119 \"Brak\", aby skorzysta\u0107 z mo\u017cliwo\u015bci sortowania na stronie. Opcja ta nadpisuje ustawienia strony, wi\u0119c je\u015bli wybierzesz cokolwiek innego ni\u017c \"Brak\", opcja sortowania nie pojawi si\u0119 dla stron u\u017cywaj\u0105cych tego szablonu."
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Wi\u0119cej"
+        },
+        "fd80e24b28f66f7a579ced68340fd3fa": {
+            "text": "Zezw\u00f3l na numeracj\u0119 stron?"
+        },
+        "991dba5ecf8a850b42ffc2e6d0697c2b": {
+            "text": "Je\u015bli zaznaczono, strony korzystaj\u0105ce z tego szablonu b\u0119d\u0105 wspiera\u0142y paginacj\u0119."
+        },
+        "4ee65b65a7329e4d76cce40b69075c2d": {
+            "text": "Uzyskaj dost\u0119p do numeru stron w pliku swojego szablonu korzystaj\u0105c z: $input->pageNum."
+        },
+        "fb72654fb51cb493c6d0123505d9e596": {
+            "text": "Czy adresy URL numeru strony powinien zawiera\u0107 uko\u015bnik?"
+        },
+        "3a426f05b968cc7c6022ac1388e7d8e7": {
+            "text": "Zezw\u00f3l na segmenty adresu URL"
+        },
+        "4295c2949c604273ad18a82924a06684": {
+            "text": "Je\u015bli zaznaczono, strony korzystaj\u0105ce z tego szablonu b\u0119d\u0105 posiada\u0142y wsparcie niestandardowych segment\u00f3w URL po adresie URL strony."
+        },
+        "3f967ce93af0de3a0457071f3d743f14": {
+            "text": "Uzyskaj dost\u0119p do bierz\u0105cych segment\u00f3w adresu URL w pliku swojego szablonu korzystaj\u0105c z: $input->urlSegmentStr."
+        },
+        "bbd5238aeedba403b7977656d2f132fc": {
+            "text": "Czy segment URL powinien ko\u0144czy\u0107 si\u0119 uko\u015bnikiem?"
+        },
+        "85eb71c20f7740fc3bdbf7dfdee2636b": {
+            "text": "Jakie segmenty URL maj\u0105 by\u0107 dost\u0119pne?"
+        },
+        "db2a37c1bdec2b30f0c7c9d789b3bfcc": {
+            "text": "Wprowad\u017a jeden segment, \u015bcie\u017ck\u0119 segmentu lub wyra\u017cenie regularne po jednym na linie, lub pozostaw puste by zezwoli\u0107 na dowolne."
+        },
+        "d5bf40c0f8c27c98db4d65ebc8cdc0c7": {
+            "text": "Czy adres URL strony powinien ko\u0144czy\u0107 si\u0119 uko\u015bnikiem?"
+        },
+        "60cb362641cd33525562c9d62d0f8d18": {
+            "text": "Je\u015bli tak, strony z tym szablonem zawsze b\u0119d\u0105 zawiera\u0107 adresy URL, kt\u00f3re ko\u0144cz\u0105 si\u0119 uko\u015bnikiem \"\/\". Je\u015bli strona jest \u0142adowana z adresu URL bez uko\u015bnika, zostanie przekierowana do niego. Je\u015bli wybierzesz \"Nie\", wymuszona zostanie wersja bez uko\u015bnika. Pami\u0119taj, \u017ce to ustawienie nie powoduje wymuszenia tego zachowania w segmentach URL lub numerach stron, a tylko w rzeczywistych adresach URL stron. Je\u015bli nie masz preferencji, zaleca si\u0119 pozostawi\u0107 to na \"Tak\"."
+        },
+        "2d234a37f1f09a868ff9e51cbec93c0a": {
+            "text": "Schemat \/ Protok\u00f3\u0142"
+        },
+        "249e45d525f325778f98cdd90eaf0b32": {
+            "text": "HTTP lub HTTPS"
+        },
+        "d50c90d8cbe8ba3ac7178aeb59f93b68": {
+            "text": "tylko HTTPS (Szyfrowane SSL)"
+        },
+        "ea43e91e88d8e9dd3cd46d5470fb71d6": {
+            "text": "Tylko HTTP"
+        },
+        "ecb1f1de9e0f813e37e40e2aa016c008": {
+            "text": "Je\u015bli twoja witryna posiada certyfikat SSL i jest dost\u0119pna przez HTTPS, mo\u017cesz tworzy\u0107 strony u\u017cywaj\u0105ce tego szablonu dost\u0119pnego tylko za po\u015brednictwem protoko\u0142u HTTPS lub HTTP. Na przyk\u0142ad je\u015bli wybierzesz opcj\u0119 \"tylko HTTPS\" poni\u017cej, a \u017c\u0105danie strony z u\u017cyciem tego szablonu odbywa si\u0119 za po\u015brednictwem protoko\u0142u HTTP, zostanie on automatycznie przekierowany do wersji HTTPS. Domy\u015blnie program ProcessWire umo\u017cliwia po\u0142\u0105czenie z protoko\u0142em HTTP lub HTTPS."
+        },
+        "3797b58404902683867d788211ac5ce2": {
+            "text": "Wykorzysta\u0107 skompilowane pliki?"
+        },
+        "e139846cbe34d9fe671e7b5975d367ba": {
+            "text": "Umo\u017cliwia ProcessWire zaktualizowanie twoich plik\u00f3w szablon\u00f3w w przestrzeni nazw (namespace) ProcessWire i stosowanie dowolnych zainstalowanych modu\u0142\u00f3w FileCompiler."
+        },
+        "d539c03bba4a77f2fb76ab46fa9b93f1": {
+            "text": "Zalecane przynajmniej dla plik\u00f3w szablon\u00f3w, kt\u00f3re nie korzystaj\u0105 z przestrzeni nazw (namespace) ProcessWire (jak te pochodz\u0105ce z witryn PW 2.x)."
+        },
+        "adab801f8cca3e7d6f780fe4853eb55f": {
+            "text": "Je\u015bli nie wiesz co wybra\u0107, pozostaw \"Auto\""
+        },
+        "cacd642e8d383be621123210fa6d9d74": {
+            "text": "(wy\u0142\u0105cz kompilatory)"
+        },
+        "a441d0ada5c25b0aaf68585c3cd98609": {
+            "text": "Auto (kompiluj gdy plik nie korzysta z namespace)"
+        },
+        "422d6e51e28831664b5c0b701b6c6182": {
+            "text": "(tylko pliki szablonu)"
+        },
+        "ad6d587b4370281434a47d58aaf1e5a5": {
+            "text": "(pliki szablon\u00f3w i wszystkie pliki do\u0142\u0105czane przez pliki szablon\u00f3w)"
+        },
+        "1d926a6b89b4bc848e3f4ffa3e1bd67d": {
+            "text": "Namespace w wykrytym szablonie jest: \"%s\"."
+        },
+        "0b506a8d05b70f0f99d7843e1e7ce9c2": {
+            "text": "Kompilowanie rekomendowane."
+        },
+        "9b404a9b5976b30bf436e218068b3d4d": {
+            "text": "Kompilowanie ne jest konieczne chyba \u017ce jest wymagane przez modu\u0142y lub dodatki."
+        },
+        "dc105ac52c237f9f09c74b0767f64f74": {
+            "text": "="
+        },
+        "65cee0d2556f206faa5e315e2f165551": {
+            "text": "Nag\u0142\u00f3wek z jakim powinno zosta\u0107 wys\u0142ane \u017ar\u00f3d\u0142o szablonu. Je\u015bli nie wybrano \u017cadnej opcji, ProcessWire nie wy\u015ble nag\u0142\u00f3wka typu zawarto\u015bci i w wi\u0119kszo\u015bci przypadk\u00f3w zostanie przyj\u0119ty tekst \/ html. Wyb\u00f3r typu zawarto\u015bci jest zalecany, gdy generowan\u0105 zawarto\u015bci\u0105 b\u0119dzie co\u015b innego ni\u017c html."
+        },
+        "6540057c786960e596930c3041771293": {
+            "text": "Aby doda\u0107 wi\u0119cej typ\u00f3w zawarto\u015bci, zobacz contentTypes w pliku \/wire\/config.php (i dodaj je do \/site\/config.php)."
+        },
+        "e9c90e0ba4fdd701df9d4ff73c82dc3e": {
+            "text": "Alternatywna nazwa pliku szablonu"
+        },
+        "f8faba0e1d9c277a84bb16a48f9d57f6": {
+            "text": "Nazwa pliku szablonu jest inna od: %s"
+        },
+        "217ca16c1e160b229a71c244512c3d4d": {
+            "text": "Pliki szablonu domy\u015blnie powinny znajdowa\u0107 si\u0119 w katalogu: %s"
+        },
+        "043008c261f9d0e109c03ab63e047bcd": {
+            "text": "Domy\u015blnym roszerzeniem pliku szablonu powinno by\u0107: %s"
+        },
+        "52ca64db1f0ca50831b3af91db6cd643": {
+            "text": "Do\u0142\u0105cz plik przed"
+        },
+        "58a0dd4014386dd156c47a6d69cdd5f8": {
+            "text": "Plik do do\u0142\u0105czenie do pliku szablonu (przed) w trakcie renderowania strony. Musi by\u0107 relatywny do \/site\/templates\/."
+        },
+        "0f7b5e8d336c577672820ac8d848fb4f": {
+            "text": "Do\u0142\u0105cz plik po"
+        },
+        "9c33f36534809a059d32ae185a28ad0e": {
+            "text": "Plik do do\u0142\u0105czenie do pliku szablonu (po) w trakcie renderowania strony. Musi by\u0107 relatywny do \/site\/templates\/."
+        },
+        "ab6b38f8849f9837a2fbb24721ab5e99": {
+            "text": "Wy\u0142\u0105cz automatyczne do\u0142\u0105czanie pliku przed: %s"
+        },
+        "07bbc1cae53fb8d26759b5564e6a5824": {
+            "text": "Ta opcja wy\u0142\u0105cza ustawienie $config->prependTemplateFile w \/site\/config.php tylko dla tego szablonu."
+        },
+        "95dac43782405c335b194c4f4ff28436": {
+            "text": "Wy\u0142\u0105cz automatyczne do\u0142\u0105czanie pliku po: %s"
+        },
+        "438f365e84607c69184559ff2e9d974b": {
+            "text": "Ta opcja wy\u0142\u0105cza ustawienie $config->appendTemplateFil w \/site\/config.php tylko dla tego szablonu."
+        },
+        "707380d7bcc2ece9eead5a5879fb1c22": {
+            "text": "Czy chcesz zarz\u0105dza\u0107 mo\u017cliwo\u015bci\u0105 widoku i dost\u0119pem do stron u\u017cywaj\u0105cych tego szablonu?"
+        },
+        "22ac5f69365966a7ce509e349b23539a": {
+            "text": "Je\u015bli wybierzesz \"Tak\", mo\u017cesz okre\u015bli\u0107, jakie role maj\u0105 dost\u0119p do stron u\u017cywaj\u0105cych tego szablonu. Je\u015bli wybierzesz \"Nie\", strony z tym szablonem b\u0119d\u0105 dziedziczy\u0107 dost\u0119p z ich stron nadrz\u0119dnych."
+        },
+        "26b6d64574e88f30f407e16212dc4d57": {
+            "text": "Co nale\u017cy zrobi\u0107, gdy u\u017cytkownik pr\u00f3buje wy\u015bwietli\u0107 stron\u0119 gdy nie ma dost\u0119pu?"
+        },
+        "e13c4cbb7f089450e12b10561001f9e1": {
+            "text": "Je\u015bli u\u017cytkownik pr\u00f3buje wej\u015b\u0107 na stron\u0119 u\u017cywaj\u0105c tego szablonu i nie ma dost\u0119pu do strony, co nale\u017cy zrobi\u0107?"
+        },
+        "998806f5cd0395d2ea2c406b57463397": {
+            "text": "Poka\u017c stron\u0119 404"
+        },
+        "1adb25e12d2b0d06683c3dc04e833631": {
+            "text": "Poka\u017c stron\u0119 logowania: %s"
+        },
+        "225237dc381e612f4bbf08dd75efdb71": {
+            "text": "Przekieruj do innego adresu URL"
+        },
+        "57f844c4a5ccb54207fa22705e7729a3": {
+            "text": "Wpisz adres URL lub stron\u0119, na kt\u00f3ry chcesz przekierowa\u0107, gdy u\u017cytkownik nie ma dost\u0119pu"
+        },
+        "b12715241d6f9d36629e189651930f08": {
+            "text": "To pole ma zastosowanie tylko w przypadku wybrania \"przekierowania do innego adresu URL\" w polu powy\u017cej."
+        },
+        "2f2055affca16d8404e278fc1d6c3a07": {
+            "text": "Opcjonalnie: w adresie URL mo\u017cesz do\u0142\u0105czy\u0107 tag '{id}' (by\u0107 mo\u017ce jako zmienna GET), i je\u015bli chcesz, zostanie on zast\u0105piony numerem identyfikacyjnym \u017c\u0105danej strony."
+        },
+        "77b116ba76d6cad7420de0729f5437cb": {
+            "text": "Czy strony powinny by\u0107 uwzgl\u0119dniane w wynikach wyszukiwania je\u015bli u\u017cytkownik nie ma do nich dost\u0119pu?"
+        },
+        "6ceb6814781363fa5e58fc38fe5910a1": {
+            "text": "Gdy u\u017cytkownik nie ma dost\u0119pu do wy\u015bwietlania strony przy u\u017cyciu tego szablonu, co powinno si\u0119 zdarzy\u0107 w wyszukiwaniach i na listach stron?"
+        },
+        "9afb9f536d5471f188308f8e160a555c": {
+            "text": "Tak - Strony mog\u0105 pojawia\u0107 si\u0119 w wynikach wyszukiwania \/ listach, nawet je\u015bli u\u017cytkownik nie ma dost\u0119pu do ich wy\u015bwietlania"
+        },
+        "ac32650de5a87d0e83f088edcefbc9a8": {
+            "text": "Nie - Strony nie mog\u0105 si\u0119 pojawia\u0107 w wynikach wyszukiwania \/ listach, chyba \u017ce u\u017cytkownik ma do nich dost\u0119p"
+        },
+        "724da4546b6908025f8a9fa99885297f": {
+            "text": "Notka API: To ustawienie wp\u0142ywa na wyniki zwracane przez $pages->find(), $page->children() i inne funkcje zwracaj\u0105ce PageArrays."
+        },
+        "ba9f2559a3fd0e360488de130ff7ab73": {
+            "text": "Zezwalaj aby dost\u0119p zwi\u0105zany z edycj\u0105 by\u0142 dziedziczony przez podstrony?"
+        },
+        "ef4a1860dd8847a43619b6ca5f26e638": {
+            "text": "Domy\u015blnie, wszystkie ustawienia dost\u0119pu dla tego szablonu s\u0105 dziedziczone na drzewie stron, a\u017c do strony gdzie wykorzystywany jest szablon z innymi ustawieniami dost\u0119pu, kt\u00f3re zast\u0105pi\u0105 bie\u017c\u0105ce ustawienia."
+        },
+        "6aee0c8c870a84f930c97c2eb1427c8d": {
+            "text": "Wybierz tutaj opcj\u0119 \"Nie\" je\u015bli chcesz aby dost\u0119p zwi\u0105zany z edycj\u0105 stron NIE by\u0142 dziedziczony przez podstrony korzystaj\u0105ce z innych szablon\u00f3w. Dost\u0119p do widoku strony b\u0119dzie nadal dziedziczony w dowolny spos\u00f3b."
+        },
+        "2678dd0fb63b2adfb38fe14f66d6c6b5": {
+            "text": "Zezwalaj aby dost\u0119p zwi\u0105zany z edycj\u0105 by\u0142 dziedziczony przez podstrony kt\u00f3re nie posiadaj\u0105 kontroli dost\u0119pu?"
+        },
+        "1dee747820c27fbdc81384045a54c8c3": {
+            "text": "Ogranicz dost\u0119p zwi\u0105zany z edycj\u0105 do stron korzystaj\u0105cych tylko z tego szablonu."
+        },
+        "e91c9dce55b792f0254aeb69ba314f17": {
+            "text": "Jakie role maj\u0105 dost\u0119p do stron korzystaj\u0105cych z tego szablonu (i stron dziedzicz\u0105cych ustawienia tego szablonu)?"
+        },
+        "8b961334d86b2e4afdb29a825b7537f5": {
+            "text": "Uwaga: opcje edycji \/ tworzenia \/ dodawania s\u0105 wy\u0142\u0105czone w przypadku r\u00f3l, kt\u00f3re nie maj\u0105 obecnie uprawnie\u0144 do edytowania strony."
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(wszyscy)"
+        },
+        "34aeb942ccc5860ae5af2885bf346a5d": {
+            "text": "Dodatkowe uprawnienia edycji i nadpisa\u0144"
+        },
+        "5cd4a0ea4859ae8a1371ded392cfff3b": {
+            "text": "Opcjonalnie dodaj lub lub cofnij uprawnienia przypisanej do ka\u017cdej z roli, gdy jest wymagane na stron\u0119 przy u\u017cyciu tego szablonu (lub dziedziczy dost\u0119p z niego)."
+        },
+        "f0ec91a2ccc29fee4de702e940b186a8": {
+            "text": "Dost\u0119pne opcje s\u0105 uzale\u017cnione od wybor\u00f3w w \"Edytuj strony\" powy\u017cej. W rezultacie nale\u017cy zapisa\u0107 ten szablon i wr\u00f3ci\u0107 tutaj po wprowadzeniu zmian w rolach z dost\u0119pem do \"Edytuj strony\" powy\u017cej."
+        },
+        "b50d7f1673d8d8694f84094c093718df": {
+            "text": "Opcje s\u0105 pokazane w formacie \"rola:uprawnienie\". Opis wszystkich uprawnie\u0144 znajduje si\u0119 w [permissions reference](%s)."
+        },
+        "a1066ecb03f6d2dfa02c658ba45dc08a": {
+            "text": "Dodawanie uprawnie\u0144 wed\u0142ug roli"
+        },
+        "3d7582ad0b178e43f075e25248efdc12": {
+            "text": "Cofanie uprawnie\u0144 wed\u0142ug roli"
+        },
+        "211addf77f182a8c4e3b0911eb82e05f": {
+            "text": "Usuni\u0119ty szablon"
+        },
+        "f048d404737b6fafd4849b8cd850e983": {
+            "text": "Uwaga, plik nie istnieje"
+        },
+        "e2cbec4ffca6b29170e0a79d38d2b6dd": {
+            "text": "Pomini\u0119to zmian\u0119 nazwy szablonu, prosz\u0119 doko\u0144czy\u0107 to po zako\u0144czeniu bie\u017c\u0105cej akcji."
+        },
+        "ce79a399cbe0a2128106c428d5f5227c": {
+            "text": "Zapisano szablon: %s"
+        },
+        "dd086c8dc23fef8fb9543424864aa9cb": {
+            "text": "Nieprawid\u0142owa nazwa szablonu podana dla kopii"
+        },
+        "ab64903a1bc47ab8cf1767e8d6581c2d": {
+            "text": "Nie mo\u017cna skopiowa\u0107 poniewa\u017c szablon o takiej nazwie ju\u017c istnieje"
+        },
+        "0ce8e11f27f5cff906b08ff533da5567": {
+            "text": "Utworzono kopi\u0119 szablonu \"%1$s\" o nazwie \"%2$s\"."
+        },
+        "dbb2a9bf7f53894204e7b75a4a323fa2": {
+            "text": "B\u0142\u0105d tworzenia kopii tego szablonu"
+        },
+        "a9b81f1f8d87e20c79d70ad42cc924e3": {
+            "text": "Zduplikowano pola z \"%1$s\" do \"%2$s\""
+        },
+        "a2b2765c9702ca543cd769b157062377": {
+            "text": "Pole \"%s\" nie mo\u017ce zosta\u0107 usuni\u0119te poniewa\u017c jest globalnie wymagane przez grup\u0119 p\u00f3l"
+        },
+        "363b220544077dba6890921e123486dc": {
+            "text": "B\u0142\u0105d podczas umieszczania pola \/ zak\u0142adki \"%s\" - prosz\u0119 naprawi\u0107 i zapisa\u0107 ponownie"
+        },
+        "6e82edd479b2b5c07f250031d13a9b92": {
+            "text": "Zapisano grup\u0119 p\u00f3l: %s"
+        },
+        "fddc330c21a2e3fa08c9af7307dd2046": {
+            "text": "Pola, kt\u00f3re zostan\u0105 usuni\u0119te"
+        },
+        "c69da3a709ad376098eb517be436a12b": {
+            "text": "Zarz\u0105da\u0142e\u015b(a\u015b) zmiany grupy p\u00f3l z \"%1$s\" do \"%2$s\"."
+        },
+        "0cd878f5f6c3ecd2d309d74c608cf0e3": {
+            "text": "Na stronach u\u017cywaj\u0105cych tego szablonu zostan\u0105 trwale usuni\u0119te nast\u0119puj\u0105ce pola:"
+        },
+        "794ed990b58e042f53c8e1b0f9c48b77": {
+            "text": "Potwierd\u017a, \u017ce rozumiesz powy\u017csze i chcesz zmieni\u0107 grup\u0119, zaznaczaj\u0105c pole i potwierdzaj\u0105c ten formularz."
+        },
+        "1a1e5b08d1538484177a49ce2168b297": {
+            "text": "Prosz\u0119 potwierdzi\u0107, \u017ce chcesz zmieni\u0107 grup\u0119 p\u00f3l z %1$s\" do \"%2$s\""
+        },
+        "95faabcca5ce9361cfbbfdac564540a6": {
+            "text": "Zmie\u0144 grup\u0119 p\u00f3l dla szablonu: %s"
+        },
+        "48a72eabb7f3f13f0d942bb2cdfe9811": {
+            "text": "Zmiana grupy p\u00f3l anulowana"
+        },
+        "62596dd3b1918d492b97f5945dc8aea8": {
+            "text": "Zmieniono grup\u0119 p\u00f3l szablonu do: %s"
+        },
+        "b58b1fada0411080ca80b5199d2e56ce": {
+            "text": "Usu\u0144 Pola z Szablonu: %s"
+        },
+        "b82a3ccab15c9f7ea79ccae4fb4b7c3a": {
+            "text": "Usu\u0144 pola z szablonu"
+        },
+        "297401f75a53c46e41a44c9d91738f1e": {
+            "text": "Poprosi\u0142e\u015b o usuni\u0119cie jednego lub wi\u0119cej p\u00f3l z szablonu. Spowoduje to, \u017ce dane zwi\u0105zane z polami poni\u017cej zostan\u0105 trwale usuni\u0119te. Je\u015bli usuni\u0119te pola zawieraj\u0105 wiele danych, mo\u017ce min\u0105\u0107 troch\u0119 czasu do zako\u0144czenia operacji. Potwierd\u017a, \u017ce to zrozumiesz i chcesz usun\u0105\u0107 te pola, zaznaczaj\u0105c pola poni\u017cej."
+        },
+        "b9b9ac08c6bde335d1b5758d4dfcd1da": {
+            "text": "Usuni\u0119to pole \"%1$s\" z szablonu \"%2$s\""
+        },
+        "3617ad2fed81de1357bb35b0459bf8b8": {
+            "text": "Nazwa tego szablonu nie mo\u017ce zosta\u0107 zmieniona, gdy\u017c jest to szablon systemowy"
+        },
+        "690d663be740c77b16476dfd06a4a4b7": {
+            "text": "Nazwa \"%s\" jest ju\u017c u\u017cywana"
+        },
+        "7b2365f3c03bbf66c17531b39af975f9": {
+            "text": "Zmieniono nazw\u0119 szablonu \"%1$s\" na \"%2$s\""
+        },
+        "348267a4dada558acc9b2cd1b68ad41e": {
+            "text": "Zmieniono nazw\u0119 pliku szablonu \"%1$s\" na \"%2$s\""
+        },
+        "ea24ff7efc7e185e1c6f8d52266fefdc": {
+            "text": "Nie uda\u0142o si\u0119 zmieni\u0107 nazwy pliku \"%1$s\" na \"%2$s\" w ktalogu \"%3$s\". Musisz zmieni\u0107 nazw\u0119 pliku manualnie."
+        },
+        "cbb29209ccd6a869e389572e793b1f1b": {
+            "text": "Plik szablonu \"%1$s\" nie zosta\u0142 odnaleziony w katalogu \"%2$s\". Musisz zmieni\u0107 nazw\u0119 pliku \"%3$s\" na \"%1$s\" manualnie."
+        },
+        "d40a1614c5e9e10db2d5d9f94a0482bb": {
+            "text": "Zmie\u0144 nazw\u0119 szablonu \"%1$s\" na \"%2$s\""
+        },
+        "f7c1d3ba270aa43fe36e00ee3a1e9718": {
+            "text": "Potwierd\u017a, \u017ce chcesz zmieni\u0107 nazw\u0119 tego szablonu, zaznaczaj\u0105c pole poni\u017cej."
+        },
+        "82ae9be0c318ed67592703448c77d4d6": {
+            "text": "Plik szablonu \"%s\" wydaje si\u0119 by\u0107 zapisywalny, wi\u0119c spr\u00f3bujemy zmieni\u0107 jego nazw\u0119."
+        },
+        "df3f89873c6527f24453345a6b7f263f": {
+            "text": "Pliku szablonu \"%1$s\" nie mo\u017cna zapisa\u0107. Przed klikni\u0119ciem zapisz zmie\u0144 jego nazw\u0119 na \"%2$s\"."
+        },
+        "29a2d50c9d90354a16943888d8e700da": {
+            "text": "Usuni\u0119to pole \"%1$s\" z szablonu\/grupy p\u00f3l \"%2$s\""
+        },
+        "da49c8bb3f9748634bedc77fac9221f9": {
+            "text": "Dodano pole \"%1$s\" do szablonu\/grupy p\u00f3l \"%2$s\""
+        },
+        "7df96b18c230f90ada0a9e2307226338": {
+            "text": "Szablony"
+        },
+        "31a0330754505f0778be18e7b4dbc661": {
+            "text": "Poka\u017c i edytuj szablony kt\u00f3re kontroluj\u0105 wy\u015bwietlanie strony"
+        },
+        "b16492fba46029659b0d16ce05bab82f": {
+            "text": "Dodaj Nowy Szablon"
+        },
+        "6855bfdf44496210543dabeb8f88a1c0": {
+            "text": "="
+        },
+        "e08a48beb01151e3dbd6c4b01d14d641": {
+            "text": "Poka\u017c wszystkie"
+        },
+        "6468942ecc94c202802ee17efdbda184": {
+            "text": "Pola"
+        },
+        "adc3250d7ccf9a0303cc0b44d70917d6": {
+            "text": "Strony"
+        },
+        "b81ec9ff37dd594fd51bb7b72bc82e34": {
+            "text": "nie-plik"
+        },
+        "ce74097d91e1181f033e39e38736dd5a": {
+            "text": "pami\u0119\u0107 podr\u0119czna"
+        },
+        "2b76a5ea71d797b2e9b2b4a0c0eeaf29": {
+            "text": "="
+        },
+        "0630333bf0b09b371182fe756dec526a": {
+            "text": "Segmenty URL"
+        },
+        "289abb71620e21f484c91df47d263eec": {
+            "text": "Numery stron"
+        },
+        "a90b5efafea041e94da7fffd2bd530a3": {
+            "text": "Podstawowe"
+        },
+        "0daea515bb26aec31f4e6ebbee953cd7": {
+            "text": "Relacje"
+        },
+        "21ddd66d87bebbaaf6bba5319e5b7f97": {
+            "text": "Adresy URL"
+        },
+        "323686db2bb70f95c6bedc86d5c3387d": {
+            "text": "Pliki"
+        },
+        "ff2e33d2066471fd192bf41c39322cd1": {
+            "text": "Pami\u0119\u0107 Podr\u0119czna"
+        },
+        "08b4ed72628b718cbe3158eb2eaf10a2": {
+            "text": "="
+        },
+        "03a481d8869ea4aa815e15943c4577dd": {
+            "text": "Grupa p\u00f3l"
+        },
+        "2bcb87bddf14231177c0d5a7be879871": {
+            "text": "Pola"
+        },
+        "c900d3e459e4a6e87b601d950c86a3bb": {
+            "text": "Pola"
+        },
+        "3542eba15a5738faa3ec20dac5e8c2b1": {
+            "text": "Czas przechowywania pami\u0119ci podr\u0119cznej"
+        },
+        "3050063a3917b13308a0470879b3259f": {
+            "text": "Etykieta zak\u0142adki Zawarto\u015b\u0107"
+        },
+        "7b5a26bd066cf9716b38372f73408f10": {
+            "text": "Etykieta zak\u0142adki Strona Podrz\u0119dna"
+        },
+        "13138fdee141d39a065f3fe82c0e0676": {
+            "text": "Etykieta dla w\u0142a\u015bciwosci Nazwy Strony"
+        },
+        "afd2f2d22bac5fd1faf1abf753685366": {
+            "text": "="
+        },
+        "30a75d09489b9f6a393c3885b81ec0b1": {
+            "text": "Zobacz strony"
+        },
+        "a42aa7fb5a74afbdcaf92c44bd99bd3c": {
+            "text": "Edytuj strony"
+        },
+        "e431e1335b3c843758bbed8b021eeee9": {
+            "text": "Stw\u00f3rz strony"
+        },
+        "46c22ba22392809d478c6f312de87f62": {
+            "text": "Dodaj stron\u0119 podrz\u0119dn\u0105"
+        },
+        "a7e26a26319b0fc9973181a9d9c1baaa": {
+            "text": "Kontynuuj"
+        },
+        "af497bbd8d42241e09e0f593a8550aa3": {
+            "text": "Usu\u0144 Pola"
+        },
+        "860024d803b29185e2cb90399cc73599": {
+            "text": "Ten szablon jest wykorzystywany przez stron\u0119 %d"
+        },
+        "d26c2f7eb253b0202c2769f3dd232d96": {
+            "text": "Ten szablon jest wykorzystywany przez strony: %d"
+        },
+        "e37f4fc0441c524ee5a89453f12178c8": {
+            "text": "Dodaj szablon"
+        },
+        "0f12f2b440ad104a1ee7cb027aba8b18": {
+            "text": "Dodaj szablony"
+        },
+        "9fa7e7b76dafb5ffcb0b9bfbba9a65fd": {
+            "text": "%d strona"
+        },
+        "207ab96f9895f87f78f6c6162f323a4f": {
+            "text": "(%d) stron"
+        },
+        "14bcc27345b2325a5e492384a734c1aa": {
+            "text": "Szablon jest u\u017cywany przez 1 stron\u0119"
+        },
+        "957ba77c721f931f1ad38ed47b98fd0d": {
+            "text": "Szablon jest u\u017cywany przez stron (%d)"
+        },
+        "65f037a0e08b94d9e42932b68c5eaf29": {
+            "text": "Grupa p\u00f3l tego szablonu jest wykorzystywane przez jeszcze 1 szablon"
+        },
+        "18dec3122ea08276dd94476904bcef7b": {
+            "text": "Grupa p\u00f3l tego szablonu jest wykorzystywane przez (%d) innych szablon\u00f3w"
+        }
+    }
+}

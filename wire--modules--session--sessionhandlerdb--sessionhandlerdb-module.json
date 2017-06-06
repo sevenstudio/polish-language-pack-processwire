@@ -1,0 +1,18 @@
+{
+    "file": "wire\\modules\\Session\\SessionHandlerDB\\SessionHandlerDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--sessionhandlerdb-module",
+    "translations": {
+        "6514b2122a2e569491dccb69eebe383c": {
+            "text": "Zaznaczenie tego pola spowoduje, \u017ce dane zostan\u0105 wy\u015bwietlone na li\u015bcie sesji administracyjnych."
+        },
+        "262f42ad28e2d01d7dc5afa698716099": {
+            "text": "\u015aledzenie adres\u00f3w IP w danych sesji?"
+        },
+        "ab5b4b2116f61fda9325e6deb591bb8f": {
+            "text": "\u015aledzenie agenta u\u017cytkownika w danych sesji?"
+        },
+        "703fdc8134134754f6630df73ee50572": {
+            "text": "Agent u\u017cytkownika zazwyczaj zawiera informacje dotycz\u0105ce u\u017cywanej przegl\u0105darki."
+        }
+    }
+}

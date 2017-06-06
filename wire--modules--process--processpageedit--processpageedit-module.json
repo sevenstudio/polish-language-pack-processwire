@@ -1,0 +1,255 @@
+{
+    "file": "wire\\modules\\Process\\ProcessPageEdit\\ProcessPageEdit.module",
+    "textdomain": "wire--modules--process--processpageedit--processpageedit-module",
+    "translations": {
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Zapisz"
+        },
+        "f4f70727dc34561dfde1a3c529b6205c": {
+            "text": "Ustawienia"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Usu\u0144"
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Potwierd\u017a"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Napewno?"
+        },
+        "7ba9fe21b073af37b16f989e23112967": {
+            "text": "Nieznana strona"
+        },
+        "b8e75fd085c6615286cee6fdc4e880ec": {
+            "text": "Ta strona jest zablokowana do edycji"
+        },
+        "386397f000925f7d90c87a913a678eed": {
+            "text": "Nie masz uprawnie\u0144 do edycji"
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + Wyj\u015bcie"
+        },
+        "1040873c1bf94b1995201c648a15989d": {
+            "text": "%s + Zobacz"
+        },
+        "407911b74ab384304ea0190675a00894": {
+            "text": "%s + Dodaj"
+        },
+        "cc231fc91e42d1e391bbce1fc541959f": {
+            "text": "%s + Nast\u0119pne"
+        },
+        "109f29a4bda4c9b4a00ffd5452fe9515": {
+            "text": "Czy na pewno? Trwa obecnie przesy\u0142anie i mo\u017ce zosta\u0107 utracone w przypadku kontynuowania."
+        },
+        "a1c508c8dcf832bde214942a479c63e5": {
+            "text": "Ta strona znajduje si\u0119 w koszu"
+        },
+        "404dd23de1c6c7edc7927e5262b93a1b": {
+            "text": "Zapisz + Niepublikuj"
+        },
+        "110a4b01beabd53b661a47d4b44bd7a8": {
+            "text": "Publikuj"
+        },
+        "f15c1cae7882448b3fb0404682e17e61": {
+            "text": "Tre\u015b\u0107"
+        },
+        "64e4aca4297806247f62a7b5f8cbd3df": {
+            "text": "Strony podrz\u0119dne"
+        },
+        "9b30437c5e1e966fa90525c93356fd3f": {
+            "text": "Strona podrz\u0119dna \/ Strony podrz\u0119dne (dzieci)"
+        },
+        "b5c4bc5ddd4b490f3e2bf5abc0945f1d": {
+            "text": "Obecnie nie ma \u017cadnych stron podrz\u0119dnych pod t\u0105 stron\u0105."
+        },
+        "fcdd8c7fe4647ee6186ea45dd69d425d": {
+            "text": "Strony podrz\u0119dne s\u0105 sortowane wed\u0142ug: \"%s\", zgodnie z ustawieniami szablonu."
+        },
+        "a13cc55582da47cab1f7cc7518700c6e": {
+            "text": "Dodaj tutaj now\u0105 stron\u0119"
+        },
+        "7e92f49c92e3f91ed88f03063fc34748": {
+            "text": "Ustawienia kolejno\u015bci (sortowanie)"
+        },
+        "ea1a60a080fc428d2c18d9e6d33ded08": {
+            "text": "Je\u015bli chcesz, aby wszystkie bie\u017c\u0105ce i przysz\u0142e podstrony by\u0142y automatycznie posortowane wed\u0142ug konkretnego pola, zaznacz pole poni\u017cej i opcjonalnie zaznacz pole wyboru \"odwr\u00f3\u0107\", aby zmieni\u0107 kolejno\u015b\u0107 na malej\u0105ce. Pozostaw pole puste, je\u015bli chcesz ustawi\u0107 kolejno\u015b\u0107 r\u0119cznie poprzez przeci\u0105gnij i upu\u015b\u0107."
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Szablon"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Strona nadrz\u0119dna (rodzic)"
+        },
+        "1ad359c38781f8fc924a380559d60c42": {
+            "text": "Dodane przez u\u017cytkownika"
+        },
+        "567d412904b379e49382b6e3b90881ca": {
+            "text": "Dodane przez %1$s dnia %2$s"
+        },
+        "1dec6a532601f755520b9567091e1bf8": {
+            "text": "Ostatnio modyfikowane przez %1$s dnia %2$s"
+        },
+        "0b7b79dc6ffa228f9e59cecc61c4efb6": {
+            "text": "Opublikowano %s"
+        },
+        "4059b0251f66a18cb56f544728796875": {
+            "text": "="
+        },
+        "cacab211629daeffac10e13574e49d9e": {
+            "text": "Ukryte: Nieuwzgledniane na listach i w wynikach wyszukiwania"
+        },
+        "ab4b835121255016ef73bea7f4ea45a7": {
+            "text": "Zablokowane: Brak mo\u017cliwo\u015bci edycji"
+        },
+        "0fdd10ee950975e58b122abb2de3a49b": {
+            "text": "Nieopublikowane: Niewidoczne na stronie"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "="
+        },
+        "aa47bb0913144619a0a9abc59d59d6ed": {
+            "text": "Usu\u0144 ca\u0142kowicie"
+        },
+        "7a289ea949902e8fa53efb4b3b4ccea0": {
+            "text": "Przenie\u015b do kosza"
+        },
+        "62a92c8e1a013dc0c9a67f2769642e9f": {
+            "text": "Zaznacz to pole aby potwierdzi\u0107, \u017ce napewno chcesz to zrobi\u0107."
+        },
+        "6e2e3de95055596f315a073f771342e3": {
+            "text": "Ta stronie nie mo\u017ce by\u0107 usuni\u0119ta tym razem"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Zobacz"
+        },
+        "d2387a51d9f67d60dfc2cbb23bd04af2": {
+            "text": "Kto ma mie\u0107 dost\u0119p do tej strony?"
+        },
+        "36c2b914f293a142343cba0f3157d748": {
+            "text": "Co mog\u0105 zrobi\u0107?"
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(wszyscy)"
+        },
+        "eec429d33814974270e5ab8a04a3d23e": {
+            "text": "Dost\u0119p jest zdefiniowany przez szablon tej strony: %s"
+        },
+        "890e4f4dd63b6c580cbf534f25914565": {
+            "text": "Dost\u0119p jest dziedziczony ze strony \"%1$s\" i zdefiniowany przez szablon: %2$s"
+        },
+        "df74a326081d841aef061c999c7979f3": {
+            "text": "Zmieniono: %s"
+        },
+        "c0df350b3d4fe22546834d74cdc77023": {
+            "text": "Opublikowano stron\u0119: %s"
+        },
+        "9ce0bc0d85071636f750e39ea86f86c0": {
+            "text": "Zapisano stron\u0119: %s"
+        },
+        "421318b075c43ddcd5426197f778c43c": {
+            "text": "Nie mo\u017cesz zosta\u0107 opublikowana do p\u00f3ki nie zostan\u0105 poprawione wszelkie b\u0142\u0119dy."
+        },
+        "30b78fb546fe9686f84a740a5e5524a3": {
+            "text": "Zmieniono alias URL strony na \"%s\" poniewa\u017c wybrany alias jest ju\u017c zaj\u0119ty."
+        },
+        "4c2915288e6804dd4b1adf9819439b19": {
+            "text": "Nie ma dost\u0119pnej nast\u0119pnej strony do edycji."
+        },
+        "e1ccd342c70dde8fd239432c69aa55e0": {
+            "text": "Przywr\u00f3cono poprzedni\u0105 warto\u015b\u0107"
+        },
+        "f3e0ef028ad1fda84b2b567684c67846": {
+            "text": "Stronie nieopublikowana poniewa\u017c pole: \"%s\" jest wymagane."
+        },
+        "17f8097b4af11ef352554fc7dd416c34": {
+            "text": "Wybrany szablon: '%s' jest niedozwolony"
+        },
+        "c4101b17a6f3bb8ffbe40eb9edef2347": {
+            "text": "Nie mo\u017cna usun\u0105\u0107 tej strony"
+        },
+        "827884bd1b673b7e58def7d09bf59b8b": {
+            "text": "Usuni\u0119to stron\u0119: %s"
+        },
+        "a419fb9d9fe259c36eb1e4a99462bd1f": {
+            "text": "Przeniesiono stron\u0119: %s do kosza"
+        },
+        "6c86eb040dbb20b1c6e1e891774b27ac": {
+            "text": "Nie mo\u017cna przenie\u015b\u0107 strony do kosza"
+        },
+        "11daf8e4f72e87c440ed3e0cac443157": {
+            "text": "Potwierd\u017a zmian\u0119 szablonu"
+        },
+        "8f1db4fbdd736bfc472e99f61be9e56f": {
+            "text": "Zmie\u0144 szablon z \"%1$s\" na \"%2$s\""
+        },
+        "48af63aeec834982fcf91e325aaea998": {
+            "text": "Uwaga, zmiana szablonu spowoduje usuni\u0119ci\u0119 nast\u0119puj\u0105cych p\u00f3l:"
+        },
+        "e4c2fcbaac781d00fe1e192a4d94c0e9": {
+            "text": "Prosz\u0119 potwierdzi\u0107 \u017ce rozumiesz powy\u017csze zaznaczaj\u0105c pole poni\u017cej."
+        },
+        "6b102e11bd33fb8f4be6a6cecf2c491b": {
+            "text": "Nie masz uprawnie\u0144 do zmiany szablonu na tej stronie."
+        },
+        "854de5f33bda667c67117b0aaee5a9cf": {
+            "text": "Wybrany szablon nie jest dozwolony"
+        },
+        "d4ad7f8661990f191def1fb3a6accbd9": {
+            "text": "Zmieniono szablon na '%s'"
+        },
+        "7b9bb8a9e6b0d2b64837e652485e11c9": {
+            "text": "Edytuj stron\u0119: %s"
+        },
+        "90a2c610d9bb43ef59bc60c944c7633f": {
+            "text": "Domy\u015blna pozycja\/akcja przycisku \"zobacz\""
+        },
+        "d6b9987fabd38f232ada46d046aa4f88": {
+            "text": "Domy\u015blny typ akcji, kiedy klikni\u0119ta zostanie zak\u0142adka \"zobacz\" na stronie edycji"
+        },
+        "7ddc881b8c4b63699dd8487273384a38": {
+            "text": "Kolejno\u015b\u0107 stron podrz\u0119dnych zale\u017cy od:"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "\u017badne"
+        },
+        "20a90cbb1d0984f5ecf4fe0cf01fe47e": {
+            "text": "Manualnie - przeci\u0105gnij i upu\u015b\u0107"
+        },
+        "591acadb8502cd6db313b718df45a6f4": {
+            "text": "Natywne pola"
+        },
+        "833956a760d996ae61ea8b385e9fb6f0": {
+            "text": "Niestandardowe pola"
+        },
+        "d49042595c2674084c92d561b714d522": {
+            "text": "Odwr\u00f3ci\u0107 kolejno\u015b\u0107?"
+        },
+        "25ed18e06e982b711a80310caf119563": {
+            "text": "Widok strony"
+        },
+        "43aaebd9ba4408c30e8e5164b4860ae6": {
+            "text": "="
+        },
+        "c772431f8a16790370305c86f948c6f5": {
+            "text": "Okno wyskakuj\u0105ce"
+        },
+        "c97f398820bf360b28776372f47a115a": {
+            "text": "Nowe okno\/zak\u0142adka"
+        },
+        "7e7b8eaf9921d2a698937d925748e85b": {
+            "text": "Wyjd\u017a + Zobacz"
+        },
+        "e76ea9d62d4a434a98238f3ec7932075": {
+            "text": "wszystkie"
+        },
+        "265dabf958cffe4bf96d445dcddf8678": {
+            "text": "%d zmiana"
+        },
+        "4e5878c0e4b4e901ee96c19e7fd05914": {
+            "text": "zmian: %d"
+        },
+        "bbbabdbe1b262f75d99d62880b953be1": {
+            "text": "="
+        }
+    }
+}

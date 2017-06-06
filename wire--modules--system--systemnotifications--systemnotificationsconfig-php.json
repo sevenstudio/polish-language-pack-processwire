@@ -1,0 +1,141 @@
+{
+    "file": "wire\\modules\\System\\SystemNotifications\\SystemNotificationsConfig.php",
+    "textdomain": "wire--modules--system--systemnotifications--systemnotificationsconfig-php",
+    "translations": {
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "W\u0142\u0105cz"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Wy\u0142\u0105cz"
+        },
+        "945d5e233cf7d6240f6b783b36a374ff": {
+            "text": "Lewa"
+        },
+        "92b09c7c48c520c3c55e497875da437c": {
+            "text": "Prawa"
+        },
+        "64930416d9c5663de5d4ef880d8e0b0e": {
+            "text": "Status powiadomie\u0144"
+        },
+        "2e9cdb9adc7f7c13f750d7fe7ab46979": {
+            "text": "Kiedy wy\u0142\u0105czone, powiadomienie nie b\u0119d\u0105 pokazywane"
+        },
+        "1983cbef846882d5eb60db0f1af3cf4a": {
+            "text": "\u015aled\u017a edycj\u0119 stron?"
+        },
+        "6f089aa14345991d2dc5234b61b2841c": {
+            "text": "Powiadamia u\u017cytkownik\u00f3w, o pr\u00f3bie edytowania strony, kt\u00f3ra jest w\u0142a\u015bnie edytowana."
+        },
+        "51bcb0deba18f3c17526ac9589275a1b": {
+            "text": "Kolejno\u015b\u0107 powiadomie\u0144"
+        },
+        "452fe939bf3b82240e39d4e32402f191": {
+            "text": "Wybierz kolejno\u015b\u0107 wy\u015bwietlania powiadomie\u0144"
+        },
+        "dbc0773df87763dba658c0718cb23cbd": {
+            "text": "Najnowsze do najstarszych"
+        },
+        "795c06257e98282a98f9b4372343154c": {
+            "text": "Najstarsze do najnowszych"
+        },
+        "2871a976bc7a1ed674bc578c34af81ee": {
+            "text": "W\u0142\u0105cz \u0142\u0105cza(hooks) automatycznych powiadomie\u0144"
+        },
+        "b106396b3992fc580dd88f36d98c32b5": {
+            "text": "W przypadku wyst\u0105pienia jednego z tych zdarze\u0144 u\u017cytkownik systemu zostanie powiadomiony."
+        },
+        "53af239ee5d3e261545dededcb6ffd57": {
+            "text": "404 strona nie odnaleziona"
+        },
+        "926febaa3f486221378c09d2fb900eff": {
+            "text": "Poprawne\/b\u0142\u0119dne logowanie u\u017cytkownika"
+        },
+        "6d204ddabcf344603448790344217ec5": {
+            "text": "Wylogowanie u\u017cytkownika"
+        },
+        "1bb51316162ffaecdae67003acc36d00": {
+            "text": "S\u0105 to przede wszystkim przyk\u0142ady powiadomie\u0144 w celu demonstracji."
+        },
+        "d9b71f69d8afdf5b522a5529ec7434f5": {
+            "text": "Nazwa u\u017cytkownika otrzymuj\u0105cego powiadomienia systemowe"
+        },
+        "2495a34a1379d1325ca518e3c0b2b098": {
+            "text": "Czas pomi\u0119dzy aktualizacjami"
+        },
+        "d4f7e0a594dd8d1eb92264b3d43c507d": {
+            "text": "Jak cz\u0119sto sprawdza\u0107 powiadomienia o aktualizacjach (w milisekundach). Przyk\u0142ad: 5000 oznacza 5 sekund."
+        },
+        "534fd46732986cba0efeda8701592427": {
+            "text": "Format daty"
+        },
+        "414f2eb480e8f38b6f93f41ca28279fb": {
+            "text": "Format daty u\u017cywany do powiadomie\u0144. U\u017cyj date() lub strftime() lub \"wzgl\u0119dnej\" dla wzgl\u0119dnej daty\/godziny, \"rel\" dla skr\u00f3conej daty \/ godziny."
+        },
+        "64a87d656e89eca4f73f4ecda74480f5": {
+            "text": "Ikona wiadomo\u015bci"
+        },
+        "b454aae1916829fd90512b2c31a01e68": {
+            "text": "Ikona ostrze\u017cenia"
+        },
+        "c59e636f1291af56f91d53c3a51ac8f8": {
+            "text": "Ikona b\u0142\u0119du"
+        },
+        "b386baeabf452105b52ddd8a8dbebf1c": {
+            "text": "Op\u00f3\u017anienie powiadomie\u0144"
+        },
+        "fa3ed13e0d1d3606900f0d0fcb96b94e": {
+            "text": "Na jak d\u0142ugo powinno pojawi\u0107 si\u0119 powiadomienie (w milisekundach)"
+        },
+        "a24efc3293365b4ca44161c70fffe1b7": {
+            "text": "Op\u00f3\u017anienie powiadomie\u0144 o b\u0142\u0119dach"
+        },
+        "0673410c6de314e9317a7f593f6a99b6": {
+            "text": "Na jak d\u0142ugo powinno pojawi\u0107 si\u0119 powiadomienie o b\u0142\u0119dach (w milisekundach)"
+        },
+        "cc7148e90f03a6539cd11c343d8fdf8a": {
+            "text": "Przezroczysto\u015b\u0107"
+        },
+        "4f8b65fe69b4b13c2a02bf47648c9a34": {
+            "text": "Zakres (0.1-1.0)"
+        },
+        "333da8687b16a586812b92b6acda8674": {
+            "text": "Limit"
+        },
+        "8a1cf8cf2597193851e727307d3d3b31": {
+            "text": "Poka\u017c podsumowanie je\u015bli wi\u0119cej element\u00f3w"
+        },
+        "a2736075ee5bcaeaad4650b9a1bb7d43": {
+            "text": "czas przenikania (pojawiania si\u0119)"
+        },
+        "c4f9ba7565ccdd1b1ec3e06265ef4995": {
+            "text": "(pr\u0119dko\u015b\u0107 pojawiania si\u0119\/znikania)"
+        },
+        "081b98759749efbb07052c62da920324": {
+            "text": "Natychmiast ( bez pojawiania si\u0119\/znikania)"
+        },
+        "e16b5b7f26f54214445cbe38d72c2828": {
+            "text": "Szybko"
+        },
+        "960b44c579bc2f6818d2daaf9e4c16f0": {
+            "text": "Normalnie"
+        },
+        "efa5397985b8609a5dbeb430a4bcadd3": {
+            "text": "Wolno"
+        },
+        "4b3f62787ef2a663f5af7c2a25c0c617": {
+            "text": "Pozycja"
+        },
+        "22c3a11778dfb998611f45125023b39c": {
+            "text": "Strona ekranu z kt\u00f3rej powinny pojawi\u0107 si\u0119 powiadomienia"
+        },
+        "d6e7bc4caa8b68af7f00ff457e4d3344": {
+            "text": "Komunikaty o dzia\u0142aniu \/ pojedynczym \u017c\u0105daniu"
+        },
+        "a2e68070d70d39ee23fe1edf9767c11c": {
+            "text": "Wy\u015bwietl jako powiadomienia"
+        },
+        "9650b6be51970b497f28b3f079f7bf79": {
+            "text": "Pozostaw je w spokoju"
+        }
+    }
+}

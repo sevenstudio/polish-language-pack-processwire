@@ -1,0 +1,12 @@
+{
+    "file": "wire\\modules\\Process\\ProcessHome.module",
+    "textdomain": "wire--modules--process--processhome-module",
+    "translations": {
+        "56cc559d234df2ffabc88b8926592264": {
+            "text": "Panel administracyjny"
+        },
+        "3555f18b32d499274ee3fcfb73c15558": {
+            "text": "Odpowiada za logowanie i prawid\u0142owe dzia\u0142anie panelu administracyjnego."
+        }
+    }
+}
