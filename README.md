@@ -1,2 +1,2 @@
 # polish-wire
-Polish language pack for ProcessWire 3.0.X CMS https://processwire.com/
+Polish language pack for ProcessWire 3.X CMS https://processwire.com/
