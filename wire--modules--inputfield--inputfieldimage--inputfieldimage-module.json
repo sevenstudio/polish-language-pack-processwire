@@ -112,6 +112,57 @@
         },
         "8a29508fcba587b8af0cfb36c544ee0d": {
             "text": "Przesy\u0142anie jednego lub wi\u0119cej obraz\u00f3w (z mo\u017cliwo\u015bci\u0105 sortowania)"
+        },
+        "84a327773a9172357f703ebdbb28680b": {
+            "text": "Maksymalne wymiary obrazu"
+        },
+        "16e3e850ce20fe9fa8340e6d27693f61": {
+            "text": "Ma zastosowanie do obraz\u00f3w JPG, PNG i GIF"
+        },
+        "9fdc5bac96032d0465aa6cc6543d1871": {
+            "text": "Jak zmieni\u0107 rozmiar do maksymalnych dozwolonych wymiar\u00f3w"
+        },
+        "434352c2b6134b909827f386b3644f0f": {
+            "text": "Korzystanie z funkcji zmiany rozmiaru po stronie klienta pozwala zmniejszy\u0107 rozmiar i wymiary plik\u00f3w przed ich przes\u0142aniem."
+        },
+        "c265ab5c0405e78595f05a15d5279278": {
+            "text": "W przypadku zmiany rozmiaru obrazu po stronie klienta podaj maksymaln\u0105 szeroko\u015b\u0107 * i * maksymaln\u0105 wysoko\u015b\u0107 w polach powy\u017cej lub maksymaln\u0105 liczb\u0119 megapikseli w polu poni\u017cej."
+        },
+        "edcf99dacdc6160d6eb8d2efb90ee189": {
+            "text": "U\u017cyj zmiany rozmiaru obrazu po stronie klienta gdy to mo\u017cliwe"
+        },
+        "4421a363b922af1808ae2b258c9d11bb": {
+            "text": "Zmiana rozmiaru tylko po stronie serwera"
+        },
+        "41d833b452340b52caa65fdcfe181945": {
+            "text": "Maksymalny rozmiar megapikslei dla przesy\u0142anych zdj\u0119\u0107"
+        },
+        "86d448ef6f037ce16fc358a22921c45c": {
+            "text": "Jest to opcja alternatywna dla maksymalnej wysoko\u015bci\/szeroko\u015bci. Okre\u015bl warto\u015b\u0107 zmiennoprzecinkow\u0105."
+        },
+        "bd035d6e1aa04d38e61f36c27150e39d": {
+            "text": "Ma zastosowanie tylko dla zmiany rozmiaru po stronie klienta."
+        },
+        "fe64c68c1aa30e687be4aa011b33f15f": {
+            "text": "Dobra warto\u015b\u0107 dla stron WWW to 1.7, czyli oko\u0142o 1600x1000 pikseli, gdzie 1600 i 1000 mo\u017ce odnosi\u0107 si\u0119 zar\u00f3wno do wysoko\u015bci jak i szeroko\u015bci."
+        },
+        "c719e0f0e40f5193e0bbe6f9afc408e5": {
+            "text": "Inne przyk\u0142ady:"
+        },
+        "a29b9e543bb7bc0f4b7e2c04d0a1c820": {
+            "text": "Jako\u015b\u0107 obraz\u00f3w JPG w procentach dla zmiany rozmiaru obrazu po stronie klienta."
+        },
+        "ab00b0c8eb852647eee9553c75a100fe": {
+            "text": "Okre\u015bl liczb\u0119 od 10 (najni\u017csza jako\u015b\u0107 \/ najmniejszy rozmiar pliku) i 100 (najwy\u017csza jako\u015b\u0107 \/ najwi\u0119kszy rozmiar pliku). Domy\u015blnie jest 90."
+        },
+        "aa09d92fbba4044af814b7504798dec3": {
+            "text": "Je\u015bli zaznaczono, obrazy kt\u00f3re przekrocz\u0105 maksymaln\u0105 szerko\u015b\u0107\/wysoko\u015b\u0107 (kt\u00f3rych rozmiar nie mo\u017ce zosta\u0107 zmieniony po stronie klienta) zostan\u0105 odrzucony."
+        },
+        "2d77facadb02370d5dd7c076b5afbee7": {
+            "text": "Minimalne wymiary obrazu"
+        },
+        "98ebe60c452735dc2ef2249c835eddfe": {
+            "text": "Ma zastosowanie jedynie do zmiany rozmiaru po stronie serwera."
         }
     }
 }
