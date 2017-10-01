@@ -1,0 +1,18 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeRepeater\\FieldtypeFieldsetPage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtypefieldsetpage-module",
+    "translations": {
+        "ad59ad3d4d7edf6963e2547a6436effd": {
+            "text": "Pola w grupie p\u00f3l (fieldset)."
+        },
+        "cc50c812a69f0bae59a44a023c8c58b2": {
+            "text": "Okre\u015bla pola u\u017cywane w grupie p\u00f3l. Mo\u017cesz tak\u017ce ustawi\u0107 kolejno\u015b\u0107 p\u00f3l poprzez \"przeci\u0105gnij i upu\u015b\u0107\"."
+        },
+        "001059727a69c3158a6716b9430d5d1f": {
+            "text": "Grupa P\u00f3l (Strona)"
+        },
+        "c1aa12461889e9773f2c053ae68fb817": {
+            "text": "Grupa p\u00f3l zawieraj\u0105cych pola przypisane do jednego obszaru nazw (strona), pozwalaj\u0105cy na wielokrotne wykorzystanie p\u00f3l."
+        }
+    }
+}

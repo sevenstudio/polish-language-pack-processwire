@@ -88,6 +88,27 @@
         },
         "2cb39a29b55cb3b4480c782dbe367518": {
             "text": "Pole kt\u00f3re przechowuje jeden lub wi\u0119cej plik\u00f3w"
+        },
+        "e380459ef1125b0733738668d0bd747c": {
+            "text": "Je\u015bli zaznaczono, to pole b\u0119dzie zawiera\u0142o tak\u017ce opcj\u0119 dla tag\u00f3w jako dodatek do opisu."
+        },
+        "b32f1d32240c3f4298baf57f5f0d88b1": {
+            "text": "U\u017cytkownik wybiera z listy predefiniowanych tag\u00f3w"
+        },
+        "18856ebc636a3ce5a3e083ddd831c949": {
+            "text": "Tagi wy\u0142\u0105czone"
+        },
+        "564d93d129c0a94937b12c4fafa4ad62": {
+            "text": "U\u017cytkownik dodaje tagi przez pole tekstowe"
+        },
+        "83b7a060baaabcf327d37b63bf72bd63": {
+            "text": "mo\u017ce poda\u0107 swoje w\u0142asne"
+        },
+        "2f3446ffcef315485017078a9ed7cc76": {
+            "text": "Predefiniowane tagi"
+        },
+        "43bce07bd160232ee31114541357640c": {
+            "text": "POdaj tagi oddzielone spacj\u0105. Tagi mog\u0105 zawiera\u0107 litery, cyfry podkre\u015blniki lub my\u015blniki."
         }
     }
 }

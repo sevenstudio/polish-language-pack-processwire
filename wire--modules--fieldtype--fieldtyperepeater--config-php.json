@@ -154,6 +154,12 @@
         },
         "678e17a04cd1c42a28cc8a9eff4f60c0": {
             "text": "Pole Repeater-a"
+        },
+        "c79558badd020f417f148d0a7751e6e4": {
+            "text": "Dodano pole \"%1$s\" do \"%2$s\""
+        },
+        "5222d983bada8088d0a86ac0ff1e5871": {
+            "text": "Usuni\u0119to pole \"%1$s\" do \"%2$s\""
         }
     }
 }

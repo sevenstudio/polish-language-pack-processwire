@@ -54,7 +54,7 @@
             "text": "W panelu administracyjnym, lista obraz\u00f3w zostanie wy\u015bwietlona domy\u015blnie w tym trybie. U\u017cytkownik mo\u017ce go zmieni\u0107 w dowolnym momencie poprzez klikni\u0119cie ikony w g\u00f3rnym prawym rogu pola."
         },
         "e6c7b90087278c53b5361182358a2d92": {
-            "text": "Je\u015bli to pole obraz\u00f3w by\u0142o w\u0142a\u015bnie u\u017cywane, nale\u017cy usun\u0105\u0107 pliki cookies w przegl\u0105darce (usun\u0105\u0107 pami\u0119\u0107 podr\u0119czn\u0105) aby zobaczy\u0107 zmiany wprowadzone w ustawieniach."
+            "text": "Je\u015bli to pole obraz\u00f3w by\u0142o w\u0142a\u015bnie u\u017cywane, nale\u017cy usun\u0105\u0107 pliki cookies w przegl\u0105darce (usun\u0105\u0107 pami\u0119\u0107 podr\u0119czn\u0105 przegl\u0105darki) aby zobaczy\u0107 zmiany wprowadzone w ustawieniach."
         },
         "a188c29fb8020eee47113073e366f78e": {
             "text": "siatka obraz\u00f3w (kwadratowa)"
@@ -156,7 +156,7 @@
             "text": "Okre\u015bl liczb\u0119 od 10 (najni\u017csza jako\u015b\u0107 \/ najmniejszy rozmiar pliku) i 100 (najwy\u017csza jako\u015b\u0107 \/ najwi\u0119kszy rozmiar pliku). Domy\u015blnie jest 90."
         },
         "aa09d92fbba4044af814b7504798dec3": {
-            "text": "Je\u015bli zaznaczono, obrazy kt\u00f3re przekrocz\u0105 maksymaln\u0105 szerko\u015b\u0107\/wysoko\u015b\u0107 (kt\u00f3rych rozmiar nie mo\u017ce zosta\u0107 zmieniony po stronie klienta) zostan\u0105 odrzucony."
+            "text": "Je\u015bli zaznaczono, obrazy kt\u00f3re przekrocz\u0105 maksymaln\u0105 szerko\u015b\u0107\/wysoko\u015b\u0107 (kt\u00f3rych rozmiar nie mo\u017ce zosta\u0107 zmieniony po stronie klienta) zostan\u0105 odrzucone."
         },
         "2d77facadb02370d5dd7c076b5afbee7": {
             "text": "Minimalne wymiary obrazu"

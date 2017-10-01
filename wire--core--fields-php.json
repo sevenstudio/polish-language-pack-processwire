@@ -13,6 +13,12 @@
         },
         "b9e9528a32781ceaefec638ec3bfa62e": {
             "text": "B\u0142\u0105d usuni\u0119cia danych pola \"%1$s\" w %2$d wierszach z %3$d stron(y)."
+        },
+        "95174709ea432bbeb2a0ec8d9862b8a5": {
+            "text": "Usuni\u0119to dane pola \"%1$s\" w %2$d wierszach z %3$d stron(y) wkyorzystuj\u0105cych szablon \"%4$s\"."
+        },
+        "f9de29a177673a5d7f9bfe31fb3d94f3": {
+            "text": "B\u0142\u0105d usuni\u0119cia danych pola \"%1$s\" w %2$d wierszach z %3$d stron(y) wykorzystuj\u0105cych szablon \"%4$s\"."
         }
     }
 }

@@ -1,0 +1,51 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeRepeater\\FieldsetPageInstructions.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldsetpageinstructions-php",
+    "translations": {
+        "fce8db7e35654f2d39ed13c88caeb595": {
+            "text": "To jest jaki\u015b przyk\u0142adowy tekst"
+        },
+        "e24b5159feaf11cbc2866fc792dcb205": {
+            "text": "Instrukcje jak korzysta\u0107 z tego pola"
+        },
+        "dda3c63808783d90468ffc36857b1ad2": {
+            "text": "Grupa p\u00f3l wykorzystuje w\u0142asn\u0105 odr\u0119bn\u0105 stron\u0119 (kontrolowan\u0105 przez system) aby zapisa\u0107 warto\u015bci p\u00f3l kt\u00f3re wybrano powy\u017cej."
+        },
+        "43ef844d717ad05c793ebe3fc0bfa46f": {
+            "text": "G\u0142\u00f3wn\u0105 zalet\u0105 jest to, \u017ce mo\u017cesz ponownie wykorzysta\u0107 pola kt\u00f3re s\u0105 ju\u017c obecne na jedej ze stron, poza grup\u0105 p\u00f3l."
+        },
+        "450f315bbf5a730f06d882603e2351ee": {
+            "text": "Na przyk\u0142ad, mo\u017ces mie\u0107 pole \"tytu\u0142\" na stronie, i kolejne takie samo w grupie p\u00f3l. Podobnie w przypadku wszystkich innych p\u00f3l."
+        },
+        "082323774f8bcc4a3b546017f4699653": {
+            "text": "Jest to mo\u017cliwe, poniewa\u017c pola w grupie p\u00f3l znajduj\u0105 si\u0119 we w\u0142asnej odr\u0119bnej przestrzeni (stronie kontrolowanej przez system), odseparowanej od bie\u017c\u0105cej strony."
+        },
+        "1c965c7b269c1b604d6490030b52cb9a": {
+            "text": "Poni\u017cej znajdziesz wiele przyk\u0142ad\u00f3w jak wykorzysta\u0107 to pole w sablonach i z poziomu API."
+        },
+        "2b9532c496c737a7d979ede12021cbfc": {
+            "text": "Pobieranie warto\u015bci:"
+        },
+        "3cdf9e98ed82c4005e72a8d904f2c396": {
+            "text": "Wy\u015bwietlanie warto\u015bci:"
+        },
+        "e77be29cea913a45c5a64261aab889fe": {
+            "text": "Wy\u015bwietlanie warto\u015bci w sk\u0142adni:"
+        },
+        "a1846e66c3581626834fa2b2b713a751": {
+            "text": "Ustawienie warto\u015bci:"
+        },
+        "c17698c4f96778fb0e1c2cf7e08354fa": {
+            "text": "Ustawienie i zapisanie warto\u015bci:"
+        },
+        "07eb153eceddb68a89d41166e566601a": {
+            "text": "To wy\u0142\u0105cza formatowanie wyj\u015bcia (output formatting), gdy konieczne"
+        },
+        "d4dcb894c9c0f44c78175f84b15a0b57": {
+            "text": "Przypisanie grupy p\u00f3l do innej (kr\u00f3tszej) zmiennej i wy\u015bwietlenie warto\u015bci."
+        },
+        "89c8a04262edb041b1d1cf735fd36a4b": {
+            "text": "Znajdowanie stron zawieraj\u0105cych grup\u0119 p\u00f3l z polem \"%s\" zawieraj\u0105cym tekst \"przyk\u0142ad\":"
+        }
+    }
+}
