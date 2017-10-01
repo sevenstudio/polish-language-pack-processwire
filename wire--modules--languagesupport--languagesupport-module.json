@@ -5,9 +5,6 @@
         "49eb6a44db57cba8d66b3404fa9f0ad4": {
             "text": "="
         },
-        "0d61f8370cad1d412f80b84d143e1257": {
-            "text": "="
-        },
         "3f94f86633491ad8e5d18f5e481330c2": {
             "text": "Zmiany w tym polu nie zostan\u0105 zapisane poniewa\u017c nie masz uprawnie\u0144 dla j\u0119zyka: %s."
         },
@@ -19,6 +16,9 @@
         },
         "b78a3223503896721cca1303f776159b": {
             "text": "Tytu\u0142"
+        },
+        "0d61f8370cad1d412f80b84d143e1257": {
+            "text": "pl_PL"
         }
     }
 }
