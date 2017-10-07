@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Process\\ProcessPageEdit\\ProcessPageEdit.module",
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/ProcessPageEdit.module",
     "textdomain": "wire--modules--process--processpageedit--processpageedit-module",
     "translations": {
         "c9cc8cce247e49bae79f15173ce97354": {

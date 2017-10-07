@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Process\\ProcessRole\\ProcessRole.module",
+    "file": "wire\/modules\/Process\/ProcessRole\/ProcessRole.module",
     "textdomain": "wire--modules--process--processrole--processrole-module",
     "translations": {
         "d08ccf52b4cdd08e41cfb99ec42e0b29": {
@@ -64,6 +64,9 @@
         },
         "e5e77ccf470959bc6be60127730908b5": {
             "text": "Zarz\u0105dzaj rolami u\u017cytkownik\u00f3w i ich uprawnieniami"
+        },
+        "10928cc0ee4f4ca5cd54b8f7d90fe439": {
+            "text": "Uwaga: Rola super administratora zawsze posiada wszystkie dozwolone uprawnienia, wi\u0119c pole uprawnie\u0144 nie jest wy\u015bwietlane."
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Process\\ProcessTemplate\\ProcessTemplate.module",
+    "file": "wire\/modules\/Process\/ProcessTemplate\/ProcessTemplate.module",
     "textdomain": "wire--modules--process--processtemplate--processtemplate-module",
     "translations": {
         "93cba07454f06a4a960172bbd6e2a435": {
@@ -900,7 +900,7 @@
             "text": "Strony"
         },
         "b81ec9ff37dd594fd51bb7b72bc82e34": {
-            "text": "nie-plik"
+            "text": "brak pliku szablonu"
         },
         "ce74097d91e1181f033e39e38736dd5a": {
             "text": "pami\u0119\u0107 podr\u0119czna"

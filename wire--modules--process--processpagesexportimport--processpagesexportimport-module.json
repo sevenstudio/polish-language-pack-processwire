@@ -1,0 +1,315 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPagesExportImport\/ProcessPagesExportImport.module",
+    "textdomain": "wire--modules--process--processpagesexportimport--processpagesexportimport-module",
+    "translations": {
+        "352f3461a3066e2817043fb2e9e1f932": {
+            "text": "Eksport\/Import jest obecnie dost\u0119pny tylko i wy\u0142\u0105cznie dla super administrator\u00f3w"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Eksportuj"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Importuj"
+        },
+        "8894de92408710885e26ee0d7419c76c": {
+            "text": "Importuj z \u0142a\u0144cucha JSON"
+        },
+        "15c369cf22656869f693431abfbabf35": {
+            "text": "Wklej ci\u0105g JSON wyeksportowany wcze\u015bniej z tego narz\u0119dzia."
+        },
+        "1d2c7cbb668a639e64eb4d9d1e11dd21": {
+            "text": "Importuj z pliku ZIP"
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Kontynuuj"
+        },
+        "9307d9361fab3e60165754816f70e52f": {
+            "text": "Nie znaleziono danych importu"
+        },
+        "a6255d9c8319899dbe7c65dc74f9307a": {
+            "text": "Nieprawid\u0142owe dane do importowania"
+        },
+        "6a50ab53f47b9f8f811ebbaf822fbb16": {
+            "text": "$d nowych %d istniej\u0105cych"
+        },
+        "bb762878d3e4d3b7a33da405fb77231d": {
+            "text": "Brak szczeg\u00f3\u0142\u00f3w importowania"
+        },
+        "710dea6bdf095f0b2112f36943789222": {
+            "text": "Strony z szablonem \"%s\" nie mog\u0105 by\u0107 importowane, poniewa\u017c ten szablon nie istnieje."
+        },
+        "6c1d0fdc993bfa095bfa6a0cb500742e": {
+            "text": "Wybierz szablon, kt\u00f3ry ma zosta\u0107 zast\u0105piony podczas tworzenia tych stron."
+        },
+        "612bd2323b570ffd7610d860b5fc5b9a": {
+            "text": "OK: Zamieniam szablon \u201c%1$s\u201d na \u201c%2$s\u201d"
+        },
+        "a700c516b508fc37ecbdd5ef3e4149c3": {
+            "text": "Znajd\u017a zamiennik dla szablonu o nazwie \"%s\""
+        },
+        "037ef64f930a701f646e32b659309203": {
+            "text": "Pole o nazwie \u201c%s\u201d typu %s pojawia si\u0119 w danych importu, ale nie istnieje lokalnie."
+        },
+        "e7b3e14b8ea6b4e9b9ded5935a787200": {
+            "text": "Je\u015bli chcesz zaimportowa\u0107 to pole, wybierz zamienne pole tutaj."
+        },
+        "b27e66177b699de288b50b3736392350": {
+            "text": "OK: Zamieniam pole %1$s\u201d na \u201c%2$s\u201d"
+        },
+        "9f2156a6e113d013e84f6b3d0f787f70": {
+            "text": "Wybierz zamiennik dla pola o nazwie \u201c%s\u201d"
+        },
+        "f3418f35aed2653864c898b1fbfa7f89": {
+            "text": "Potencjalne pola zast\u0119pcze"
+        },
+        "ea41325267ff33833cdd6f91d5a323d1": {
+            "text": "Inne pola (mog\u0105 nie by\u0107 kompatybilne)"
+        },
+        "88a97d86b72eac1bb3a897239a5833c7": {
+            "text": "Wybierz nowego rodzica (stron\u0119 nadrz\u0119dn\u0105)"
+        },
+        "39131ec4699f5661159842adf4828d87": {
+            "text": "Strony posiadaj\u0105ce rodzica \u201c%s\u201d nie mog\u0105 zosta\u0107 zaimportowane poniewa\u017c taka strona tu nie istnieje."
+        },
+        "9d9d340fef6ece85d9fa8cb168e4cc4b": {
+            "text": "Wybierz stron\u0119 nadrz\u0119dn\u0105, kt\u00f3ra powinna zosta\u0107 u\u017cyta zamiast tworzy\u0107 te strony."
+        },
+        "3b3a36a05707eb5bd0c5a9c6ef8b6bcc": {
+            "text": "OK: Zamieniam rodzica (stron\u0119 nadrz\u0119dn\u0105) %1$s\u201d na \u201c%2$s\u201d"
+        },
+        "6d4769b2c4ab2c7c6596715d9a95b10a": {
+            "text": "Wybierz zamiennik dla rodzica (strony nadrz\u0119dnej) o nazwie \u201c%s\u201d"
+        },
+        "b8fd4cfffa13fd37bbb33085b3d99559": {
+            "text": "Konflikty zasob\u00f3w"
+        },
+        "5062a54bca446bff0013b7e3b83971ef": {
+            "text": "Podsumowanie importu"
+        },
+        "b622b3c2bd4167573c69775914e6bb1c": {
+            "text": "Tryb importu"
+        },
+        "a865157a6095cc25e9db226471350ac0": {
+            "text": "Stw\u00f3rz nowe strony i uaktualnij istniej\u0105ce"
+        },
+        "093ee62b9967049d867742cc37db9ec6": {
+            "text": "Stw\u00f3rz tylko nowe strony"
+        },
+        "5d22ed76c96cfc210e6659bf465c29d9": {
+            "text": "Pomi\u0144 w imporcie strony, kt\u00f3re ju\u017c istniej\u0105."
+        },
+        "8e0e1c009bd6cdb0c55e6d1ab601f9c5": {
+            "text": "Uaktualnij tylko istniej\u0105ce strony"
+        },
+        "c420555a575c97be4ef7ef4c6335eabd": {
+            "text": "Pomi\u0144 w imporcie strony kt\u00f3re jeszcze nie istniej\u0105"
+        },
+        "fbd52bbf346d30a5a3c3735d4fd11249": {
+            "text": "Zaimportuj strony pod stron\u0105 nadrz\u0119dn\u0105 (rodzicem)"
+        },
+        "f725a6ddc1137ce2162d1adcfb06e5e5": {
+            "text": "Gdy okre\u015blono, strony zostan\u0105 zaimportowane jako podstrony wybranej tutaj strony nadrz\u0119dnej"
+        },
+        "bc148f36b892cd236d9524d31b92ed3a": {
+            "text": "Wybierz stron\u0119 nadrz\u0119dn\u0105"
+        },
+        "dc5065164c53ccdaf2afab0a4e92821b": {
+            "text": "Zaimportuj strony pod wybran\u0105 stron\u0105 nadrz\u0119dn\u0105 i zachowaj struktur\u0119 \u015bcie\u017cki strony poni\u017cej"
+        },
+        "9a4182341877068a0de58ca06532a6b5": {
+            "text": "Zaimportuj strony tylko jako strony podrz\u0119dne wybranej strony nadrz\u0119dnej"
+        },
+        "56e30d5f1290e2bc227c986608645134": {
+            "text": "Pola dozwolone w imporcie"
+        },
+        "75cd6d17fcfe896e1521bbec73924c68": {
+            "text": "Nast\u0119puj\u0105ce pola zosta\u0142y znalezione w danych importu."
+        },
+        "21f3733b4c29eea78a95595e8fecfdbd": {
+            "text": "Odznacz pola, kt\u00f3re chcesz pomin\u0105\u0107 podczas importu."
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nazwa"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Etykieta"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Typ"
+        },
+        "c0a1f9eff88edb62c46edb084004e32b": {
+            "text": "Nazwa strony"
+        },
+        "0a47bbe324aa63b3431f8c3f89791928": {
+            "text": "Status strony"
+        },
+        "a6425901f3af36ae6ccc9a92b131595a": {
+            "text": "Indeks sortowania stron"
+        },
+        "a84ab456be63f90daf5d14573d3a4837": {
+            "text": "Importuj strony"
+        },
+        "993d770e8a02574766cb9e77f05166d1": {
+            "text": "Testuj import"
+        },
+        "5d762b248f371ac7a53ca63b5686689a": {
+            "text": "Wykonaj import"
+        },
+        "ae5736613c76f3a4222d0aa2986413c6": {
+            "text": "Utw\u00f3rz now\u0105 stron\u0119: %s"
+        },
+        "4da66962948d7a922e24b9821417f14f": {
+            "text": "Szablon: %s"
+        },
+        "4fb4efe4086f5f135cdf92d1a6b4d865": {
+            "text": "Ukatualnij istniej\u0105c\u0105 stron\u0119: %s"
+        },
+        "ac4191b09ac955dce523147b4ae42732": {
+            "text": "Strona: %s  - B\u0142\u0105d"
+        },
+        "eed35940c778016bb521e2e86594020f": {
+            "text": "Strona: %s"
+        },
+        "622fd1a9153d7f49d2ab40d3a42e9f2a": {
+            "text": "Wype\u0142nione pola:"
+        },
+        "d80c9a644617ba76da47a8d5e776ea2a": {
+            "text": "Zmienione pola:"
+        },
+        "40fe8d33d2cf8c5f10422b0b229dbcc4": {
+            "text": "Nie wykryto zmian"
+        },
+        "a6d6ed66ec9bac03cd0439959d6efc07": {
+            "text": "Strona nie mo\u017ce zosta\u0107 zaimportowana"
+        },
+        "556843e4a406b780b0cf83c43366a8dd": {
+            "text": "Import przebieg\u0142 pomy\u015blnie"
+        },
+        "7cd0babd7de67eb353b6b61a3f86702e": {
+            "text": "Zaimportowa\u0107 t\u0105 stron\u0119?"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Tak"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nie"
+        },
+        "726d6246df516f81a1716ab64006f70a": {
+            "text": "Kt\u00f3re strony chcesz wyeksportowa\u0107?"
+        },
+        "9a4ecf5d3003837af473e07e59527178": {
+            "text": "Strony kt\u00f3re wybior\u0119"
+        },
+        "d1ae61f175e8cff2fe2b233bd744601a": {
+            "text": "Strony posiadaja\u0107e stron\u0119 nadrz\u0119dn\u0105 (rodzica)"
+        },
+        "0c0f61a363c410be945c0c948ce24dbd": {
+            "text": "Strony pasuj\u0105ce do wyszukiwania"
+        },
+        "4947db62e5b74b73e637f5c4533871c3": {
+            "text": "Wybierz strony"
+        },
+        "4fd182637e2da2b261886dfae6c01659": {
+            "text": "Wybierz jedn\u0105 lub wi\u0119cej stron kt\u00f3re zostan\u0105 dodane do eksportu"
+        },
+        "dc52b4466bd46f4f22f8a5a3049a5357": {
+            "text": "Wybierz stron\u0119 nadrz\u0119dn\u0105 (rodzica)"
+        },
+        "8a6a2112bdf498013db64d59f301d886": {
+            "text": "Wybierz rodzica stron kt\u00f3re chcesz wyeksportowa\u0107. (strony podrz\u0119dne wybranej strony zostan\u0105 wyeksportowane)"
+        },
+        "e128ece85361c066ea30a503fb868121": {
+            "text": "Dodatkowe opcje"
+        },
+        "3c96078602fbe987f0b60fbc8b946092": {
+            "text": "Do\u0142\u0105cz stron\u0119 nadrz\u0119dn\u0105 do eksportu"
+        },
+        "556c3dd912453ae5cb3095cd5054e6f4": {
+            "text": "Rekursywnie"
+        },
+        "c98c2eece26a5aa7e2c47740d864c713": {
+            "text": "Wyeksportuj drzewo stron a nie tylko bezpo\u015bredni\u0105 stron\u0119 podrz\u0119dn\u0105"
+        },
+        "42fdbb35b46ad8e66130cc690f8d2e84": {
+            "text": "Do\u0142\u0105cz ukryte strony"
+        },
+        "c7b7b2c71efc438029169573f0c7e7d5": {
+            "text": "Do\u0142\u0105cz strony ukryte i nieopublikowane"
+        },
+        "afbe62b4d04b9023683b0b64f63fb629": {
+            "text": "Zbuduj wyszukiwanie, aby dopasowa\u0107 strony do eksportu"
+        },
+        "5487c98ab1a908b9700fa20e3a3ffc1f": {
+            "text": "Dodaj jedno lub wi\u0119cej p\u00f3l do wyszukiwania i dopasowywania stron do eksportu."
+        },
+        "28024f25f2a4009ee133f8b562b531d5": {
+            "text": "Eksportuj pola"
+        },
+        "3aee85d275f14778870a9a59094a3248": {
+            "text": "Domy\u015blnie, wszystkie obs\u0142ugiwane pola na stronie s\u0105 zawarte w eksporcie."
+        },
+        "6a3dac44a256e9471b5fd2ed42b12c0f": {
+            "text": "Je\u015bli chcesz aby eksport obejmowa\u0142 tylko wybrane pola, wybierz je tutaj."
+        },
+        "cb8c3657faa795632ec15cbd7721a912": {
+            "text": "Je\u015bli nie dokonano wyboru, wszystkie obs\u0142ugiwane pola s\u0105 do\u0142\u0105czone do eksportu."
+        },
+        "e2fe1c296c63b89f877ed53a8be349a1": {
+            "text": "Jak chcesz zapisa\u0107 eksport?"
+        },
+        "e97986e2d093cf22639cdabd17762178": {
+            "text": "Pobierz plik archiwum ZIP"
+        },
+        "216db75e2a4bd42aa6718a66268f5905": {
+            "text": "Tekst do \"kopiuj\/wklej\""
+        },
+        "52bf0f8917ee90a9e2d755751c651cb3": {
+            "text": "Je\u015bli do eksportu chcesz do\u0142\u0105czy\u0107 pola zdj\u0119\u0107, zawsze wybieraj opcj\u0119 pliku archiwum ZIP."
+        },
+        "1828a21cc67aa04125984a6ca450c313": {
+            "text": "Wyeksportuj teraz"
+        },
+        "c5806d824bef9a5b89ffad8b8cc3c266": {
+            "text": "Format tekstowy JSON dla \"kopiuj\/wklej\" (domy\u015blny)"
+        },
+        "7273b7477ad1aad558b4c4fbaba5e3ac": {
+            "text": "Pobierz plik archiwum ZIP"
+        },
+        "f27cd90ca25ec83caa63a757fc2efcb4": {
+            "text": "Dane eksportu stron dla kopiuj\/wklej"
+        },
+        "3e0018e76b5cc05092e1129c9b46dad7": {
+            "text": "Kliknij w tekst poni\u017cej, aby zaznaczy\u0107 go do skopiowania."
+        },
+        "abdb2686b241382010a3933e591a1cbb": {
+            "text": "Nast\u0119pnie mo\u017cesz wklei\u0107 tekst w zak\u0142adce importu w innej instalacji."
+        },
+        "9e695fb18f1a97591ea92d09db081ff9": {
+            "text": "Wykonaj kolejny eksport"
+        },
+        "9a3d09c6f627ab8776c1511913bb6586": {
+            "text": "Zaimportowano stron\u0119 %d"
+        },
+        "76c8ca770c404ebb67fe48d039cf9956": {
+            "text": "Zaimportowano stron %d"
+        },
+        "99c9efe732e034ed4b07956b67ae8677": {
+            "text": "Przetestowano import %d strony"
+        },
+        "c856d1123aa9d66e1534cd282b3ce877": {
+            "text": "Przetestowano import %d stron"
+        },
+        "c9b0a12dc552dbd618bd32115aff0a23": {
+            "text": "Znaleziono %d stron\u0119 do importu"
+        },
+        "cde6a4cf0bc2c5dea574eb1384c6d083": {
+            "text": "Znaleziono %d stron do importu"
+        },
+        "e952a9e4d7f52080bd9d79e49d50c57e": {
+            "text": "Ten eksport zawiera %d stron\u0119."
+        },
+        "a5e9f843454d6e5f8aef06784d94e3a2": {
+            "text": "Ten eksport zawiera stron - %d."
+        }
+    }
+}

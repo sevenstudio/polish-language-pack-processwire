@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Textformatter\\TextformatterSmartypants\\TextformatterSmartypants.module",
+    "file": "wire\/modules\/Textformatter\/TextformatterSmartypants\/TextformatterSmartypants.module",
     "textdomain": "wire--modules--textformatter--textformattersmartypants--textformattersmartypants-module",
     "translations": {
         "25311c7902557e01bc00f49ff049bcd5": {

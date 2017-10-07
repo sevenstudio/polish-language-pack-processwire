@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Process\\ProcessPageSearch\\ProcessPageSearch.module",
+    "file": "wire\/modules\/Process\/ProcessPageSearch\/ProcessPageSearch.module",
     "textdomain": "wire--modules--process--processpagesearch--processpagesearch-module",
     "translations": {
         "9b6545e4cea9b4ad4979d41bb9170e2b": {

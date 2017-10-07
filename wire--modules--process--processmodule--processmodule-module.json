@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Process\\ProcessModule\\ProcessModule.module",
+    "file": "wire\/modules\/Process\/ProcessModule\/ProcessModule.module",
     "textdomain": "wire--modules--process--processmodule--processmodule-module",
     "translations": {
         "ea4788705e6873b424c65e91c2846b19": {
@@ -54,7 +54,7 @@
             "text": "System"
         },
         "a7d6475ec8993b7224d6facc8cb0ead6": {
-            "text": "Strona"
+            "text": "Witryna"
         },
         "f1206f9fadc5ce41694f69129aecac26": {
             "text": "Konfiguruj"

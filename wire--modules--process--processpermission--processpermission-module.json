@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Process\\ProcessPermission\\ProcessPermission.module",
+    "file": "wire\/modules\/Process\/ProcessPermission\/ProcessPermission.module",
     "textdomain": "wire--modules--process--processpermission--processpermission-module",
     "translations": {
         "179e210d56ed91c1da0ac7cff7234b21": {
