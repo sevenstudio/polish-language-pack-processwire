@@ -22,6 +22,51 @@
         },
         "1a59a80bd045dd8cb5a37b841028cc00": {
             "text": "Pozwala u\u017cytkownikowi zmieni\u0107 has\u0142o, adres email i inne ustawienia okre\u015blone przez Cieibe."
+        },
+        "2ed85673c671a4f6a96ccccf154dab83": {
+            "text": "Nazwa u\u017cytkownika"
+        },
+        "c5e601d1ba182fc5a8c177a4f5eb6661": {
+            "text": "Aby zmieni\u0107 to pole, musisz tak\u017ce poda\u0107 bie\u017c\u0105ce has\u0142o w polu \"Podaj has\u0142o\"."
+        },
+        "cb6f985e3af3f01a7f7f9e2d3cc6fe77": {
+            "text": "Nazwa u\u017cytkownika mo\u017ce zawiera\u0107 tylko ma\u0142e litery a-z, cyfry 0-9, my\u015bliniki i podkre\u015blniki."
+        },
+        "31ed16771212c1b9c52ea8680a61c5bb": {
+            "text": "Wymagane has\u0142o zosta\u0142o wprowadzone ale nie jest poprawne"
+        },
+        "b54db85c5475befbb8e4d05e3985853b": {
+            "text": "Wymagane has\u0142o nie zosta\u0142o wprowadzone"
+        },
+        "c0902bb307af1c623dc07a6070c33261": {
+            "text": "Niedozwolone"
+        },
+        "c41276451b92f986f438a836dd99ed69": {
+            "text": "Zmieniono na \u201c%s\u201d, co r\u00f3\u017cni si\u0119 od wprwadzonej warto\u015bci"
+        },
+        "c012e2a8b9e129403f8b93547086500a": {
+            "text": "Za kr\u00f3tkie"
+        },
+        "b2df7887a34999a0fee743420750a9ec": {
+            "text": "Za d\u0142ugie"
+        },
+        "8d7dadc018de46d934c7f3a9c0ade8b7": {
+            "text": "Jest ju\u017c u\u017cywane"
+        },
+        "0be33c8c71eb4cbffd8ff2999d0660db": {
+            "text": "Nie mo\u017ce zaczyna\u0107 si\u0119 lub ko\u0144czy\u0107 si\u0119 nie-literowym, nie-numerycznym znakiem."
+        },
+        "642249113906da67a3b9d3d446555c93": {
+            "text": "Nie mo\u017ce zawiera\u0107 s\u0105siaduj\u0105cych my\u015blink\u00f3w, podkre\u015blnik\u00f3w lub przerw"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nazwa"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Etykieta"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Typ"
         }
     }
 }

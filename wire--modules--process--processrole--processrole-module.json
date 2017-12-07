@@ -6,7 +6,7 @@
             "text": "Uprawnienia"
         },
         "e0c8b59640bc35bac606431203d2d9b0": {
-            "text": "="
+            "text": "Aby uzyska\u0107 szczeg\u00f3\u0142owy opis tych uprawnie\u0144, zobacz [referencje uprawnie\u0144] (% s)."
         },
         "ae9a363b2dfa9181da7ffde8e37813b5": {
             "text": "przekre\u015blone"
@@ -30,10 +30,10 @@
             "text": "nazwa|opis"
         },
         "dc3abfaff3190368a09f01d6589eeeea": {
-            "text": "Dodaj podstron\u0119 do strony korzystaj\u0105c z szablonu"
+            "text": "Dodaje podstron\u0119 do stron korzystaj\u0105cych z szablonu"
         },
         "9c281188158fc34cf5afc9d2820a761c": {
-            "text": "Dodaj strony korzystaj\u0105c z szablonu"
+            "text": "Dodaje strony korzystaj\u0105ce z szablonu"
         },
         "faa5826bce6656df7f63cbeb5b2a85fe": {
             "text": "To uprawnienia mog\u0105 by\u0107 przypisane tylko w ustawieniach dost\u0119pu w szablonie."
@@ -67,6 +67,51 @@
         },
         "10928cc0ee4f4ca5cd54b8f7d90fe439": {
             "text": "Uwaga: Rola super administratora zawsze posiada wszystkie dozwolone uprawnienia, wi\u0119c pole uprawnie\u0144 nie jest wy\u015bwietlane."
+        },
+        "73a0430d4108945b73c1d27c8d048339": {
+            "text": "Jakie typy stron mo\u017ce zobaczy\u0107 u\u017cytkownik przypisany do tej roli?"
+        },
+        "1c572404150327a35e463b4638740073": {
+            "text": "Jakie typy stron mo\u017ce edytowa\u0107 u\u017cytkownik przypisany do tej roli?"
+        },
+        "b2295468aae810dba114aeafc6affecc": {
+            "text": "Do jakego typu stron u\u017cytkownik przypisany do tej roli mo\u017ce dodawa\u0107 podstrony?"
+        },
+        "a94285c99473e5cb477bfebd41f5b479": {
+            "text": "Jakie typy stron mo\u017ce tworzy\u0107 u\u017cytkownik przypisany do tej roli?"
+        },
+        "2121718f2638e1afe762097a7981ea3c": {
+            "text": "Je\u015bli chcesz doda\u0107 {permission} tylko dla konkretnych szablon\u00f3w, zaznacz pola poni\u017cej przy szablonach do kt\u00f3rych chcesz je doda\u0107, i pozostaw uprawnienie {permission} nie zaznaczone."
+        },
+        "308b65bff5801587885912db1a2aacdf": {
+            "text": "Uprawnienia {permission} s\u0105 zaznaczone, b\u0119d\u0105 mia\u0142y zastosowanie do wszystkich szablon\u00f3w edytowalnych przez t\u0105 rol\u0119 u\u017cytkownika. Aby cofn\u0105\u0107 uprawnienia  {permission} dla konkretnych szablon\u00f3w, zaznacz je poni\u017cej. \nAby doda\u0107 uprawnienia do konkretnych szablon\u00f3w, odznacz najpierw uprawnienia {permission}."
+        },
+        "0cb74f3f98993beb92d1fa5e9dbdeb64": {
+            "text": "Uwaga, rola u\u017cytkownika musi tak\u017ce posiada\u0107 uprawnienia do edycji stron dla szablon\u00f3w wbranych powy\u017cej."
+        },
+        "46e843d341c23fcc923e4057f2011f5e": {
+            "text": "Wi\u0119kszo\u015b\u0107 uprawnie\u0144, kt\u00f3re mog\u0105 zosta\u0107 przypisane do szablonu wymagaj\u0105 tak\u017ce, aby u\u017cytkownik posiada\u0142 prawa edycji strony szablonu. Je\u015bli \u017c\u0105dany szablon nie znajduje si\u0119 na li\u015bcie, nale\u017cy najpierw w\u0142\u0105czy\u0107"
+        },
+        "bd6e3218368542ea8b8ec79e212960c3": {
+            "text": "W przeciwie\u0144stwie do wi\u0119kszo\u015bci innych uprawnie\u0144, uprawnienie edycji strony do szablonu nie jest wymaganym warunkiem koniecznym dla tego uprawnienia."
+        },
+        "e92cdb67062c4b4fa95179b9130677a9": {
+            "text": "nazwa|opis|"
+        },
+        "bdeb3e0cbe3d8f44757a86e8da219abc": {
+            "text": "To rodzaj uprawnie\u0144 mo\u017ce by\u0107 przypisany tylko przez szablon."
+        },
+        "00abcc0a482965cd87aa000c253bf713": {
+            "text": "(dziedziczone z roli u\u017cytkownika go\u015bcia)"
+        },
+        "76ea2cfb7138b9f6db1ca5385ffd6bec": {
+            "text": "Dodaj do: %s"
+        },
+        "484a603504d7ed70ae95310674989236": {
+            "text": "Cofnij uprawnienia z: %s"
+        },
+        "862ca20a14a289ffa53aa7b458c0f288": {
+            "text": "Kliknij, aby otworzy\u0107\/zamkn\u0105\u0107 ustawienia uprawnie\u0144 wed\u0142ug szablonu"
         }
     }
 }
