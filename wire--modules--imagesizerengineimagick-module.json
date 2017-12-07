@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\ImageSizerEngineIMagick.module",
+    "file": "wire\/modules\/ImageSizerEngineIMagick.module",
     "textdomain": "wire--modules--imagesizerengineimagick-module",
     "translations": []
 }

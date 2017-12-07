@@ -1,5 +1,5 @@
 {
-    "file": "wire\\core\\FileCompilerModule.php",
+    "file": "wire\/core\/FileCompilerModule.php",
     "textdomain": "wire--core--filecompilermodule-php",
     "translations": {
         "e774dc32721ed4babc1996a83868058f": {

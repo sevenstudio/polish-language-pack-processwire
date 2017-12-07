@@ -1,5 +1,5 @@
 {
-    "file": "site\\modules\\LoginRegister\\LoginRegister.module",
+    "file": "site\/modules\/LoginRegister\/LoginRegister.module",
     "textdomain": "site--modules--loginregister--loginregister-module",
     "translations": {
         "fb88f3c3e2b1f9d03f3a80a738ae962e": {

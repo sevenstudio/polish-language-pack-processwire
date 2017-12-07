@@ -1,5 +1,5 @@
 {
-    "file": "wire\\core\\TemplateFile.php",
+    "file": "wire\/core\/TemplateFile.php",
     "textdomain": "wire--core--templatefile-php",
     "translations": []
 }

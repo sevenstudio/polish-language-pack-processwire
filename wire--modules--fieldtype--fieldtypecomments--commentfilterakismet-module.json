@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Fieldtype\\FieldtypeComments\\CommentFilterAkismet.module",
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentFilterAkismet.module",
     "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentfilterakismet-module",
     "translations": {
         "00fee5e9143358a3b00c985f3ed3c43e": {

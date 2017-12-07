@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Inputfield\\InputfieldDatetime\\InputfieldDatetime.module",
+    "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/InputfieldDatetime.module",
     "textdomain": "wire--modules--inputfield--inputfielddatetime--inputfielddatetime-module",
     "translations": {
         "b69f42ea4444ae5aa888b53cf6045710": {
@@ -42,7 +42,7 @@
             "text": "Wybierz format wykorzystywane przez to pole. Tw\u00f3j wyb\u00f3r wype\u0142ni pole poni\u017cej, kt\u00f3re mo\u017cesz ewentualnie dostosowa\u0107, je\u015bli jest to konieczne."
         },
         "6adf97f83acf6453d4a6a4b1070f3754": {
-            "text": "\u017bande"
+            "text": "Brak"
         },
         "b4857dd659bf6e86731ccda0a3b581fb": {
             "text": "="
