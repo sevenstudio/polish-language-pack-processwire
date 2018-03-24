@@ -1,7 +1,8 @@
 # polish-wire
 Polish language pack for ProcessWire 3.X CMS https://processwire.com/
 
-version 1.0.3 (	December 7, 2017 )
+
+version 1.0.4 (	March 24, 2018 ) - compatibile with the latest master version 3.0.96.
 
 Installation:
 (Please download files from this repo as a ZIP archive)
