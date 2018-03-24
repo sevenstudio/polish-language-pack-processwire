@@ -140,12 +140,6 @@
         "77e23d8e1ff8e93bfc6e188f62e409bd": {
             "text": "Gdy \"od\u0142\u0105czony\", ProcessWire nie usunie szablonu nadrz\u0119dnego gdy\/je\u015bli pole zostanie usuni\u0119te."
         },
-        "1f8c0e21410e1c136bf780fc141b35ae": {
-            "text": "Dodano pole \"%1$s\" do Repeater-a \"%2$s\""
-        },
-        "f54c2540ded6390c6328b2838850482d": {
-            "text": "Usuni\u0119to pole \"%1$s\" z Repeater-a \"%2$s\""
-        },
         "27dafd7f7794d09bc001fc0acac8e1ad": {
             "text": "Usuni\u0119to %d stare\/nieu\u017cywane elementy repeater-a"
         },

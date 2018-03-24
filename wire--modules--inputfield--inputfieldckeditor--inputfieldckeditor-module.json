@@ -215,11 +215,23 @@
         "7a20fe498ae5ceab6766124b9cb7b2a9": {
             "text": "="
         },
-        "16176bde1adfb16f43ed136db778416d": {
-            "text": "="
-        },
         "f05a8abeb447b6720621d879a9197d00": {
             "text": "Dost\u0119pne podstawowe elementy paska narz\u0119dzi:"
+        },
+        "2eba31ae40d6ac1bd4d48c72f1977364": {
+            "text": "Pola zdj\u0119\u0107, kt\u00f3re mog\u0105 zosta\u0107 wykorzystane dla obraz\u00f3w dodanych poprzez \"przeci\u0105gnij i upu\u015b\u0107\" lub \"wklejonych\" obraz\u00f3w"
+        },
+        "556255b8390dd04b90c0dca2b07da0aa": {
+            "text": "Je\u015bli nie wybrano \u017cadnych p\u00f3l, dost\u0119pne pole zdj\u0119\u0107 zostanie wybrane automatycznie. Je\u015bli wybrana zostanie opcja \"Brak\", ta funkcja zostanie wy\u0142\u0105czona."
+        },
+        "ba5c4d2fefb66dfdc969030e8d4726a6": {
+            "text": "Brak (wy\u0142\u0105cz przesy\u0142anie zdj\u0119\u0107 przez przeci\u0105gnij i upu\u015b\u0107\/wklej)"
+        },
+        "27580e5542fe0d14d78016023f38829f": {
+            "text": "Strona wykorzystywana jako magazyn obraz\u00f3w."
+        },
+        "d17026399e4b0283ab382defdc5ac109": {
+            "text": "Domy\u015blnie, przes\u0142ane obrazy zostan\u0105 dodane do strony kt\u00f3ra jest edytowana. Je\u015bli chcesz wykorzysta\u0107 inn\u0105 stron\u0105 kt\u00f3ra b\u0119dzie przechowywa\u0107 przes\u0142ane obrazy, wybierz j\u0105 tutaj."
         }
     }
 }
