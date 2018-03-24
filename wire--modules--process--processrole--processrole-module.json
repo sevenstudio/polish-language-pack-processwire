@@ -8,35 +8,11 @@
         "e0c8b59640bc35bac606431203d2d9b0": {
             "text": "Aby uzyska\u0107 szczeg\u00f3\u0142owy opis tych uprawnie\u0144, zobacz [referencje uprawnie\u0144] (% s)."
         },
-        "ae9a363b2dfa9181da7ffde8e37813b5": {
-            "text": "przekre\u015blone"
-        },
-        "cea791d6258d032e4742a9a99f1ecf11": {
-            "text": "Zaznaczenie tutaj uprawnienia edycji strony nie gwarantuje dost\u0119pu do jakiejkolwiek strony. Pozwala to na konfiguracj\u0119 dost\u0119pu do edycji dla tej roli w ustawieniach dost\u0119pu szablonu. Uprawnienie edycji strony pozwala u\u017cytkownikom na podgl\u0105d stron w panelu administracyjnym. Te uprawnienia s\u0105 rekomendowane dla wszystkich administrator\u00f3w."
-        },
-        "d923671ad010412a573db8ccdbddc911": {
-            "text": "Oznacza, \u017ce uprawnienia mog\u0105 by\u0107 dodawane lub cofni\u0119te z r\u00f3l u\u017cytkownika w ustawieniach dost\u0119pu do szablonu. Zaznaczenie uprawnie\u0144 w\u0142\u0105cza je dla wszystkich edytowalnych szablon\u00f3w. Je\u015bli chcesz, aby rola u\u017cytkownika mia\u0142a tylko jedno z tych uprawnie\u0144 dla stron u\u017cywaj\u0105cych okre\u015blonych szablon\u00f3w, nie zaznaczaj ich tutaj, a zamiast tego wybierz je na karcie \"Dost\u0119p\"."
-        },
-        "64a4d3473343a325080c311b47099be6": {
-            "text": "Uprawnienia dodawania i tworzenia stron mog\u0105 by\u0107 dodane tylko w ustawieniach dost\u0119pu w szablonie. Pokazane s\u0105 tutaj tylko w celach informacyjnych."
-        },
-        "efc30c4ed12a9e95e4fad5ae9be115fb": {
-            "text": "Wska\u017c szablon kt\u00f3re dodaje uprawnienia. Kliknij aby otworzy\u0107 okno ustawie\u0144 dost\u0119pu dla tego szablonu. Je\u015bli nazwa szablonu zawiera %s, oznacza to, \u017ce uprawnienie jest dodane w szablonie, ale jest to nadpisane przez Tw\u00f3j wyb\u00f3r tutaj."
-        },
-        "dce4a957c0c6225be564be146d71b245": {
-            "text": "To samo co powy\u017cej, z tym, \u017ce uprawnia s\u0105 cofni\u0119te przez ten szablon (a nie dodane)."
-        },
-        "c6cc7e92b9fc348360b34c024086432c": {
-            "text": "nazwa|opis"
-        },
         "dc3abfaff3190368a09f01d6589eeeea": {
             "text": "Dodaje podstron\u0119 do stron korzystaj\u0105cych z szablonu"
         },
         "9c281188158fc34cf5afc9d2820a761c": {
             "text": "Dodaje strony korzystaj\u0105ce z szablonu"
-        },
-        "faa5826bce6656df7f63cbeb5b2a85fe": {
-            "text": "To uprawnienia mog\u0105 by\u0107 przypisane tylko w ustawieniach dost\u0119pu w szablonie."
         },
         "9bfb6e6af6e6793bfa9387e728187c87": {
             "text": "(wymagane)"
@@ -55,9 +31,6 @@
         },
         "1754bfdd544e98486c2ed46753ca8edd": {
             "text": "Zaznaczenie tego pola dodaje uprawnienia do wszystkich edytowalnych szablon\u00f3w, ale te uprawnienia s\u0105 ju\u017c zastosowane oddzielnie przez jeden lub wi\u0119cej szablon\u00f3w. Sugerujemy usuni\u0119cie tych uprawnie\u0144 w tych szablonach przed w\u0142\u0105czeniem ich tutaj. Czy chcesz w\u0142\u0105czy\u0107 teraz?"
-        },
-        "95c58584c58685c05c1a7cc706416455": {
-            "text": "obecnie nie zastosowane w \u017cadnych szablonach"
         },
         "a5cd3ed116608dac017f14c046ea56bf": {
             "text": "Role"
@@ -112,6 +85,9 @@
         },
         "862ca20a14a289ffa53aa7b458c0f288": {
             "text": "Kliknij, aby otworzy\u0107\/zamkn\u0105\u0107 ustawienia uprawnie\u0144 wed\u0142ug szablonu"
+        },
+        "4106d43df925487225450293085f8bad": {
+            "text": "Brak uprawnie\u0144 \u201c%1$s\u201d dla szablonu \u201c%2$s\u201d  (wymagane \u201c%3$s\u201d)"
         }
     }
 }

@@ -176,9 +176,6 @@
         "044c72d21891e006e09a78d32a1e3226": {
             "text": "Zamknij i Dodaj"
         },
-        "1ad747442af37649526e00927b7d0a1f": {
-            "text": "Aby skonfigurowa\u0107 pola, kt\u00f3re u\u017cytkownik mo\u017ce edytowa\u0107 w swoim profilu, zajrzyj do ustawie\u0144 modu\u0142u profilu."
-        },
         "71bb941583eef6e3e5ed3eaad39cc315": {
             "text": "Dpulikuj pola u\u017cywane przez inny szablon"
         },
@@ -362,17 +359,11 @@
         "6bb5af6d5240fb8b1d720a7e5bec4497": {
             "text": "Je\u015bli zaznaczono, strony korzystaj\u0105ce z szablonu nie b\u0119d\u0105 mog\u0142y go zamieni\u0107 na inny."
         },
-        "5c9171f7b16eac3245d2e5f3e79aadbc": {
-            "text": "API: $template->noChangeTemplate = 1; \/\/ lub 0 aby wy\u0142\u0105czy\u0107"
-        },
         "29f47bc61ea7a6f45ee3d36da3a3feff": {
             "text": "Nie zezwalaj na nieopublikowane strony"
         },
         "94c9fe9ddbd9380ceb726bef40232ea3": {
             "text": "Je\u015bli zaznaczone, strony b\u0119d\u0105 mog\u0142y istnie\u0107 tylko jako opublikowane."
-        },
-        "691edb2dd99517cf0e15dbf596e10cc5": {
-            "text": "API: $template->noUnpublish = 1; \/\/ lub 0 aby wy\u0142\u0105czy\u0107"
         },
         "6064635b0dec3189859052c02adc0fc5": {
             "text": "Zezw\u00f3l na zmian\u0119 u\u017cytkownika 'created user' na stronach?"
@@ -380,41 +371,17 @@
         "16a657e6bf4576ef101f1bcca129694c": {
             "text": "Po zaznaczeniu, strony z tym szablonem b\u0119d\u0105 mia\u0142y mo\u017cliwo\u015b\u0107 zmiany 'created by user' (tylko dla super administrator\u00f3w). Umo\u017cliwi to tak\u017ce zapisanie p\u00f3l $page->createdUser or $page->created_users_id bezpo\u015brednio z poziomu API."
         },
-        "1684cd1767cda6618ed92febec9e78c6": {
-            "text": "API: $template->allowChangeUser = 1; \/\/ lub 0 by wy\u0142\u0105czy\u0107. Domy\u015blnie - 0."
-        },
         "42a6e7a5ed0d0ae111fa88a2ccf1aca2": {
             "text": "Nie zezwala\u0107 na przenoszenie stron?"
         },
         "518270f594c5488ff1f8de2ac0429f0e": {
             "text": "Je\u015bli chcesz, aby strony z tym szablonem nie by\u0142y przenoszone (zmiana rodzica), zaznacz to pole."
         },
-        "7ee14ea7ba968378f99fb3efa7ac22da": {
-            "text": "API: $template->noMove = 1; \/\/ lub 0 aby wy\u0142\u0105czy\u0107"
-        },
         "4250b64aabe2bd1f7764377c2f5380c4": {
             "text": "Wy\u0142\u0105czy\u0107 wsparcie wieloj\u0119zyczno\u015bci dla tego szablonu?"
         },
         "109da571222f1c753257a9ea7d9c0f23": {
             "text": "Po zaznaczeniu strony korzystaj\u0105ce z tego szablonu b\u0119d\u0105 u\u017cywa\u0107 tylko j\u0119zyka domy\u015blnego."
-        },
-        "2ae2316266d64c1c1caa543c16fe62bc": {
-            "text": "API: $template->noLang = 1; \/\/ domy\u015blnie 0."
-        },
-        "8a08c3b7f2922be4ad8e59744781b796": {
-            "text": "Format nazwy strony"
-        },
-        "8a396099e3eecefcbbbbac1715a464de": {
-            "text": "Opcjonalnie okre\u015bl format dla nazw stron u\u017cywanych podczas dodawania nowej strony. Pozwala to pomin\u0105\u0107 krok \"Dodaj stron\u0119\", podczas dodawania stron. Do poprawnego dzia\u0142ania, szablon u\u017cywany przez stron\u0119 nadrz\u0119dn\u0105 musi definiowa\u0107 ten szablon (%s) jako jedyny dozwolony jako podrz\u0119dny (zobacz kart\u0119 \"Relacje\" w szablonie u\u017cywanym przez rodzica)."
-        },
-        "6058394e74833c97153b0edaec2fb369": {
-            "text": "Mo\u017cesz tu wpisa\u0107 dowolny tekst. Gdy zostanie utworzona nowa strona, a jej nazwa nie b\u0119dzie unikatowa, do ko\u0144ca b\u0119dzie dodawana liczba narastaj\u0105ca, a\u017c zostanie unikatowa."
-        },
-        "026e4114c3bd578141d593edfdcba4b6": {
-            "text": "Je\u015bli chcesz, aby nazwy stron otrzyma\u0142y swoj\u0105 warto\u015b\u0107 z pola tytu\u0142u: wpisz \"tytu\u0142\" powy\u017cej (bez cudzys\u0142ow\u00f3w)."
-        },
-        "cde43753349041653da0d29cc52a15fa": {
-            "text": "** Je\u015bli chcesz, aby Twoje nazwy stron odzwierciedla\u0142y dat\u0119 utworzenia ** wprowad\u017a [format daty] (http:\/\/www.php.net\/manual\/en\/function.date.php) powy\u017cej. Tw\u00f3j format daty musi zawiera\u0107 co najmniej jeden znak nie-alfanumeryczny (np. Uko\u015bnik \"\/\" lub dwukropek \":\"), aby m\u00f3c go rozpozna\u0107 jako format daty. Przyk\u0142ad: \"Y \/ m \/ d H: i: s\" utworzy stron\u0119 o nazwie: \"2014-10-30-12-39-01\". Jak wida\u0107, znaki inne ni\u017c alfanumeryczne nadal wyst\u0119puj\u0105ce w sformatowanej dacie, lecz s\u0105 one konwertowane na my\u015blniki."
         },
         "dc8ce981931b1e9b1f784c57730a67c1": {
             "text": "Nale\u017cy pami\u0119ta\u0107, \u017ce wszystkie te ustawienia systemowe s\u0105 przeznaczone do opracowywania systemu ProcessWire (a nie do tworzenia witryn). Korzystaj z nich na w\u0142asne ryzyko."

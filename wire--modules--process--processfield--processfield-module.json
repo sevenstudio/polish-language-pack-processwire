@@ -206,9 +206,6 @@
         "1fa78a97c113bed4e867ec21d9ca918f": {
             "text": "To pole nie mo\u017ce zosta\u0107 usuni\u0119te, poniewa\u017c jest u\u017cywne przez jeden lub wi\u0119cej szablon\u00f3w"
         },
-        "bfacb0dba61ee131e07daaacead869c5": {
-            "text": "Podstawowe ustawienia pola"
-        },
         "927e2bece8a3ee4ce5f53aca157c04ec": {
             "text": "U\u017cywaj tylko liter ASCII (a-z A-Z), cyfr (0-9) lub podkre\u015blnik\u00f3w (bez spacji)."
         },
@@ -574,6 +571,45 @@
         },
         "59da98ece56eec26f5f9edd6f051da0b": {
             "text": "To tak\u017ce usunie wierszy danych - %d ."
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Etykieta"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nazwa"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Typ"
+        },
+        "760b4bbc37693597edf00f9eeda38cd0": {
+            "text": "Nie ma obecnie ustawie\u0144 nadpisanych prze szablon."
+        },
+        "89fa758424367d5caeb355f904d5bfc1": {
+            "text": "Dozwolone nadpisania"
+        },
+        "7710897a6218283716118180cd494f1e": {
+            "text": "Zaznaczone ustawienia pojawi\u0105 si\u0119 jako opcje konfiguracji podczas edycji tego pola w kontek\u015bcie okre\u015blonego szablonu."
+        },
+        "c4d3fb0af8e800de549531cccd8a19f8": {
+            "text": "Ostrze\u017cenie: wykonanie tej czynno\u015bci dla ustawie\u0144 wykraczaj\u0105cych poza te okre\u015blone przez autora modu\u0142u mo\u017ce nie zawsze dzia\u0142a\u0107 lub powodowa\u0107 problemy."
+        },
+        "2babe53026309ed1bc4d26626dbaf9b3": {
+            "text": "Detale:"
+        },
+        "c4e024e71ba191d41926d9fcfa7cde3a": {
+            "text": "Zawarto\u015b\u0107:"
+        },
+        "6ed7cdaf5655ad6feaf61425896fca0e": {
+            "text": "B\u0142\u0105d podczas ustawiania \u201c%s\u201d"
+        },
+        "86cdc0e0ad458e6450b25153b0ca0248": {
+            "text": "(okre\u015blono \u201c%s\u201d)"
+        },
+        "ce1e5086faa587952093bfb31f7af1c1": {
+            "text": "Nie uda\u0142o si\u0119 zweryfikowa\u0107"
+        },
+        "07f32475d23721446e940087c7e26b53": {
+            "text": "To nie zadzia\u0142a, poniewa\u017c warto\u015bci musz\u0105 by\u0107 identyfikatorami stron"
         }
     }
 }

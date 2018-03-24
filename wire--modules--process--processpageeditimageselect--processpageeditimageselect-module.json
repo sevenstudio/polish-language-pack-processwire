@@ -205,6 +205,12 @@
         },
         "02b1a8c5ed34fba75d6ce56f68435743": {
             "text": "(%1$d) wariacji obrazu %2$s"
+        },
+        "0bedb7a49466cc5abddacd2003be55b3": {
+            "text": "Pomin\u0105\u0107 atrybuty szeroko\u015bci w tagach obraz\u00f3w?"
+        },
+        "522779383d7b7d46168fcc8ae1c5d4a5": {
+            "text": "Domy\u015blnie ten modu\u0142 b\u0119dzie dodawa\u0142 atrybuty szeroko\u015bci w znaczniku img. Je\u015bli u\u017cywasz obraz\u00f3w responsywnych, mo\u017cesz wy\u0142\u0105czy\u0107 t\u0105 opcj\u0119. Zaznacz to pole, aby wy\u0142\u0105czy\u0107 atrybuty szeroko\u015bci i wysoko\u015bci."
         }
     }
 }
