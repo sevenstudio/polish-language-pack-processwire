@@ -1,5 +1,30 @@
 {
     "file": "wire\/core\/LanguageFunctions.php",
     "textdomain": "wire--core--languagefunctions-php",
-    "translations": []
+    "translations": {
+        "fb5bc6b1ef6713a60dc29d381c94f0c0": {
+            "text": "To jest tekst do t\u0142umaczenia"
+        },
+        "c34814ef5a75aa478503556456ef91d5": {
+            "text": "Mo\u017cliwo\u015b\u0107 przet\u0142umaczenia z bie\u017c\u0105cym plikiem jako textdomain"
+        },
+        "27fcbef6dfbafc7467da8d1b29113ded": {
+            "text": "Mo\u017cliwo\u015b\u0107 przet\u0142umaczenia z innym plikiem jako textdomain"
+        },
+        "d1346524ac7f6fe232016c077a9fc6ec": {
+            "text": "wi\u0119cej"
+        },
+        "59e4da1ec2723e6d05ec5feeaf7f7924": {
+            "text": "wi\u0119cej"
+        },
+        "5fc84d0317482d09f3ddd893414e51dd": {
+            "text": "Znaleziono element"
+        },
+        "b676034ffa6131761ecc1b8e151c44ef": {
+            "text": "Znaleziono wiele element\u00f3w"
+        },
+        "a91d611a962e2baf78e47b720f43bfdd": {
+            "text": "Znaleziono %d element\u00f3w"
+        }
+    }
 }
