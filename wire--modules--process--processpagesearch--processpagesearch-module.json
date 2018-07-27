@@ -118,6 +118,66 @@
         },
         "6950a77d131f284826099392fd57701c": {
             "text": "Ko\u0144czy si\u0119 na"
+        },
+        "03164877c3d4b788308e3fbfe3199751": {
+            "text": "Wyszukiwanie panel administracyjny"
+        },
+        "d1032e06eff58a781d56ae06b0ebeb85": {
+            "text": "Kolejno\u015b\u0107 wynik\u00f3w wyszukiwania"
+        },
+        "e8159c4a91a92ac26a6c03ef7aaf6dac": {
+            "text": "S\u0105 to rodzaje wyszukiwa\u0144, kt\u00f3re b\u0119d\u0105 wykonywane podczas wyszukiwania na \u017cywo przez administratora."
+        },
+        "e6325f7d83769dd875f667c2dbcd5fd7": {
+            "text": "Przecj\u0105gnij je aby ustawi\u0107 kolejno\u015b\u0107 w jakiej b\u0119d\u0119 wy\u015bwietlane wyniki wyszukiwania."
+        },
+        "94d8d93a863e2724dc409c7b5771bf76": {
+            "text": "(wykluczone)"
+        },
+        "8cf4111a5e458360994845128c2b07b3": {
+            "text": "Wyklucz typy wyszukiwania"
+        },
+        "fbb4e524dc820fa07f82c23211611ad9": {
+            "text": "Wybierz typy wyszukiwania kt\u00f3r\u0119 b\u0119d\u0105 wykluczone z wyszukiwania na \u017cywo. Mog\u0105 to by\u0107 typy kt\u00f3rych wynik\u00f3w nie b\u0119dziesz szuka\u0107 zbyt cz\u0119sto."
+        },
+        "cee52fb451f657b046988a3535ad9fad": {
+            "text": "Im wi\u0119cej typ\u00f3w jest wykluczonych, tym szybciej mechanizm wyszukiwania b\u0119dzie dzia\u0142a\u0142."
+        },
+        "1b803e4573be96837e8a286f9ba111c4": {
+            "text": "Dowolne wybrane typy mog\u0105 by\u0107 nadal wyszukiwane, je\u015bli zostan\u0105 okre\u015blone konkretnie w wyszukiwaniu."
+        },
+        "5b2201bc8bf61333c472ab98b9f3b2c3": {
+            "text": "Na przyk\u0142ad, je\u015bli wykluczysz typ \"trash\" (kosz), b\u0119dzie on m\u00f3g\u0142 by\u0107 przeszukany, je\u015bli poprzedzi\u0142e\u015b wyszukiwanie s\u0142owem \"trash=\", np. \"Trash=hello\"."
+        },
+        "e1eee8c1f21fe51aa15f3006cd6419f4": {
+            "text": "Pola stron to szukania"
+        },
+        "14521e8e790db172e8c476f9d77291c0": {
+            "text": "Dotyczy to tylko wynik\u00f3w wyszukiwania ze \"stron\" i z \"kosza\"."
+        },
+        "4f745aea666e6efcb5ff18f1d9275693": {
+            "text": "Rekomendujemy ograniczenie tej opcji to maksymalnie 1 -2 p\u00f3l w celu zachowanie wysokiej wydajno\u015bci wyszukiwania. Zazwyczaj wystarczaj\u0105ce jest przeszukanie pola \"title\" (tytu\u0142)."
+        },
+        "719994663f2fff9ce4cd0935acc6c6a5": {
+            "text": "Pola stron so przeszukania je\u015bli u\u017cytkownik wci\u015bnie \"enter\" w polu wyszukiwania."
+        },
+        "50570447523d04b47c7c79f8c135a3ae": {
+            "text": "Typowo b\u0119dzie to to samo co powy\u017cej, ale mo\u017cna doda\u0107 tutaj dodatkowe pole\/pola."
+        },
+        "72dc6e522da22345e91fd3dde26d792e": {
+            "text": "Dla przyk\u0142adu, zamiast przeuka\u0107 tylko pole tytu\u0142, mo\u017cna tak\u017ce doda\u0107 pole \"body\"(tre\u015b\u0107)."
+        },
+        "f9702fc01ddd6b314fe6d74ac54995b6": {
+            "text": "Domy\u015blny operator wyszukiwania dla pojedynczych i cz\u0119\u015bciowych wyszukiwa\u0144 s\u0142\u00f3w"
+        },
+        "5187ed7cdf401218d2ae7263781350b8": {
+            "text": "Wskazuje obs\u0142ug\u0119 cz\u0119\u015bciowych dopasowa\u0144 s\u0142\u00f3w"
+        },
+        "bbeff731bf48359f60959f600e6240c2": {
+            "text": "Domy\u015blny operator wyszukiwania dla wyszukiwania wielu s\u0142\u00f3w\/fraz"
+        },
+        "3aaf625865081e0b0f1f8d001a9a06be": {
+            "text": "(dowolna kolejno\u015b\u0107)"
         }
     }
 }

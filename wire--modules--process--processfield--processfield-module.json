@@ -610,6 +610,54 @@
         },
         "07f32475d23721446e940087c7e26b53": {
             "text": "To nie zadzia\u0142a, poniewa\u017c warto\u015bci musz\u0105 by\u0107 identyfikatorami stron"
+        },
+        "c101058e7ea21bbbf2a5ac893088e90b": {
+            "text": "="
+        },
+        "c145e5825899a7a53cf8a14b64e53639": {
+            "text": "Zarz\u0105dzaj Tagami"
+        },
+        "f62aef3d1bcf85a63cf9af0e03a46c0f": {
+            "text": "Fitruj wed\u0142ug szablonu"
+        },
+        "8870ba7044d8bb0fd95686ec955f9109": {
+            "text": "Filtruj wed\u0142ug typu"
+        },
+        "a922cb7ffa163fa26dfe9e44aaa24d32": {
+            "text": "Pokaza\u0107 pola systemowe?"
+        },
+        "1bd8f22fdbf8e9e0ca28f3f1e276b085": {
+            "text": "="
+        },
+        "5da3b0e9c19f86443f6ad42f6d0d1456": {
+            "text": "Wybierz wszystkie pola kt\u00f3re powinny zawiera\u0107 ten tag"
+        },
+        "2eea24744a636478929cd8cbbe444ded": {
+            "text": "Wy\u015bwietli\u0107 jako zwini\u0119te na li\u015bcie p\u00f3l?"
+        },
+        "cd83a77df71e48e6273b925549e0af71": {
+            "text": "Aby usun\u0105c ten tag, usu\u0144 z niego wszystkie pola."
+        },
+        "ed4def612e69863794dc9c98db08b464": {
+            "text": "Dodano tag \u201c%1$s\u201d do pola %2$s"
+        },
+        "ab7c81ccbce2415afa58b092a3c58162": {
+            "text": "Usuni\u0119to tag \u201c%1$s\u201d z pola %2$s"
+        },
+        "d80b6b9388a3f3767f80be5c2ab78976": {
+            "text": "Tagi pozwalaj\u0105 na tworzenie grup p\u00f3l do wy\u015bwietlania lub przeszukiwania."
+        },
+        "718bd4be79fcb0bac1a4ff2e4528d45d": {
+            "text": "Uwaga: tag \u201c%s\u201d ma tak\u0105 sam\u0105 nazw\u0119 jak pole."
+        },
+        "9fc8691fab39cc1433cd39430edb0501": {
+            "text": "Dodaj nowy tag"
+        },
+        "c6e44f0384ed0d130e044f153e7b772f": {
+            "text": "Ka\u017cdy tag musi by\u0107 osobnym s\u0142owem (podkre\u015blniki s\u0105 akceptowane)"
+        },
+        "6855bfdf44496210543dabeb8f88a1c0": {
+            "text": "="
         }
     }
 }

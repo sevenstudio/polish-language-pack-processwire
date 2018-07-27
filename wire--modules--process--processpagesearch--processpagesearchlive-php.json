@@ -1,0 +1,84 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageSearch\/ProcessPageSearchLive.php",
+    "textdomain": "wire--modules--process--processpagesearch--processpagesearchlive-php",
+    "translations": {
+        "2c44229630ad7e2758a89bd14435a31b": {
+            "text": "Nie okre\u015blono wyszukiwania"
+        },
+        "453aceb005ceaf54a47da15fee8b2a26": {
+            "text": "Strony"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Kosz"
+        },
+        "bf17ac149e2e7a530c677e9bd51d3fd2": {
+            "text": "Modu\u0142y"
+        },
+        "d8d7ad6abfd08c27baa8bedb78c72ddb": {
+            "text": "Zobacz wszystkie"
+        },
+        "32df01b9cf0491a879250b58ba2744ba": {
+            "text": "Wyniki wyszukiwania"
+        },
+        "945331eb8feee661c7a01a7da50e7e7e": {
+            "text": "lub nazwa dowolnego pola"
+        },
+        "098f6bcd4621d373cade4e832627b4f6": {
+            "text": "="
+        },
+        "9da4c632d92b0a319e8e963f8b7dd19f": {
+            "text": "Wyszukuje %1$s dla: %2$s"
+        },
+        "0c79bedd451ec4becdb006eabf461f3b": {
+            "text": "Wyszukuje %1$s w\u0142asno\u015b\u0107: %2$s dla: %3$s"
+        },
+        "aa22617dfe85dc625769bb90cf1edc82": {
+            "text": "Przyk\u0142ady u\u017cywaj\u0105 operatora \"=\" r\u00f3wna si\u0119."
+        },
+        "9b39d6b66fd46b375480103f46850760": {
+            "text": "W niekt\u00f3rych przypadkach mo\u017cesz tak\u017ce u\u017cy\u0107 tych:"
+        },
+        "3e31303f6c94d429ef522d10a2d421d8": {
+            "text": "operatory:"
+        },
+        "e2d5a00791bce9a01f99bc6fd613a39d": {
+            "text": "skonfiguruj"
+        },
+        "64a16c6ab0b0e6113aa92f7f6d40410b": {
+            "text": "Kliknij tutaj aby skonfigurowa\u0107 ustawienia wyszukiwania"
+        },
+        "b7208f6d5abab822d6ab05b1016d409a": {
+            "text": "To samo co powy\u017cej (kr\u00f3tsza sk\u0142adnia, je\u015bli nie ma kolizji nazwy)"
+        },
+        "963e1f84e80d24245a65e61120d9d212": {
+            "text": "Ogranicz wyniki do szablonu: %s"
+        },
+        "29a251084e8675a8d52d945e2f58d726": {
+            "text": "Ogranicz wyniki do pola %s w szablonie"
+        },
+        "bd42869f654344076a72479ecdb1d45f": {
+            "text": "Znajd\u017a szablony kt\u00f3re posiadaj\u0105 pole: %s"
+        },
+        "173512440f350caacc754ddd1a392b71": {
+            "text": "Znajd\u017a pola z edytorem \"ckeditor\" w ustawieniach"
+        },
+        "1624b2059f3271b1213456999221e2df": {
+            "text": "(najed\u017a mysz\u0119 aby wy\u015bwietli\u0107 wi\u0119cej informacji)"
+        },
+        "d6b75fe82918572d3828601219286147": {
+            "text": "Przyk\u0142ady wykorzystuj\u0105 w\u0142a\u015bciwo\u015b\u0107 \u201c%s\u201d"
+        },
+        "c3f4f45cbebefe1b25a8c7965516a79b": {
+            "text": "Mo\u017cesz tak\u017ce u\u017cy\u0107 dowolnej z tych w\u0142a\u015bciwo\u015bci:"
+        },
+        "74693d2fc58b46bd06410f278e39aa71": {
+            "text": "w\u0142a\u015bciwo\u015b\u0107i"
+        },
+        "627b11fa495dc928e31ab76310d934f9": {
+            "text": "%s pomoc"
+        },
+        "cf1e3d72714f82f85aa7f326af340459": {
+            "text": "element\u00f3w %d"
+        }
+    }
+}

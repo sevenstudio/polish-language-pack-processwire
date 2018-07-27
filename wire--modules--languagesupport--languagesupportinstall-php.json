@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportInstall.php",
+    "textdomain": "wire--modules--languagesupport--languagesupportinstall-php",
+    "translations": {
+        "3ae44849cea119dd44333ce66ad5b388": {
+            "text": "Kliknij aby zainstalowa\u0107:"
+        },
+        "f62784baf73b04e9986e5e2e5141c1ac": {
+            "text": "Dodaj i skonfiguruj nowe j\u0119zyki"
+        },
+        "b326de895188c390f00d3e3165a4e183": {
+            "text": "Zmie\u0144 typ pola \"title\" z \"Tytu\u0142 Strony\" na \"Tytu\u0142 Strony (wielojezyczny)\""
+        },
+        "38655673ed547e757e9275d9132e8002": {
+            "text": "Zmien typ dowolnego pola tekstowego na \"Pole tekstowe (wi\u0119loj\u0119zyczne)\""
+        },
+        "e28586cd56c48fc4522b6f5838c69781": {
+            "text": "Zmien typ dowolnego pola tekstowego na \"Pole tekstowe (wi\u0119loj\u0119zyczne)\""
+        },
+        "cce78dc6ebbec7385a01f2146d6d01c8": {
+            "text": "Nast\u0119pne kroki"
+        },
+        "11073190b7d624dffd2b0ed1d24e99be": {
+            "text": "Aby kontynuowa\u0107 konfiguracj\u0119 wsparcia wieloj\u0119zyczno\u015bci, rekomendujemy wykonanie nast\u0119puj\u0105cych czynno\u015bci."
+        },
+        "03936c46ccc75e527d1c061c9307cb2b": {
+            "text": "Link poni\u017cej otworz\u0105 nowe kono\/kart\u0119. Zamknij je po zako\u0144czeniu aby powr\u00f3ci\u0107 tutaj."
+        },
+        "02860eb2acccc8d47fc0503ceae2b550": {
+            "text": "Zainstaluj modu\u0142 LanguageSupportFields przed pr\u00f3b\u0105 zmiany typu pola tekstowego."
+        }
+    }
+}

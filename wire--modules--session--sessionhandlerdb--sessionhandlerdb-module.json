@@ -13,6 +13,18 @@
         },
         "703fdc8134134754f6630df73ee50572": {
             "text": "Agent u\u017cytkownika zazwyczaj zawiera informacje dotycz\u0105ce u\u017cywanej przegl\u0105darki."
+        },
+        "ba361c497e1c5943748b4df7933d353f": {
+            "text": "Nie zezwala\u0107 na sesje r\u00f3wnoleg\u0142e?"
+        },
+        "34fde9e07a3a1cae09017ec0a9ae2c31": {
+            "text": "Gdy w\u0142\u0105czone, aktywne sesje jednego u\u017cytkownika wygasaj\u0105 r\u00f3wnocze\u015bnie na wszystkich innych urz\u0105dzeniach\/przegl\u0105darkach"
+        },
+        "d95cdb1f2c4fd9c3c22f548068589fa3": {
+            "text": "Zanzaczenie tego pola zezwoli jednemu u\u017cytkownikowi na posiadanie tylko jednej aktywnej sesji."
+        },
+        "8883240d9c18322fd43dfd39c8b32e14": {
+            "text": "Poprzednia sesja logowania dla \u201c%s\u201d zosta\u0142a usuni\u0119ta\/wylogowana."
         }
     }
 }

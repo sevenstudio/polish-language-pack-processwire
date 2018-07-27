@@ -70,6 +70,15 @@
         },
         "bcf77f341a0ec5189588bdad819c9ee7": {
             "text": "Dla wi\u0119kszej ilo\u015bci opcji sprawd\u017a ustawienia $config->pageList w pliku \/wire\/config.php. Mo\u017cesz skopiowa\u0107 te ustawienia do \/site\/config.php i je nadpisa\u0107."
+        },
+        "e834b638a7a5df6f0de0c57b1d6ac901": {
+            "text": "Zezw\u00f3l u\u017cytkownikom bez najwy\u017cszych uprawnie\u0144 na u\u017cycie kosza?"
+        },
+        "6288d796be4065eb3b00cf1fe1f7b613": {
+            "text": "Je\u015bli zaznaczono, u\u017cytkownicy b\u0119d\u0105 mogli zobaczy\u0107 strony w koszu (tylko strony do kt\u00f3rych maj\u0105 dost\u0119p)."
+        },
+        "98ee3deee3a12fa7795a82801d19a020": {
+            "text": "W\u0142\u0105czy to tak\u017ce funkcje \"Kosz\" i \"Przywr\u00f3\u0107\" tam gdzie kontrola dost\u0119pu na to zezwala."
         }
     }
 }
