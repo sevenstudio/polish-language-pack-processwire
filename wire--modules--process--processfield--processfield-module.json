@@ -41,23 +41,11 @@
         "b2a6343356c7cf0f4c1aae50c2cac1b7": {
             "text": "Usu\u0144"
         },
-        "0071819b4ba5f6d112dbf1eab7cbe2ae": {
-            "text": "Typ"
-        },
-        "7facb165145d489aeaa6743a6f9f1f55": {
-            "text": "Etykieta"
-        },
         "9ea1f3769ad9c72e3ebf7de539b53aa1": {
             "text": "Opis"
         },
         "a6f1b7f6b210b19d1d4ff7722c8fd790": {
             "text": "Notki"
-        },
-        "0e26a613a19dbe1752912c253f5b2e37": {
-            "text": "Nazwa"
-        },
-        "0e6b389782e160492d4fe3a397e392df": {
-            "text": "Etykieta"
         },
         "799ef6a367b3b36deb5be25ef8e7c91a": {
             "text": "Dost\u0119p"
@@ -83,9 +71,6 @@
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Filtry"
         },
-        "89872ab3eb9af52f34b4dd82077758fc": {
-            "text": "Filtruj wed\u0142ug szablonu"
-        },
         "410267bd4e3c99784bab90c5e64b5209": {
             "text": "Je\u015bli zaznaczono, tylko pola wybranego szablonu zostan\u0105 pokazane. Wbudowane pola tak\u017ce b\u0119d\u0105 widoczne gdy filtrownie ustawione jest wed\u0142ug szablonu. Gwiazdka (*) oznacza szablony systemowe."
         },
@@ -95,23 +80,14 @@
         "a81c2112e97c64099ff86d5b97cb13c6": {
             "text": "Pola w szablonie"
         },
-        "d9a45316e3230df36980cf6ab8983485": {
-            "text": "Filtruj wed\u0142ug typu pola"
-        },
         "db2b4f5915e2053955edfec38776a17f": {
             "text": "Gdy wybrano, zostan\u0105 pokazane tylko pola zaznaczonego typu. Wbudowane pola s\u0105 tak\u017ce wy\u015bwietlane podczas filtrowania wed\u0142ug typu pola."
         },
         "cca90d2e0854b62dc0c77ad0e1679be4": {
             "text": "Wy\u015bwietla pola typu: %s"
         },
-        "380f82872d1eb16c53b69ce4cfb45c9f": {
-            "text": "Pokaza\u0107 wbudowane pola?"
-        },
         "2a7b956033d031e555889f8ddd52754f": {
             "text": "Po zaznaczeniu zostan\u0105 r\u00f3wnie\u017c wy\u015bwietlone pola wbudowane. Obejmuj\u0105 one pola systemowe i pola trwa\u0142e. Pola systemowe s\u0105 wymagane przez system i nie mog\u0105 by\u0107 usuni\u0119te a ich nazwa nie mo\u017ce zosta\u0107 zmieniona. Permanentnymi polami s\u0105 te, kt\u00f3rych nie mo\u017cna usun\u0105\u0107 z szablonu. Pola te s\u0105 u\u017cywane wewn\u0119trznie przez ProcessWire."
-        },
-        "1535d0228ba3626bad19ec55142ffcc6": {
-            "text": "Wy\u015bwietlanie wszystkich p\u00f3l, w tym p\u00f3l wbudowanych i pernamentych."
         },
         "4cca2a863deef0fc4de9115b9164537b": {
             "text": "Nie otagowane"
@@ -308,12 +284,6 @@
         "3df354a032179f36ea493c3df6643ce1": {
             "text": "Je\u015bli chcesz wizualnie powi\u0105za\u0107 to pole z innymi polami, wprowad\u017a tag (jedno s\u0142owo). Podaj ten sam tag (s\u0142owo) we wszystkich innych polach, kt\u00f3re maj\u0105 wyst\u0119powa\u0107 w tej samej grupie. Aby u\u017cy\u0107 wielu tag\u00f3w, oddziel ka\u017cdy tag spacj\u0105. Wykorzystanie tag\u00f3w mo\u017ce by\u0107 przydatne, je\u015bli twoja strona zawiera wiele r\u00f3\u017cnych p\u00f3l."
         },
-        "7f511c25eccff9ce7127eecfb136f443": {
-            "text": "Ka\u017cdy tag musi by\u0107 jednym s\u0142owem (u\u017cycie my\u015blnik\u00f3w jest dozwolone)."
-        },
-        "78bd709db99c927f3a59a1983f18c237": {
-            "text": "Aby tag zosta\u0142 zwini\u0119ty\/zamnki\u0119ty na li\u015bcie p\u00f3l, dodaj przed nim my\u015blnik, przyk\u0142ad: -hello"
-        },
         "89e1299f98120a24c999cdffa860d2cb": {
             "text": "Usuni\u0119to pole"
         },
@@ -497,9 +467,6 @@
         "4b2bcb0478b24201a7d60fed561d1b42": {
             "text": "Edytuj indywidualne pola kt\u00f3re przechwuj\u0105 dane strony"
         },
-        "bcb2ce4355834a060bef50afb9127603": {
-            "text": "Systemowe"
-        },
         "d665a1b10e02b9de8f4115d5b7078976": {
             "text": "Dodaj nowe pole"
         },
@@ -529,9 +496,6 @@
         },
         "cb4e4304ce3fbf227cdae7fecc193fbf": {
             "text": "Ostrze\u017cenie"
-        },
-        "cba80ebc9ff6059cddbf49c3f46172a6": {
-            "text": "Brak (domy\u015blne)"
         },
         "47ee982b17f699a3dffff43c76df78ec": {
             "text": "Szablon"
@@ -571,15 +535,6 @@
         },
         "59da98ece56eec26f5f9edd6f051da0b": {
             "text": "To tak\u017ce usunie wierszy danych - %d ."
-        },
-        "b021df6aac4654c454f46c77646e745f": {
-            "text": "Etykieta"
-        },
-        "49ee3087348e8d44e1feda1917443987": {
-            "text": "Nazwa"
-        },
-        "a1fa27779242b4902f7ae3bdd5c6d508": {
-            "text": "Typ"
         },
         "760b4bbc37693597edf00f9eeda38cd0": {
             "text": "Nie ma obecnie ustawie\u0144 nadpisanych prze szablon."
@@ -658,6 +613,9 @@
         },
         "6855bfdf44496210543dabeb8f88a1c0": {
             "text": "="
+        },
+        "7db27839ce9f9208f2b52bb9a48220a9": {
+            "text": "Pokazuje wszystkie pola, w tym pola sta\u0142e i pola systemowe."
         }
     }
 }

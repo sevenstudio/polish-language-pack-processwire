@@ -53,9 +53,6 @@
         "abc32b2bc5cd1b61b5d3738f09405c0d": {
             "text": "Brakuj\u0105ce wymagane pole: nazwa"
         },
-        "bd71df4fde063d60b0fe33d87f52f7ff": {
-            "text": "Ostrze\u017cenie, wybrana nazwa \"%1$s\"  jest ju\u017c u\u017cywana i zosta\u0142a zmienona na \"%2$s\"."
-        },
         "a713b3cf3828f00d541e6ae14b294a8f": {
             "text": "Strony wybrane powy\u017cej reprezentuj\u0105 zak\u0142adki do stron nadrz\u0119dnych (rodzic\u00f3w), dla kt\u00f3rych b\u0119dzie mo\u017cna dodawa\u0107 strony podrz\u0119dne (dzieci). Nale\u017cy pami\u0119ta\u0107, \u017ce je\u015bli u\u017cytkownik nie ma uprawnie\u0144 do dodawania strony do danej strony nadrz\u0119dnej (niezale\u017cnie od tego, czy jest to spowodowane kontrol\u0105 dost\u0119pu czy ustawieniami rodziny\/relacji szablon\u00f3w), zak\u0142adka nie zostanie wy\u015bwietlona."
         },
@@ -82,6 +79,9 @@
         },
         "9d9c4e8d05601024166b9a3b0cb46ad6": {
             "text": "Wymagany jet wyb\u00f3r szablonu"
+        },
+        "6649c293aa8a0af33c071f946674fc31": {
+            "text": "Ostrze\u017cenie, wybrana przez Ciebie nazwa \"%1$s\" zosta\u0142a zmieniona na \"%2$s\"."
         }
     }
 }

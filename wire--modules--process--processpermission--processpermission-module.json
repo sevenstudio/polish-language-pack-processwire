@@ -22,6 +22,15 @@
         },
         "175111b089b0e62fbde2b5344f2a547f": {
             "text": "Zarz\u0105dza uprawnienami systemowymi"
+        },
+        "f42c0a03ea62c2f657939fd15ef033cb": {
+            "text": "Po zainstalowaniu u\u017cytkownik musi mie\u0107 to uprawnienie do wykonania opisanego zadania."
+        },
+        "76455df332216051d893a89ac3b39deb": {
+            "text": "Gdy NIE jest zainstalowane, zak\u0142ada si\u0119, \u017ce u\u017cytkownik ma ju\u017c uprawnienia do edycji opisanego zasobu."
+        },
+        "3900b58fd6fe4828f0595efc2d4f574f": {
+            "text": "W rezultacie, je\u015bli jest zainstalowany, to uprawnienie mo\u017ce usun\u0105\u0107 istniej\u0105cy dost\u0119p, dop\u00f3ki nie zostanie przypisany do r\u00f3l."
         }
     }
 }

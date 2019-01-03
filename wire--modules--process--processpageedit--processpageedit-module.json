@@ -251,14 +251,8 @@
         "bbbabdbe1b262f75d99d62880b953be1": {
             "text": "="
         },
-        "62e59f3c47304f4fad142afb1cee6a50": {
-            "text": "Jakie strony kieruj\u0105 do tej strony?"
-        },
         "b9c25fdc76ccaff0426b33dc56852e77": {
             "text": "Nie mo\u017cna ich wy\u015bwietli\u0107"
-        },
-        "d996fb607618d463ab9157739e105919": {
-            "text": "Znaleziono %d innych stron wskazuj\u0105cych na t\u0119 stron\u0119 w polach strony lub linkach href."
         },
         "bd3cc7d2c61580ec64f4225eae3a330e": {
             "text": "(w polu strony)"
@@ -281,9 +275,6 @@
         "514327d866bf40803bfdf3a678af92ba": {
             "text": "Zaznacz aby potwierdzi\u0107 \u017ce chcesz przywr\u00f3ci\u0107 t\u0105 stron\u0119."
         },
-        "dc49e815691b27fd40c0b9c72066b25d": {
-            "text": "Strony zostanie przywr\u00f3cona do rodzica: %s"
-        },
         "91ce4ed84b455bf383570b705a732cd6": {
             "text": "Nie mo\u017cna przywr\u00f3ci\u0107 strony, gdy s\u0105 obecne b\u0142\u0119dy"
         },
@@ -292,6 +283,84 @@
         },
         "e8691f66b2ae08756dac17d0e3b91eb2": {
             "text": "B\u0142\u0105d przywracania strony"
+        },
+        "ea1056a7e305406e5662eb74ed8eb9f1": {
+            "text": "Usu\u0144"
+        },
+        "e4d5ce77afa1ac8b139234c7e641d5cd": {
+            "text": "Jakie strony linkuj\u0105 do tej strony?"
+        },
+        "60c6e03c99253b3bca28a08aa5102fdc": {
+            "text": "Znaleziono %d innych stron z linkami do tej strony w polach strony lub linkach href."
+        },
+        "3efee15199d0046c4a68bd6c96c66800": {
+            "text": "Jakie inne adresy URL przekierowuj\u0105 na t\u0119 stron\u0119?"
+        },
+        "c665039391ab01a70f17f05adcc566df": {
+            "text": "Ilekro\u0107 strona zostanie przeniesiona lub zmieni si\u0119 jej nazwa, system zapami\u0119ta poprzedni\u0105 lokalizacj\u0119 przekierowa\u0144."
+        },
+        "d9a0149000506e68eb258bab1ef93e2f": {
+            "text": "Poni\u017cej znajduje si\u0119 lista adres\u00f3w URL (\u015bcie\u017cek), kt\u00f3re automatycznie przekierowuj\u0105 na t\u0119 stron\u0119 (przy u\u017cyciu sta\u0142ego przekierowania 301)."
+        },
+        "bc84a6916935bff7a425f45f894a18a6": {
+            "text": "Mo\u017cesz usun\u0105\u0107 dowolne \u015bcie\u017cki \/ adresy URL lub r\u0119cznie doda\u0107 nowe."
+        },
+        "1324a129fbb956748409f981833c0736": {
+            "text": "Brak \u015bcie\u017cek przekierowania"
+        },
+        "9d76aca60838d896fb7754d4a890eb9d": {
+            "text": "Jeszcze nie"
+        },
+        "593d4b34403b76f5c134df5b3c033420": {
+            "text": "Usuni\u0119to przekierowanie do poprzedniego adresu URL: %s"
+        },
+        "ca2593b9cdd313f5fc57d68fb0e94470": {
+            "text": "Dodaj nowe przekierowania"
+        },
+        "71fc4eb5d7649ced69d2936060e7774c": {
+            "text": "Podaj dodatkowe \u015bcie\u017cki \/ adresy URL (po jednym na wiersz), kt\u00f3re powinny przekierowa\u0107 na t\u0119 stron\u0119."
+        },
+        "1715e12396d2512d6a079d39809bd855": {
+            "text": "Podaj tylko \u015bcie\u017ck\u0119 adresu URL (np.  \u201c\/hello\/world\/\u201d), NIE do\u0142\u0105czaj schematu, domeny, portu, ci\u0105gu zapytania lub fragment\u00f3w."
+        },
+        "05977549ad6511429ee4d274f710771d": {
+            "text": "\u015acie\u017cki odnosz\u0105 si\u0119 do katalogu g\u0142\u00f3wnego witryny, wi\u0119c NIE do\u0142\u0105czaj podkatalogu %s na pocz\u0105tku."
+        },
+        "b74adc728406a06b4e47a2bcfd534281": {
+            "text": "Aby okre\u015bli\u0107 j\u0119zyk przekierowania, wpisz \u015bcie\u017ck\u0119\/URL w linii z prefiksem nazwy j\u0119zyka:"
+        },
+        "beb808c0ab58b957ea0350e633392cee": {
+            "text": "="
+        },
+        "ab2435deb08297062617b30c57c0ef9e": {
+            "text": "(dla %s)"
+        },
+        "e638e85311e9a6c568c715cb46e7ac01": {
+            "text": "Dodano przekierowanie: %s"
+        },
+        "4ece098a04808389cd88f5e62f8a6fa0": {
+            "text": "Nie mo\u017cna doda\u0107 przekierowania %s, poniewa\u017c powoduje konflikt z inn\u0105 \u015bcie\u017ck\u0105"
+        },
+        "d8514ace7bcb47e0d419377402b13142": {
+            "text": "Strona zostanie przywr\u00f3cona do: %s."
+        },
+        "e6c6e3f3e972de9c735faefa037529ab": {
+            "text": "Oryginalna nazwa zostanie zmieniona z %1$s na %2$s, aby by\u0142a unikatowa."
+        },
+        "c28806887f7038aa8c83cef389bfcec6": {
+            "text": "URL (poprzednia \u015bcie\u017cka)"
+        },
+        "a413997b3fa1374648ebd250435071c5": {
+            "text": "Kiedy (data poprzedniej \u015bcie\u017cki)"
+        },
+        "5ee35a979708ef27ee71dcc13f862da0": {
+            "text": "J\u0119zyk (j\u0119zyk poprzedniej \u015bcie\u017cki)"
+        },
+        "1443a205d4656be20da9f81a5b7a5da9": {
+            "text": "Obecna"
+        },
+        "2623934b184a9c5b44a0c9992499b5f6": {
+            "text": "Rodzic"
         }
     }
 }

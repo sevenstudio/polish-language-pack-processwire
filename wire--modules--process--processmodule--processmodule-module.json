@@ -75,7 +75,7 @@
             "text": "Wyczyszczona pami\u0119\u0107 podr\u0119czna kompilatora plik\u00f3w"
         },
         "883368e39a6dfd38bba57a0d881c87df": {
-            "text": "Od\u015bwierzono pami\u0119\u0107 podr\u0119czn\u0105 modu\u0142\u00f3w (%d - modu\u0142\u00f3w)"
+            "text": "Od\u015bwie\u017cono pami\u0119\u0107 podr\u0119czn\u0105 modu\u0142\u00f3w (%d - modu\u0142\u00f3w)"
         },
         "fdbd482a575730a7abb63cdbf62a0f6c": {
             "text": "Modu\u0142 \"%s\" posiada wiele plik\u00f3w (pogrubiony plik jest u\u017cywany)"
@@ -124,9 +124,6 @@
         },
         "0900a3f6adfa931e0130c02c436e7e7f": {
             "text": "Nazwa klasy modu\u0142u"
-        },
-        "8de5f3b8fe691cf6304176b9a5ed54da": {
-            "text": "Mo\u017cesz przegl\u0105da\u0107 katalog modu\u0142\u00f3w w poszukiwaniu tego, kt\u00f3ry chcesz pobra\u0107 i zainstalowa\u0107. W polu \"nazwa klasy\" wpisz lub wklej nazw\u0119 modu\u0142u, kt\u00f3ry chcesz zainstalowa\u0107."
         },
         "3b0798392299a74418470d3f13b5eec2": {
             "text": "Katalog modu\u0142\u00f3w znajduje si\u0119 na: http:\/\/modules.processwire.com"
@@ -409,6 +406,18 @@
         },
         "da50401ad6d0a7e3ec13844538e10864": {
             "text": "Informacje o module"
+        },
+        "43e59b407ace3714a7913e09ad22a594": {
+            "text": "Pobierz informacje o module"
+        },
+        "3c6392d21eded83348fcd9ba6fbf3784": {
+            "text": "Pobierz teraz"
+        },
+        "bb767ff00426d9e68c6a09aef27403b1": {
+            "text": "Mo\u017cesz przegl\u0105da\u0107 katalog modu\u0142\u00f3w i wybra\u0107 modu\u0142, kt\u00f3ry chcesz pobra\u0107 i zainstalowa\u0107."
+        },
+        "a2eff7125bf22d0665eb96166b471821": {
+            "text": "Wpisz lub wklej nazw\u0119 klasy modu\u0142u, kt\u00f3ry chcesz zainstalowa\u0107, a nast\u0119pnie kliknij przycisk \"%s\", aby kontynuowa\u0107."
         }
     }
 }

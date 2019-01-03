@@ -79,6 +79,30 @@
         },
         "98ee3deee3a12fa7795a82801d19a020": {
             "text": "W\u0142\u0105czy to tak\u017ce funkcje \"Kosz\" i \"Przywr\u00f3\u0107\" tam gdzie kontrola dost\u0119pu na to zezwala."
+        },
+        "a8a530c941af87d6dc1d0d907cd4ee3f": {
+            "text": "Rodzaj ilo\u015bci podstron"
+        },
+        "f472347ec718962a0e4560a410768cf1": {
+            "text": "Na li\u015bcie stron liczba podstron jest wy\u015bwietlana obok ka\u017cdej strony, gdy jest to mo\u017cliwe. Jaki rodzaj ilo\u015bci powinien zosta\u0107 pokazany?"
+        },
+        "8c06d8c7bf685599eb5de83ad4d79d08": {
+            "text": "Przy pokazywaniu podstron liczba obejmuje wszystkie strony potomne, niezale\u017cnie od tego, czy s\u0105 one dost\u0119pne dla u\u017cytkownika."
+        },
+        "1cf8145a75b3d3d0f52759b1808c9cac": {
+            "text": "Bezpo\u015brednie podstrony (domy\u015blnie)"
+        },
+        "f9e98f3e587cf5da4ddb460f0aa52437": {
+            "text": "Wszystkie podstrony"
+        },
+        "3f842a2d7d72a4f7fb3e400a5b569f0b": {
+            "text": "Oba typy: podstrony\/strony potomne"
+        },
+        "d86d2e0723883a6f48c9c0c05d3584b6": {
+            "text": "Oba typy: strony potomne\/podstrony"
+        },
+        "69ff054adc667458622b780aabe13d60": {
+            "text": "Zamiast tego poka\u017c numer identyfikacyjny strony"
         }
     }
 }

@@ -74,9 +74,6 @@
         "bdeb3e0cbe3d8f44757a86e8da219abc": {
             "text": "To rodzaj uprawnie\u0144 mo\u017ce by\u0107 przypisany tylko przez szablon."
         },
-        "00abcc0a482965cd87aa000c253bf713": {
-            "text": "(dziedziczone z roli u\u017cytkownika go\u015bcia)"
-        },
         "76ea2cfb7138b9f6db1ca5385ffd6bec": {
             "text": "Dodaj do: %s"
         },
@@ -88,6 +85,9 @@
         },
         "4106d43df925487225450293085f8bad": {
             "text": "Brak uprawnie\u0144 \u201c%1$s\u201d dla szablonu \u201c%2$s\u201d  (wymagane \u201c%3$s\u201d)"
+        },
+        "596d1c90537af3c3c588dceedde6bf03": {
+            "text": "(wymagane, poniewa\u017c odziedziczono po roli go\u015bcia)"
         }
     }
 }

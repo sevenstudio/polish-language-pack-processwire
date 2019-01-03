@@ -65,9 +65,6 @@
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Filtry"
         },
-        "1ada25378d2f81d6394cb823cda822ad": {
-            "text": "Filtruj po polu"
-        },
         "602717d1b0adbf6ff41366d6371e375d": {
             "text": "Wybierz pole, aby zobaczy\u0107 tylko i wy\u0142\u0105cznie szablony kt\u00f3re korzystaj\u0105 z tego pola"
         },
@@ -82,9 +79,6 @@
         },
         "86ec8350e4740a4cc47328ee7c984d40": {
             "text": "Dodaj nowe szablony"
-        },
-        "6703f01fb2662a497ae2d29163ed68c2": {
-            "text": "Nazwa jest ju\u017c u\u017cywana"
         },
         "ff6be05386ed6fc79ccf24b5eb9432ac": {
             "text": "Dodano szablon i grup\u0119 p\u00f3l: %s"
@@ -106,9 +100,6 @@
         },
         "0e2511c51c799246bc640afd3b4cc07b": {
             "text": "Mo\u017cesz poda\u0107 wiele nazw szablon\u00f3w, oddzielaj\u0105c ka\u017cd\u0105 nazw\u0119 spacj\u0105."
-        },
-        "088244ca195e0e9e57bd38027406b66b": {
-            "text": "Nie do\u0142\u0105czaj rozszerzenia pliku"
         },
         "24a144ffc0e6aae299d3a23c2152e7fa": {
             "text": "Edytuj szablon: %s"
@@ -304,9 +295,6 @@
         },
         "8d5a5a7af810d2ef80cf02082615c9dd": {
             "text": "Plik szablonu nie jest zapisywalny w zwi\u0105zku z czym b\u0119dziesz musia\u0142 zmieni\u0107 jego nazw\u0119 manualnie (instrukcje zostan\u0105 podane po zapisaniu)"
-        },
-        "e1f4b06346cdbed5063a5e42a9593f59": {
-            "text": "Podaj dowoln\u0105 kombinacj\u0119 liter (a-z), cyfr (0-9) my\u015blnik\u00f3w lub podkre\u015blnik\u00f3w (bez spacji). Nie do\u0142\u0105czaj rozszerzenia pliku .php"
         },
         "30281e3b2fa626d5f52c833c541c84ac": {
             "text": "Zduplikowa\u0107\/sklonowa\u0107 ten szablon?"
@@ -749,12 +737,6 @@
         "ce79a399cbe0a2128106c428d5f5227c": {
             "text": "Zapisano szablon: %s"
         },
-        "dd086c8dc23fef8fb9543424864aa9cb": {
-            "text": "Nieprawid\u0142owa nazwa szablonu podana dla kopii"
-        },
-        "ab64903a1bc47ab8cf1767e8d6581c2d": {
-            "text": "Nie mo\u017cna skopiowa\u0107 poniewa\u017c szablon o takiej nazwie ju\u017c istnieje"
-        },
         "0ce8e11f27f5cff906b08ff533da5567": {
             "text": "Utworzono kopi\u0119 szablonu \"%1$s\" o nazwie \"%2$s\"."
         },
@@ -985,6 +967,18 @@
         },
         "f31f5e50313e32f1b8a1d38913e26023": {
             "text": "% pola"
+        },
+        "1f1e0f35a65380b2fb521f45ebe074d4": {
+            "text": "Nazwy szablon\u00f3w mog\u0105 zawiera\u0107 litery (a-z A-Z), liczby (0-9) my\u015bliniki i podkre\u015blniki."
+        },
+        "121b570925fe79a1a61a5af3597db410": {
+            "text": "Ma\u0142e litery s\u0105 opcjonalne, ale zalecane."
+        },
+        "f2b378843f03d80972622754302da574": {
+            "text": "Nie do\u0142\u0105czaj rozszerzenia pliku."
+        },
+        "9cc59ab6a716c29aa5e36e79f150552c": {
+            "text": "Nazwa szablonu nie jest w wymaganym formacie."
         }
     }
 }
