@@ -23,9 +23,6 @@
         "5e1daea70649e788db6ead8cd50f791d": {
             "text": "Nieopublikowana strona %1$s nie jest dozwolona w polu \"%2$s\""
         },
-        "1cc510dea04a978b3bb88514582eea6c": {
-            "text": "Aby zezwoli\u0107 na niepublikowane strony, wyedytuj pole \"%s\" i sprawd\u017a ustawienia na karcie \"Zaawansowane\"."
-        },
         "f0670991d41b78617ca7810b7ce334b9": {
             "text": "Dodano stron\u0119 %s"
         },
@@ -190,6 +187,9 @@
         },
         "d5a1e1e864827e2bbb99d144e30359de": {
             "text": "Wybierz modu\u0142y p\u00f3l, kt\u00f3re mog\u0105 by\u0107 u\u017cyte do wyboru strony. Zazwyczaj powinny to by\u0107 pola, kt\u00f3re pozwalaj\u0105 wybra\u0107 jedn\u0105 lub wi\u0119cej opcji."
+        },
+        "1f6147d9cbae7fa8c3e213824bce6405": {
+            "text": "Aby zezwoli\u0107 na niepublikowane strony, edytuj pole \"%s\" i zobacz ustawienia na karcie \"Zaawansowane\"."
         }
     }
 }

@@ -26,9 +26,6 @@
         "44a3084a1ce251fb76ba7fe540a18863": {
             "text": "Ta akcja jest wy\u0142\u0105czona dla ustawie\u0144 minimalnej\/maksymalnej ilo\u015bci element\u00f3w."
         },
-        "d3b3350cb648f345b0a21a048df0cf45": {
-            "text": "Repeater"
-        },
         "25c63396ad92c7bbb48fa4aa21adc5e4": {
             "text": "Pozwala powiela\u0107 pola z innego szablonu. Zapewnia pole dla FieldtypeRepeater."
         },
@@ -49,6 +46,12 @@
         },
         "d7280b1cbbae6481f050a9184b8fa445": {
             "text": "Zwin\u0105\u0107 wszystkie elementy?"
+        },
+        "be3fb8f18ddcd8f47b92e020f1474b1b": {
+            "text": "B\u0142\u0105d w \u201c%s\u201d element %d"
+        },
+        "d3b3350cb648f345b0a21a048df0cf45": {
+            "text": "="
         }
     }
 }
