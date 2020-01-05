@@ -25,6 +25,9 @@
         },
         "cfdf33cbd93768327b807066fb473750": {
             "text": "W\u0142\u0105cz dwustopniowe uwierzytelnianie"
+        },
+        "7d1e877f40bcb7e917038fddfbc95043": {
+            "text": "Osi\u0105gni\u0119to maksymaln\u0105 warto\u015b\u0107 ustawienia PHP \u201emax_input_vars\u201d w %d - zwi\u0119ksz warto\u015b\u0107 w ustawieniach PHP serwera."
         }
     }
 }
