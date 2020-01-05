@@ -82,6 +82,15 @@
         },
         "fbf221ff984c277d7fea5d290e817767": {
             "text": "Jeden lub wi\u0119cej plik\u00f3w do przes\u0142ania (z mo\u017cliwo\u015bci\u0105 sortowania)"
+        },
+        "e72ce31f0ee80699eb03ad6cc894fe3a": {
+            "text": "Nieobs\u0142ugiwane rozszerzenie pliku, u\u017cyj tylko: EXTENSIONS"
+        },
+        "6ebd01ddd3a5422eb7dcdd0ce4b677c7": {
+            "text": "Plik jest za du\u017cy - maksymalny dozwolony rozmiar to MAX_KB kb"
+        },
+        "c62fc670ac122455cc5853bf97130711": {
+            "text": "Pole \u201c%1$s\u201d typu \u201c%2$s\u201d nie jest obs\u0142ugiwane w polu \u201c%3$s\u201d"
         }
     }
 }

@@ -26,9 +26,6 @@
         "95742f3daaebcf075ad53961b11fc0dd": {
             "text": "Komentarz #%1$d napisay %2$s przez %3$s"
         },
-        "ec53a8c4f07baed5d8825072c89799be": {
-            "text": "Status"
-        },
         "84c4dfc8fccf9350a9610e366ae769a5": {
             "text": "Odpowiedz do"
         },
@@ -71,8 +68,14 @@
         "af4a8ef24b938b7857109b49e38c8969": {
             "text": "Oczekuje"
         },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "status"
+        },
+        "0cdfb8480c1dfe5241c042249c4d9fae": {
+            "text": "wyr\u00f3\u017cnione"
+        },
         "39ef1e97d0b7fa0510cd93cd5f2cf99b": {
-            "text": "Spam"
+            "text": "spam"
         }
     }
 }

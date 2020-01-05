@@ -106,6 +106,12 @@
         },
         "43bce07bd160232ee31114541357640c": {
             "text": "POdaj tagi oddzielone spacj\u0105. Tagi mog\u0105 zawiera\u0107 litery, cyfry podkre\u015blniki lub my\u015blniki."
+        },
+        "d51491292f62e94821f0fb6802cc1849": {
+            "text": "Dozwolone modu\u0142y typu pola dla p\u00f3l niestandardowych"
+        },
+        "100061c6a3b1c84e1a3617988f77bd88": {
+            "text": "Typy z przekre\u015bleniem prawdopodobnie nie b\u0119d\u0105 w 100% kompatybilne."
         }
     }
 }
