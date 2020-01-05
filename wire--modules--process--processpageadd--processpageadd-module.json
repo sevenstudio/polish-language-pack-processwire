@@ -17,9 +17,6 @@
         "b0324fdebb63032317bba7c66bff89fc": {
             "text": "Obecnie nie ma szablon\u00f3w z zdefiniowanymi relacjami rodzic\/dziecko, kt\u00f3re s\u0105 wymagane aby doda\u0107 tutaj skr\u00f3t \"Dodaj now\u0105\". Aby to skonfigurowa\u0107, zmie\u0144 dowolny szablon (Ustawienia > Szablony) i kliknij kart\u0119 \"Relacje\"."
         },
-        "1f03189503b2b085455900a07777134c": {
-            "text": "Zarezerwowane"
-        },
         "a60852f204ed8028c1c58808b746d115": {
             "text": "="
         },
@@ -80,8 +77,8 @@
         "9d9c4e8d05601024166b9a3b0cb46ad6": {
             "text": "Wymagany jet wyb\u00f3r szablonu"
         },
-        "6649c293aa8a0af33c071f946674fc31": {
-            "text": "Ostrze\u017cenie, wybrana przez Ciebie nazwa \"%1$s\" zosta\u0142a zmieniona na \"%2$s\"."
+        "bd71df4fde063d60b0fe33d87f52f7ff": {
+            "text": "Ostrze\u017cenie, nazwa, kt\u00f3r\u0105 wybra\u0142e\u015b \"%1$s\" by\u0142a ju\u017c w u\u017cyciu i zosta\u0142a zmieniona na \"%2$s\"."
         }
     }
 }

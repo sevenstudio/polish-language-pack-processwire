@@ -88,6 +88,12 @@
         },
         "596d1c90537af3c3c588dceedde6bf03": {
             "text": "(wymagane, poniewa\u017c odziedziczono po roli go\u015bcia)"
+        },
+        "2c32a8fe6caf47e8f89b0929211639df": {
+            "text": "Szablony oznaczone gwiazdk\u0105 (*) s\u0105 skonfigurowane pod k\u0105tem uprawnie\u0144 zwi\u0105zanych z edycj\u0105, aby dziedziczy\u0107 tak\u017ce elementy potomne i poprzez drzewo strony, chyba \u017ce s\u0105 nadpisane przez stron\u0119 korzystaj\u0105c\u0105 z  innego szablonu z kontrol\u0105 dost\u0119pu."
+        },
+        "1900cd4f8e202940060d2129a70df995": {
+            "text": "To uprawnienie jest r\u00f3wnie\u017c dziedziczone przez podstrony i za po\u015brednictwem drzewa strony, chyba \u017ce\/dop\u00f3ki ustawienia uprawnie\u0144 nie zostan\u0105 zast\u0105pione przez inny szablon z innymi ustawieniami uprawnie\u0144."
         }
     }
 }

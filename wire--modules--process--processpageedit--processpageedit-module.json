@@ -361,6 +361,18 @@
         },
         "2623934b184a9c5b44a0c9992499b5f6": {
             "text": "Rodzic"
+        },
+        "19959897b0f9d04ebbea294594c10f5d": {
+            "text": "Ta strona mo\u017ce zawiera\u0107 jedno lub wi\u0119cej niekompletnych p\u00f3l (spr\u00f3buj zapisa\u0107 lub opublikowa\u0107, aby uzyska\u0107 wi\u0119cej informacji)"
+        },
+        "0bcdea7c9e6f5289b7cf4c51e001a8fa": {
+            "text": "Unikalna: wymagaj, aby nazwa strony \u201c%s\u201d by\u0142a globalnie unikalna"
+        },
+        "9d4409be42bd401755ef515b91df93bc": {
+            "text": "(tylko w domy\u015blnym j\u0119zyku)"
+        },
+        "c71458ba699635fcdbc6a15dd2b81c4c": {
+            "text": "Usuni\u0119to status oflagowany, poniewa\u017c podczas zapisywania nie zg\u0142oszono \u017cadnych b\u0142\u0119d\u00f3w"
         }
     }
 }

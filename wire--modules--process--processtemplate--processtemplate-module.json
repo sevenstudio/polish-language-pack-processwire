@@ -656,15 +656,6 @@
         "1adb25e12d2b0d06683c3dc04e833631": {
             "text": "Poka\u017c stron\u0119 logowania: %s"
         },
-        "225237dc381e612f4bbf08dd75efdb71": {
-            "text": "Przekieruj do innego adresu URL"
-        },
-        "57f844c4a5ccb54207fa22705e7729a3": {
-            "text": "Wpisz adres URL lub stron\u0119, na kt\u00f3ry chcesz przekierowa\u0107, gdy u\u017cytkownik nie ma dost\u0119pu"
-        },
-        "b12715241d6f9d36629e189651930f08": {
-            "text": "To pole ma zastosowanie tylko w przypadku wybrania \"przekierowania do innego adresu URL\" w polu powy\u017cej."
-        },
         "2f2055affca16d8404e278fc1d6c3a07": {
             "text": "Opcjonalnie: w adresie URL mo\u017cesz do\u0142\u0105czy\u0107 tag '{id}' (by\u0107 mo\u017ce jako zmienna GET), i je\u015bli chcesz, zostanie on zast\u0105piony numerem identyfikacyjnym \u017c\u0105danej strony."
         },
@@ -979,6 +970,30 @@
         },
         "9cc59ab6a716c29aa5e36e79f150552c": {
             "text": "Nazwa szablonu nie jest w wymaganym formacie."
+        },
+        "8ad0889e260991fdddd4730a35287dad": {
+            "text": "Kliknij i przeci\u0105gnij, aby dostosowa\u0107 szeroko\u015b\u0107 pola"
+        },
+        "710392d799626a77535d30648716ddd3": {
+            "text": "Zapisz szablon przed dostosowaniem szeroko\u015bci nowego pola"
+        },
+        "491b2e7db94dabf054ee83c101755e87": {
+            "text": "Przekieruj na inny adres URL lub wyrenderuj stron\u0119 wed\u0142ug identyfikatora - ID"
+        },
+        "9f461848426762d3cf5e46a83b9f2657": {
+            "text": "Zapisz adres URL lub identyfikator strony, aby wy\u015bwietli\u0107"
+        },
+        "ba5068f94547142a71a790f6dedc9a77": {
+            "text": "Wprowad\u017a adres URL, na kt\u00f3ry chcesz przekierowa\u0107 LUB identyfikator strony, kt\u00f3ry chcesz wy\u015bwietli\u0107, gdy u\u017cytkownik nie ma dost\u0119pu."
+        },
+        "9f0e0bbab28d57fef318155ea51c6d68": {
+            "text": "Je\u015bli okre\u015blasz identyfikator strony, pami\u0119taj, \u017ce wynikowa strona zostanie wyrenderowana dla u\u017cytkownika, niezale\u017cnie od tego, czy ma on uprawnienia do wy\u015bwietlania, czy nie."
+        },
+        "1fa93855c234c32d0a9451ce1ef4fa6c": {
+            "text": "Jest to przydatne w przypadkach, gdy Twoja strona logowania mo\u017ce by\u0107 dodatkowo chroniona przed dost\u0119pem."
+        },
+        "793e0cc1771feadd7a91c0031e7ad663": {
+            "text": "To ustawienie ma zastosowanie tylko wtedy, gdy wybrano opcj\u0119 \u201eC\u201d w powy\u017cszym polu."
         }
     }
 }
