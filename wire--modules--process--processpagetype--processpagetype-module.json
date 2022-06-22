@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageType\/ProcessPageType.module",
+    "textdomain": "wire--modules--process--processpagetype--processpagetype-module",
+    "translations": {
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Dodaj"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nazwa"
+        },
+        "9f8f70e6d54311627f02da284603db7a": {
+            "text": "Brak element\u00f3w do wy\u015bwietlenia."
+        },
+        "89872ab3eb9af52f34b4dd82077758fc": {
+            "text": "Filtruj wed\u0142ug szablonu"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Poka\u017c wszystkie"
+        },
+        "bce455aa81509f2a4dbb9acb3581a0be": {
+            "text": "Jakie pola powinny by\u0107 wy\u015bwietlane na li\u015bcie stron?"
+        },
+        "6a5b847af3d97df722040debdbccfbed": {
+            "text": "Typ stron"
+        },
+        "3d10fda1b8b9895bade8da5233636cbf": {
+            "text": "Poka\u017c, edytuj lub dodowaj specyficzne strony"
+        }
+    }
+}

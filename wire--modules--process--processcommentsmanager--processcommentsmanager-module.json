@@ -1,0 +1,195 @@
+{
+    "file": "wire\/modules\/Process\/ProcessCommentsManager\/ProcessCommentsManager.module",
+    "textdomain": "wire--modules--process--processcommentsmanager--processcommentsmanager-module",
+    "translations": {
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Usu\u0144"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "Edycja"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Zatwierdzone"
+        },
+        "2d13df6f8b5e4c5af9f87e0dc39df69d": {
+            "text": "Oczekuj\u0105ce"
+        },
+        "98a0736c51255f757cf109bccfa1d7e2": {
+            "text": "Nie istniej\u0105 zainstalowane pola komentarzy"
+        },
+        "adf240c38c161d42244e9eb21f515ba2": {
+            "text": "Prosz\u0119 wybra\u0107 pole komentarzy"
+        },
+        "9f97f1e4ae9c77faa2f4d30bb84dd69b": {
+            "text": "Brak pola komentarzy pod wskazanym adresem URL"
+        },
+        "4f85d037300d5f7efcf7fdc3f973db7f": {
+            "text": "Nierozpoznane pole"
+        },
+        "b718adec73e04ce3ec720dd11a06a308": {
+            "text": "="
+        },
+        "6a65e2235642194467bf83001d23639d": {
+            "text": "Odpowiedzi do"
+        },
+        "301fdff99e595b9e55d94b9b51b24277": {
+            "text": "Usuni\u0119to komentarz #%d"
+        },
+        "9ee770091bc28969ca49eb8b60826002": {
+            "text": "Zaktualizowano komentarz #%d"
+        },
+        "2eaf1946befd8d1cec85046ac88324e3": {
+            "text": "="
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "="
+        },
+        "6f9e04c43332fd4945f2c933c8eea611": {
+            "text": "Cytuj"
+        },
+        "4dfbb099eafd3c82e033bf92946d3ce6": {
+            "text": "="
+        },
+        "c6e190b284633c48e39e55049da3cce8": {
+            "text": "Sie\u0107"
+        },
+        "d37c550d781bfb93b0088a2470598bcf": {
+            "text": "Gwiazdki"
+        },
+        "8c3560971347019d5f97199e943831f0": {
+            "text": "Oceny"
+        },
+        "d442d63d91aee0c27fffe480c591f6d8": {
+            "text": "Ustaw status:"
+        },
+        "4f5d5f295ddc8fd8673e74dd5fbe114a": {
+            "text": "na strone"
+        },
+        "1ef29a5a234edee09d7e54a321740181": {
+            "text": "Zaznacz\/Odznacz wszystkie"
+        },
+        "67148361142da466e462aed78d201888": {
+            "text": "Nie ma zaznaczonych element\u00f3w"
+        },
+        "a46e2270222c49988714ec7916109fc4": {
+            "text": "Akcje (zaznaczone elementy)"
+        },
+        "e8eaf777c8e1f5b4e219d2e79cfd755f": {
+            "text": "Resetuj: G\u0142osy pozytywne"
+        },
+        "cf2dd3571dc6f61216f9f14785d7e227": {
+            "text": "Resetuj: G\u0142osy negatywne"
+        },
+        "dec8ba3ab6e0a24199eb5b6c43a9c846": {
+            "text": "Data (nowe -stare)"
+        },
+        "33abd1fd65941eb346da43ae77afbbb0": {
+            "text": "Data (stare - nowe)"
+        },
+        "ff138d55cfc1cb9ad05eff795e830b6c": {
+            "text": "Gwiazdki (najwy\u017csze - najni\u017csze)"
+        },
+        "5a4745441b4ca1eaecd9d27664d7a667": {
+            "text": "Gwiazdki (najni\u017csze - najwy\u017csze)"
+        },
+        "63e90287fd383e2e42e4778c0e9d7a71": {
+            "text": "G\u0142osy pozytywne"
+        },
+        "b45352aeca3646b5fb15baa385d44224": {
+            "text": "G\u0142osy negatywne"
+        },
+        "a4c295f303bd3ad4c69344a18dc68420": {
+            "text": "Sortuj:"
+        },
+        "eee1a3d85e91b9944c98c7558f706b27": {
+            "text": "Zmiany nie zosta\u0142y zapisane!"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Wszystkie"
+        },
+        "aa55eeb3bfe951eb9d56e8a919d80781": {
+            "text": "z %d"
+        },
+        "30f29dc6505d24512de6f3189a5bda62": {
+            "text": "Nic do wy\u015bwietlenia"
+        },
+        "43ffce869929998c02ec3de3dd218d03": {
+            "text": "%d odpowied\u017a"
+        },
+        "af617b357692e5cded9ff1dd859080b3": {
+            "text": "%d odpowiedzi"
+        },
+        "e9dfd31cc505d51fc26975250750deab": {
+            "text": "="
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Komentarze"
+        },
+        "37128d5a4c6200152c60cd46c829d635": {
+            "text": "Zarz\u0105dzaj wszystkimi komentarzami w jednym miejscu, poza edytorem strony."
+        },
+        "15422d54ec0d47000dc86a9820a5237e": {
+            "text": "Wyr\u00f3\u017cnione"
+        },
+        "8cc46df5ae23686a6fbb8e132f4aaf26": {
+            "text": "Odpowiedzi"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "Strona"
+        },
+        "54370b79c5171298a76fecdc5bb56e8e": {
+            "text": "Nie mo\u017cna znale\u017a\u0107 strony: %d"
+        },
+        "13cda2cfc29efb3f6a7b8b9f7c24acd9": {
+            "text": "Strona %d nie ma pola: %s"
+        },
+        "36099fd1f86153fbe98d6d09ad5c64fd": {
+            "text": "Przeniesiono komentarz #%1$d ze strony %2$d na stron\u0119 %3$d"
+        },
+        "1bda80f2be4d3658e0baa43fbe7ae8c1": {
+            "text": "zobacz"
+        },
+        "4e97aeeaa8b15ca1180fcd1f3ac478d1": {
+            "text": "Kiedy"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Brak"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Rodzic"
+        },
+        "b3c5b21d2cb47cc950fd4667edaf404c": {
+            "text": "Gdzie"
+        },
+        "06d9d9227a6c26ee0148439a24dd351f": {
+            "text": "Odpowied\u017a do %s"
+        },
+        "aaf9ed605d0193362321ba0def15c9b7": {
+            "text": "Powiadomienie"
+        },
+        "9b4a46700a216e7f86402b5a11722f5f": {
+            "text": "Identyfikator ID komentarza"
+        },
+        "0b5be322b470d22de5cd2ecdf9e9361f": {
+            "text": "Identyfikator komentarza, na kt\u00f3ry ten odpowiada."
+        },
+        "e8108834c7ffb39092e8284f6ebeae5d": {
+            "text": "Identyfikator strony, na kt\u00f3rej znajduje si\u0119 ten komentarz."
+        },
+        "824d3f8e2abf1d4d5501516dafa0797c": {
+            "text": "Zobacz wszystkie maj\u0105ce warto\u015b\u0107"
+        },
+        "5bcd278346ef0ee9a549bd38478ed1e6": {
+            "text": "Edytuj warto\u015b\u0107"
+        },
+        "436ab3711aae372f3890d1885f4d4d2a": {
+            "text": "Poka\u017c tylko komentarze ze strony"
+        },
+        "a690f09cec7c496921a55201d25b9a09": {
+            "text": "Odpowied\u017a do #"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nie"
+        }
+    }
+}

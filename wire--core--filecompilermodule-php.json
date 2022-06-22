@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/FileCompilerModule.php",
+    "textdomain": "wire--core--filecompilermodule-php",
+    "translations": {
+        "e774dc32721ed4babc1996a83868058f": {
+            "text": "Kolejno\u015b\u0107 wykonywania"
+        },
+        "26ca6e7fb5ade62330c73e93dc083cab": {
+            "text": "Okre\u015bl kolejno\u015b\u0107 dzia\u0142ania modu\u0142u w stosunku do innych modu\u0142\u00f3w FileCompiler. Ni\u017csza warto\u015b\u0107 jest wykonywana wcze\u015bniej."
+        }
+    }
+}

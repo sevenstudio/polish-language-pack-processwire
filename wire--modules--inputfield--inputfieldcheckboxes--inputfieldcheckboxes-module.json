@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
+    "translations": {
+        "c425f296c6b905c91fb3f6da1a1702b6": {
+            "text": "Pola wyboru (checkboxes)"
+        },
+        "632ae34b804c1914c3a51af327a3379d": {
+            "text": "Pola wielokrotnego wyboru (checkboxes)"
+        },
+        "7bcfe5241d76d75be6c2edd188a3c8d4": {
+            "text": "Szeroko\u015b\u0107 kolumny opcji"
+        },
+        "7eb9cb961fc6bd6179e41f543c3d7551": {
+            "text": "U\u017cyj tego ustawienia, aby opcje by\u0142y wy\u015bwietlane w kolumnach o sta\u0142ej szeroko\u015bci, kt\u00f3re s\u0105 ruchome lub zwijane zgodnie z szeroko\u015bci\u0105 rzutni."
+        },
+        "f1a23bf1974a4b1cbbeaddc284117fd9": {
+            "text": "Wprowad\u017a wielko\u015b\u0107 szeroko\u015bci CSS i jednostk\u0119, na przyk\u0142ad 100px lub 10em. Je\u015bli nie okre\u015blono jednostki, przyjmowana jest liczba pikseli (pikseli)."
+        },
+        "434bbaa0ab37f1ebd26e7509715e1aa3": {
+            "text": "Wprowad\u017a liczb\u0119 1, aby automatycznie obliczy\u0107 odpowiedni\u0105 szeroko\u015b\u0107 w czasie wykonywania."
+        },
+        "e2698e70a4505aa9809823dda815aaa0": {
+            "text": "Aby uzyska\u0107 najlepszy wygl\u0105d, wprowad\u017a szeroko\u015b\u0107, kt\u00f3ra pasuje do najd\u0142u\u017cszej opcji bez zawijania wyraz\u00f3w, lub wprowad\u017a 1, aby uzyska\u0107 szeroko\u015b\u0107 automatyczn\u0105."
+        },
+        "730f32bc95f78291755d63422278eea6": {
+            "text": "Ilo\u015b\u0107 kolumn opcji"
+        },
+        "4628aba09e517657ce64b1604e3156c5": {
+            "text": "Je\u015bli chcesz, aby opcje by\u0142y wy\u015bwietlane w kolumnach, wprowad\u017a liczb\u0119 kolumn, kt\u00f3rych chcesz u\u017cy\u0107 (maksymalnie 10)."
+        },
+        "197eb3e7501c01299bce92e0abaace6c": {
+            "text": "Aby wy\u015bwietli\u0107 opcje obok siebie, wprowad\u017a liczb\u0119 1."
+        },
+        "9593e6f3bc34b5f5866e4f69f54ac96f": {
+            "text": "Zwr\u00f3\u0107 uwag\u0119, \u017ce ustawienie \u201eszeroko\u015b\u0107 kolumny opcji\u201d jest preferowane w przypadku zachowania responsywnego."
+        }
+    }
+}

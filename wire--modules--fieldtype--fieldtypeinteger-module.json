@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeInteger.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeinteger-module",
+    "translations": {
+        "91c09f074736481876ccf2f97e04ed07": {
+            "text": "Czy puste pole i 0 s\u0105 r\u00f3wne?"
+        },
+        "e128ed87f9f0d6401b081dd75b2dad03": {
+            "text": "Ma to wp\u0142yw na to jak ProcessWire por\u00f3wnuje strony podczas operacji przeszukiwania bazy danych."
+        },
+        "07be370e5cef3ea5961cdf07cb34f390": {
+            "text": "Je\u015bli 0 i puste pole s\u0105 r\u00f3wne (opcja Tak) wtedy wyniku wyszukiwania dla field=0 lub field=\"\" dadz\u0105 takie same wyniki."
+        },
+        "b4e4ee05aeb0d5812f77886c29c4bb53": {
+            "text": "Je\u015bli 0 i puste pole nie s\u0105 r\u00f3wne (opcja Nie) wtedy wyniki wyszukiwania dla **field=0** wska\u017c\u0105 wyniki p\u00f3l pasuj\u0105ce do warto\u015bci 0 a **field=\"\"** poka\u017ce jedynie wyniki pasuj\u0105ce do p\u00f3l bez podanej warto\u015bci."
+        },
+        "47ae95efefc63fa28854884d8c871228": {
+            "text": "Jako inny przyk\u0142ad, z opcj\u0105 'Tak' **field<1** b\u0119dzie pasowa\u0142o zar\u00f3wno do warto\u015bci 0 jak i braku warto\u015bci, za\u015b z opcj\u0105 Nie, zwr\u00f3ci tylko wyniki z warto\u015bci\u0105 0."
+        },
+        "50c5d87b02ad1694c7b4603240402ef9": {
+            "text": "Tak - puste pole - 0 s\u0105 r\u00f3wne"
+        },
+        "dce91550511a9cfef6fe1bc4d2e93b1b": {
+            "text": "Nie - puste pole - 0 s\u0105 nie s\u0105 r\u00f3wne (maj\u0105 inne znaczenie)"
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Domy\u015blna warto\u015b\u0107"
+        },
+        "382ee7815f7200f67e7a5735816c78d2": {
+            "text": "Ta warto\u015b\u0107 jest przypisana jako domy\u015blna dla tego pola na stronach gdzie nie wprowadzono warto\u015bci."
+        }
+    }
+}

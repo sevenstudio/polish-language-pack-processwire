@@ -1,0 +1,42 @@
+{
+    "file": "wire\/core\/WireUpload.php",
+    "textdomain": "wire--core--wireupload-php",
+    "translations": {
+        "c4d20a850d6031b61534f75058ae320d": {
+            "text": "Przes\u0142ano prawid\u0142owo"
+        },
+        "827ac42f1bc60fab16ae517ddb410e31": {
+            "text": "Przes\u0142any plik przekroczy\u0142 dozwolony maksymalny rozmiar okre\u015blony w warto\u015bci upload_max_filesize w pliku php.ini"
+        },
+        "8d9086cb60c50b568ba57e0951dc4025": {
+            "text": "Przes\u0142any plik przekroczy\u0142 dozwolony maksymalny rozmiar okre\u015blony w warto\u015bci MAX_FILE_SIZE ustawiony w formularzu HTML."
+        },
+        "4f12b222c9659d62afa795987259933f": {
+            "text": "Plik zosta\u0142 przes\u0142any cz\u0119sciowo\/nieklompletny."
+        },
+        "8c9067e52e4440d8a20e74fdc745b0c6": {
+            "text": "\u017baden plik nie zosta\u0142 przes\u0142any."
+        },
+        "7623dae1dc1a0906e7062e209e36cbdb": {
+            "text": "Brak folderu tymczasowego."
+        },
+        "93252348cf3a42ca5e38b70d5f866d33": {
+            "text": "B\u0142ad zapisu pliku na dysku."
+        },
+        "361e040fc0355a657b76e6727118e6e9": {
+            "text": "Przesy\u0142anie pliku zosta\u0142o przerwane przez rozszerzenie."
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "Osi\u0105gni\u0119to limit przesy\u0142ania Max file"
+        },
+        "3317b878f497a7508ea5c2a02cdf8000": {
+            "text": "Niew\u0142a\u015bciwe rozszerzenie pliku: prosz\u0119 u\u017cy\u0107 pliku o rozszerzeniu:"
+        },
+        "1cd97c3760708f05e24ee5eb7e6034ce": {
+            "text": "Przekroczono maksymalny dopuszczalny rozmiar pliku"
+        },
+        "acb6c0f25cc888a8d4e3cdc1dc2c247b": {
+            "text": "W archiwum ZIP nie znaleziono \u017cadnych plik\u00f3w"
+        }
+    }
+}

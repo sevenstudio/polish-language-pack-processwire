@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFloat.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfloat-module",
+    "translations": {
+        "22ae0e2b89e5e3d477f988cc36d3272b": {
+            "text": "Zmienna (Float)"
+        },
+        "7de752758d9c197324e94fd4a993f9d2": {
+            "text": "Zmienna - dok\u0142adna cyfra."
+        },
+        "211efcb1aa9b0567969d0ce5a18d850c": {
+            "text": "Liczba cyfr dziesi\u0119tnych do zaokr\u0105glenia do"
+        },
+        "bf8de207806af36f5a5834a4318f7818": {
+            "text": "Lub u\u017cyj liczby ujemnej, takiej jak -1, aby wy\u0142\u0105czy\u0107 zaokr\u0105glanie."
+        }
+    }
+}

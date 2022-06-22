@@ -1,0 +1,51 @@
+{
+    "file": "wire\/core\/LanguageFunctions.php",
+    "textdomain": "wire--core--languagefunctions-php",
+    "translations": {
+        "fb5bc6b1ef6713a60dc29d381c94f0c0": {
+            "text": "To jest tekst do t\u0142umaczenia"
+        },
+        "d1346524ac7f6fe232016c077a9fc6ec": {
+            "text": "wi\u0119cej"
+        },
+        "59e4da1ec2723e6d05ec5feeaf7f7924": {
+            "text": "wi\u0119cej"
+        },
+        "5fc84d0317482d09f3ddd893414e51dd": {
+            "text": "Znaleziono element"
+        },
+        "b676034ffa6131761ecc1b8e151c44ef": {
+            "text": "Znaleziono wiele element\u00f3w"
+        },
+        "a91d611a962e2baf78e47b720f43bfdd": {
+            "text": "Znaleziono %d element\u00f3w"
+        },
+        "1cb251ec0d568de6a929b520c4aed8d1": {
+            "text": "tekst"
+        },
+        "83378236d008605772b0b7ad762cfad4": {
+            "text": "Czytasz stron\u0119 %s"
+        },
+        "f49588184356b1846ce48469ae3843ac": {
+            "text": "%d jest bie\u017c\u0105cym identyfikatorem strony (ID)"
+        },
+        "e1fe2670bb21367812b567146e61221d": {
+            "text": "Dzisiaj jest %1$s, a czas to %2$s"
+        },
+        "355e4477dc80f629e33f018fac3d9836": {
+            "text": "Witaj!"
+        },
+        "eadea3a747e3696d7959fb28d1d18230": {
+            "text": "Szukaj"
+        },
+        "e0e5bd63c9d415c7fb84eecaa74c78fc": {
+            "text": "Nowy tekst"
+        },
+        "777005300b355c69534803c6407f99e7": {
+            "text": "G\u0119\u015b kanadyjska"
+        },
+        "fbe3c412d3a00ee92f603be1b42465d5": {
+            "text": "="
+        }
+    }
+}

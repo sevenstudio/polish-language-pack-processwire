@@ -1,0 +1,246 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCKEditor\/InputfieldCKEditor.module",
+    "textdomain": "wire--modules--inputfield--inputfieldckeditor--inputfieldckeditor-module",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Anuluj"
+        },
+        "259738ca35a086ce9d269623e5ab5d37": {
+            "text": "Wporwad\u017a Link"
+        },
+        "ff15d4e97d08c2ab0351169af757b0f2": {
+            "text": "Edytuj Link"
+        },
+        "446a6000511ab6fb0711400379a62a04": {
+            "text": "Wybierz obraz"
+        },
+        "03274f27f51f0c39e06e0e6cd07e01a9": {
+            "text": "Edytuj obraz"
+        },
+        "c97c12dea7825a2fa7f2b23032c6aeb4": {
+            "text": "Podpis obrazu"
+        },
+        "586dfebdb944d7af7c4720be84d7fa50": {
+            "text": "Zapisuje obraz"
+        },
+        "7038eac66e387c3b3a0834d786a88757": {
+            "text": "Wstaw obraz"
+        },
+        "0d1fae9f57cbc9a014f1c96baeef3911": {
+            "text": "Wybierz inny"
+        },
+        "a2a62a977b1825230f76d3ba2a6bf3df": {
+            "text": "CKEditor tryb inline wymaga modu\u0142u MarkupHTMLPurifier. Wykorzystuje tryb normalny."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Tak"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nie"
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Przyk\u0142ad:"
+        },
+        "2ae61d29b7247ef3679ced4aa729fb27": {
+            "text": "Ustawienia edytora CKEditor"
+        },
+        "29c6f6d4517d673b2003e604b4efb687": {
+            "text": "Pasek narz\u0119dzi CKEditor"
+        },
+        "9022c2878a60d1f4ebc0f9f83a09975f": {
+            "text": "Oddziel ka\u017cdy pasek narz\u0119dzi przecinkiem. Grupuj elementy umieszczaj\u0105c je w tej samej linii i u\u017cyj my\u015blnika \"-\" w miejscu w kt\u00f3ry chcesz doda\u0107 separator w grupie. Je\u015bli potrzebujesz wi\u0119cej ni\u017c jednego wiersza pask\u00f3w narz\u0119dzi, oddziel ka\u017cdy wiersz pust\u0105 lini\u0105."
+        },
+        "e8ddfb44ace2866e54880497acd251e3": {
+            "text": "Wporwad\u017a hash \"#\" na pocz\u0105tku lini je\u015bli chcesz j\u0105 zignorowa\u0107."
+        },
+        "dfabf65177db13369e6f60e33d626a25": {
+            "text": "Tryb edycji"
+        },
+        "f4bbbce516de30f80d2025ca9cc9a595": {
+            "text": "Gdy tryb liniowy jest w\u0142\u0105czony, edytor nie b\u0119dzie widoczny do momentu klikni\u0119cia linii tekstu. Jest to szybsze i wydajniejsze je\u015bli istnieje wiele p\u00f3l CKeditor na stronie. Jednak\u017ce, ten tryb mo\u017ce nie zawiera\u0107 wszystkich funkcji dost\u0119pnych w trybie standardowym."
+        },
+        "1c4caab2cc11e882c71d23c8365e23f5": {
+            "text": "Tryb liniowy wymaga zainstalowanego modu\u0142u HTML Purifer (MarkupHTMLPurifier)."
+        },
+        "5131613c3ef9d562a3e0e095e0f1fba8": {
+            "text": "* Wymagany modu\u0142u HTML Puriferjest zainstalowany."
+        },
+        "86c0b99d54c2b5c2bbcdc74844dbb5cf": {
+            "text": "Uwaga: nie jest zainstalowany. Nale\u017cy go zainstalowa\u0107 przed w\u0142\u0105czeniem trybu liniowego."
+        },
+        "fb946d5480a9eb75edd868079b14cfac": {
+            "text": "Licznik jest dost\u0119pny dla standardowych p\u00f3l CKEditor, ale nie dla p\u00f3l korzystaj\u0105cych z trybu liniowego."
+        },
+        "b71ae00b212e1c450146b7263bb791bb": {
+            "text": "Wykorzysta\u0107 ACF?"
+        },
+        "60f803fa7569e56d3f76d2f622e4130b": {
+            "text": "Je\u015bli tak, zostanie w\u0142\u0105czony zaawansowany filtr tre\u015bci CKEditor. Filtr ten automatycznie usuwa z tre\u015bci wszystkie nierozpoznane elementy i atrybuty HTML. Rekomendowane."
+        },
+        "086f4ea637a29573ed5e10e106040ab5": {
+            "text": "Wykorzysta\u0107 HTML Purifier?"
+        },
+        "cab4c54f1577378e89ca8dc055075ae4": {
+            "text": "Je\u015bli tak, dodana tre\u015b\u0107 jest dodatkowo filtrowania dla bezpiecze\u0144stwa przez [HTML Purifier](http:\/\/htmlpurifier.org\/). Jest to konieczny dodatek je\u015bli edytor jest w trybie liniowym i jest u\u017cywany przez niezaufanych u\u017cytkownik\u00f3w. Rekomendowany dla wszystkich."
+        },
+        "4a4b882ebec0013773373d7983935b1c": {
+            "text": "Ulepszenia sk\u0142adni"
+        },
+        "dbb9e7f934e4def553f1d3065635377e": {
+            "text": "Konwertuje tagi 'div' na paragrafy 'p'"
+        },
+        "ed97424627acfa23d899d27908115be3": {
+            "text": "usuwa puste tagi paragraf\u00f3w"
+        },
+        "ed654cac16ad0b016c80b1e0e04a86fa": {
+            "text": "Usuwa nie-\u0142amilwe spacje (nbsp)"
+        },
+        "e3e03267810478ccd824a13309388549": {
+            "text": "S\u0105 to dodatkowe opcje czyszczenia (poza ACF i HTML Purifier), kt\u00f3re dla nas okaza\u0142y si\u0119 pomocne w wielu sytuacjach. S\u0105 one stosowane przy zapisywaniu strony. Zaznaczenie wszystkich jest zalecane, chyba \u017ce wymagasz aby kt\u00f3re kolwiek z nich by\u0142y dozwolone w tre\u015bci."
+        },
+        "187cc7fdfc18d7eee937fb34cd6641dc": {
+            "text": "Format"
+        },
+        "eb58d10bb9587ab21ba79859997ea7f9": {
+            "text": "Lista wybranych tag\u00f3w wy\u015bwietlana w rozwijanym formacie \"format\"."
+        },
+        "73dd33fa6157ee6008e269d67a2843e3": {
+            "text": "Domy\u015blne tagi format\u00f3w to:"
+        },
+        "c6fd363ed202c7dd44b9a3d1b6065adc": {
+            "text": "Dodatkowa zezwolona tre\u015b\u0107:"
+        },
+        "988677b6c211741551df50fd57a5d3f4": {
+            "text": "Dozwolone regu\u0142y tre\u015bci CKEditor [extraAllowedContent](http:\/\/docs.ckeditor.com\/#!\/api\/CKEDITOR.config-cfg-extraAllowedContent). Ma zastosowanie tylko gdy opcja \"Wykorzystaj ACF\" powy\u017cej jest zaznaczona."
+        },
+        "69262424661d8b544ebcba617e5772c6": {
+            "text": "Mo\u017cesz wprowadzi\u0107 wiele regu\u0142 umieszczaj\u0105c ka\u017cdej w nowej linii."
+        },
+        "378f7539f13b958d62e92c063772ee37": {
+            "text": "Powy\u017cszy przyk\u0142ad pozwoli stosowa\u0107 atrybuty alt, src, width i height dla obraz\u00f3w, z atrybutem src zawsze wymaganym."
+        },
+        "60eaab37de096deaa26bb3ff7b706095": {
+            "text": "\u015acie\u017cki powinny by\u0107 relatywne do miejsca instalacji ProcessWire (tzn. je\u015bli strona umieszczona jest w podkatalogu, prosz\u0119 pomin\u0105\u0107 t\u0105 cz\u0119\u015b\u0107 - podkatalog)"
+        },
+        "b67b49a021c8f28a0be44e276cdcb145": {
+            "text": "Ta opcja pozwala dokona\u0107 modyfikacji jak tekst i inne elementy wygl\u0105daj\u0105 w edytorze. Odnosi si\u0119 to jedynie do cz\u0119\u015bci administracyjnej strony i nie ma wp\u0142ywu na front witryny."
+        },
+        "c329380c093af757e030c47c58fc31ae": {
+            "text": "Niestandarody plik CSS edytora (tryb standardowy)"
+        },
+        "1f2a49f98f9868b764037314b9a0a2a0": {
+            "text": "Niestandarody plik CSS edytora (tryb liniowy)"
+        },
+        "1100db92626b135374ca3ad30025a3d5": {
+            "text": "Niestandarody plik JS edytora"
+        },
+        "749b7a2316f526ff2ec75692749211ad": {
+            "text": "Ta opcja umo\u017cliwia okre\u015blenie w\u0142asnych styl\u00f3w do wyboru w edytorze. Wymaga, aby w ustawieniach paska narz\u0119dziowego znajdowa\u0142 si\u0119 element \"Styles\"."
+        },
+        "2c3077a1dd5833c9dc6f49fe48e3ab71": {
+            "text": "Je\u015bli u\u017cywane, wprowad\u017a jeden na linie:  property: value lub u\u017cyj ci\u0105gu JSON"
+        },
+        "0d26e4905e21b238948dc724daade146": {
+            "text": "Niestandardowe opcje konfiguracji"
+        },
+        "0361833f130e526c7475f0bbcda324f3": {
+            "text": "U\u017cyj je\u015bli chcesz okre\u015bli\u0107 inne opcje CKEditor poza dost\u0119pnymi na tej stronie"
+        },
+        "8b6ac858b8ce3c2724d267695c732325": {
+            "text": "Sprawdzenie porpawno\u015bci niestandardowych opcji konfiguracji JSON nie uda\u0142o si\u0119."
+        },
+        "d662e23e83bdb75f4e25b3bb7afa2324": {
+            "text": "Je\u015bli preferowane, te ustawienia mog\u0105 by\u0107 tak\u017ce ustawione w jednym z plik\u00f3w:"
+        },
+        "4cf63a5e6c4eff831c232b0eb238b4ae": {
+            "text": "dla wszystkich p\u00f3l CKEditor"
+        },
+        "bb87b90b3b4cf5290402d36011056951": {
+            "text": "Tylko dla tego pola CKEditor"
+        },
+        "bb38096ab39160dc20d44f3ea6b44507": {
+            "text": "Wtyczki (pluginy)"
+        },
+        "7a6472fdd6090236270ada56951bb4ad": {
+            "text": "Dodatkowe wtyczki"
+        },
+        "8cd140c060d298234e0079cb77ee8190": {
+            "text": "Nast\u0119puj\u0105ce wtyczki zosta\u0142y znalezione. Zanzacz pole obok ka\u017cdej wtyczki kt\u00f3r\u0105 chcesz za\u0142adowa\u0107."
+        },
+        "08b808bc7661d755f526f70fbcc07e44": {
+            "text": "Przynajmniej jedna wtyczka musi zosta\u0107 wybrana."
+        },
+        "9252446fff7e6ba650e51955cb0dc1ad": {
+            "text": "Aby doda\u0107 wi\u0119cej wtyczek umie\u015b\u0107 je w:  **\/site\/modules\/InputfieldCKEditor\/plugins\/[name]\/** zamieniaj\u0105c **[name]** z nazw\u0105 wtyczki."
+        },
+        "0aef2da721f0ab14676f8d6ffb9e7e8c": {
+            "text": "rekomendowane"
+        },
+        "7ae98f3a4b96e522d75992c305a4ec2b": {
+            "text": "%s ustawienia"
+        },
+        "ced89926ebd1c95b56710b6a873b1e93": {
+            "text": "Ustawienia wtyczki %s\" nie przesz\u0142y sprawdzenia porpawno\u015bci JSON"
+        },
+        "9048e64caaebf67509d533265f44414b": {
+            "text": "Lista dodatwych wtyczek kt\u00f3re powinny zosta\u0107 za\u0142adowane przez CKEditor (odddzielone przecinkiem)"
+        },
+        "7540434dd897a8f6f8118c31f2a931ab": {
+            "text": "Przyk\u0142ad: pwlink,pwimage,myplugin,anotherplugin"
+        },
+        "973ed59e27ee4824370eaf8150cbeec9": {
+            "text": "Usu\u0144 wtyczki"
+        },
+        "3b9d2511fcd0e4afc3cc8c6c61b42d23": {
+            "text": "Lista wtyczek kt\u00f3re NIE powinny zosta\u0107 za\u0142adowane przez CKEditor (odddzielone przecinkiem)"
+        },
+        "b6c2682ed322b5c3625338a5849b9794": {
+            "text": "CKEditor pole tekstowe - pe\u0142en edytor"
+        },
+        "ddb1f53de8a1598fb3d52552d6246b85": {
+            "text": "pl"
+        },
+        "68835c69c5818fea532f3ad00a91be00": {
+            "text": "pl"
+        },
+        "86981868980ec998b671432713a7b65b": {
+            "text": "="
+        },
+        "7a20fe498ae5ceab6766124b9cb7b2a9": {
+            "text": "="
+        },
+        "f05a8abeb447b6720621d879a9197d00": {
+            "text": "Dost\u0119pne podstawowe elementy paska narz\u0119dzi:"
+        },
+        "2eba31ae40d6ac1bd4d48c72f1977364": {
+            "text": "Pola zdj\u0119\u0107, kt\u00f3re mog\u0105 zosta\u0107 wykorzystane dla obraz\u00f3w dodanych poprzez \"przeci\u0105gnij i upu\u015b\u0107\" lub \"wklejonych\" obraz\u00f3w"
+        },
+        "556255b8390dd04b90c0dca2b07da0aa": {
+            "text": "Je\u015bli nie wybrano \u017cadnych p\u00f3l, dost\u0119pne pole zdj\u0119\u0107 zostanie wybrane automatycznie. Je\u015bli wybrana zostanie opcja \"Brak\", ta funkcja zostanie wy\u0142\u0105czona."
+        },
+        "ba5c4d2fefb66dfdc969030e8d4726a6": {
+            "text": "Brak (wy\u0142\u0105cz przesy\u0142anie zdj\u0119\u0107 przez przeci\u0105gnij i upu\u015b\u0107\/wklej)"
+        },
+        "27580e5542fe0d14d78016023f38829f": {
+            "text": "Strona wykorzystywana jako magazyn obraz\u00f3w."
+        },
+        "d17026399e4b0283ab382defdc5ac109": {
+            "text": "Domy\u015blnie, przes\u0142ane obrazy zostan\u0105 dodane do strony kt\u00f3ra jest edytowana. Je\u015bli chcesz wykorzysta\u0107 inn\u0105 stron\u0105 kt\u00f3ra b\u0119dzie przechowywa\u0107 przes\u0142ane obrazy, wybierz j\u0105 tutaj."
+        },
+        "ddfa2d60092cf3c924e8e03b1d2749ad": {
+            "text": "Edytor liniowy"
+        },
+        "cece69f97e96edb257b883fcf95e4230": {
+            "text": "Edytor tradycyjny"
+        },
+        "5876f9779e64d0cac98b54f9885e4f84": {
+            "text": "(elastyczna wysoko\u015b\u0107, dostosowywana przez u\u017cytkownika)"
+        },
+        "ea87bd3358b07649df3149bfffc791c8": {
+            "text": "(zmienna wysoko\u015b\u0107, pasuje do tre\u015bci)"
+        },
+        "47d8cf2fe51854ad3028ba151ef9f3a1": {
+            "text": "(sta\u0142a wysoko\u015b\u0107, wykorzystuje ustawienie rz\u0119d\u00f3w)"
+        }
+    }
+}

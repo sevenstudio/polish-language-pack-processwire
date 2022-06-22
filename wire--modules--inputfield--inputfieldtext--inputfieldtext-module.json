@@ -1,0 +1,108 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldText\/InputfieldText.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtext--inputfieldtext-module",
+    "translations": {
+        "3c046b3ba4bce0e808ae74b1f17d4cdc": {
+            "text": "1 s\u0142owo"
+        },
+        "4694403722611f0dab5b4020626b289b": {
+            "text": "s\u0142\u00f3w %d"
+        },
+        "266be751f6043dd6f14366d90c02e395": {
+            "text": "1 znak"
+        },
+        "1799f67dd85c2b51921d814c95bc30dc": {
+            "text": "znak\u00f3w - %d"
+        },
+        "42eab4ec87a7e8c172ab10a645ab9301": {
+            "text": "(wymagane co najmniej %d)"
+        },
+        "cd4377f9e686f1024a3d4358bf96235e": {
+            "text": "(maksymalnie %d)"
+        },
+        "3c5d93eab9cf5f9c46905bcf44e863af": {
+            "text": "Nie pasuje do wymaganego wzoru"
+        },
+        "587a544effd13d88cb89456df1222d73": {
+            "text": "Wymagane jest co najmniej %1$d znak\u00f3w (obecnie jest to %2$d znak\u00f3w)."
+        },
+        "773726357c07d9847f900eef6ed9b6af": {
+            "text": "Warto\u015b\u0107 przekroczy\u0142a maksymaln\u0105 dozwolon\u0105 d\u0142ugo\u015b\u0107 %d znak\u00f3w i zosta\u0142a skr\u00f3cona."
+        },
+        "65be4bb9e294bfb3e8b7c09ca0017ef4": {
+            "text": "Minimalna d\u0142ugo\u015b\u0107"
+        },
+        "9df187935ceb54067692c568b45e042b": {
+            "text": "Minimalna d\u0142ugo\u015b\u0107 (w znakach) wymagana przez to pole."
+        },
+        "8eaf7dcee17c55fd550a28c803b47718": {
+            "text": "Je\u015bli pole nie jest \u201ewymagane\u201d, minimalna d\u0142ugo\u015b\u0107 jest wymuszana tylko wtedy, gdy wyst\u0119puje warto\u015b\u0107."
+        },
+        "94f0e608658539187d65dddeea593677": {
+            "text": "Maksymalna d\u0142ugo\u015b\u0107"
+        },
+        "a4965347ff8523a66897b92fec81e04e": {
+            "text": "Maksymalna d\u0142ugo\u015b\u0107 (w znakach) dozwolona przez to pole."
+        },
+        "62b926a914028b7677a7c1e33ae9306e": {
+            "text": "Warto\u015b\u0107 \u201e0\u201d oznacza brak maksimum."
+        },
+        "64d129224a5377b63e9727479ec987d9": {
+            "text": "Licznik"
+        },
+        "e98d599c27d0cc5eac6f2306b4c5891a": {
+            "text": "Brak licznika"
+        },
+        "00914008e58920e2994f712269d2e306": {
+            "text": "Licznik znak\u00f3w"
+        },
+        "e5be16f125cae69d8a9185392d6b3393": {
+            "text": "Licznik s\u0142\u00f3w"
+        },
+        "8f72b73949c8127fb6e116573cbb970c": {
+            "text": "Zaleca si\u0119 pokazanie licznika znak\u00f3w podczas korzystania z powy\u017cszych ustawie\u0144 minimalnej\/maksymalnej d\u0142ugo\u015bci."
+        },
+        "6f6cb72d544962fa333e2e34ce64f719": {
+            "text": "Rozmiar"
+        },
+        "7fcc26bcb0e9d85b555592f97cde9539": {
+            "text": "Wy\u015bwietlana szeroko\u015b\u0107 tego pola (w znakach). Ustaw na 0 dla pe\u0142nej szeroko\u015bci."
+        },
+        "0c576bc57cb2f57f4a2632d59599c26e": {
+            "text": "Usu\u0144 tagi"
+        },
+        "e79dbc99408f4949cb46ad5b73c7408a": {
+            "text": "Po zaznaczeniu wszystkie znaczniki HTML zostan\u0105 usuni\u0119te z danych wej\u015bciowych podczas przetwarzania formularza."
+        },
+        "e69230ccdb60475aa38ea2c4cdc72ea0": {
+            "text": "Jest to zalecane, je\u015bli pole nie musi obs\u0142ugiwa\u0107 kodu HTML."
+        },
+        "6485c7641245873388f0170f472183c6": {
+            "text": "tekst tymczasowy"
+        },
+        "dc08a8f73b667ceb56b5a22449e41d3e": {
+            "text": "Opcjonalna fraza zast\u0119pcza tekstu, kt\u00f3ra pojawia si\u0119 w polu, gdy jest puste."
+        },
+        "57391192dfa1f247ad015a0fe2eca48e": {
+            "text": "Wz\u00f3r"
+        },
+        "6a5e3a3d3be1a3d27b96e1e378c31ad9": {
+            "text": "Opcjonalny wzorzec wyra\u017cenia regularnego, kt\u00f3ry ma by\u0107 wymagany dla pola. Jest to u\u017cywane zar\u00f3wno po stronie klienta (atrybut wzorca HTML5), jak i po stronie serwera do walidacji. Pami\u0119taj, aby w opisie pola poda\u0107 przyk\u0142ad wymaganego wzorca."
+        },
+        "27615527f65d7d865a330397568fe263": {
+            "text": "Wejd\u017a na stron\u0119 html5pattern.com, aby zobaczy\u0107 przyk\u0142ady wzor\u00f3w, kt\u00f3rych mo\u017cesz u\u017cywa\u0107 i tworzy\u0107."
+        },
+        "68adfe27201a615848e5da595ae9f690": {
+            "text": "Warto\u015b\u0107 pocz\u0105tkowa"
+        },
+        "c3924ea34ee91e9de3ff80493fce8527": {
+            "text": "Opcjonalna warto\u015b\u0107 pocz\u0105tkowa\/domy\u015blna wst\u0119pnie wype\u0142niona dla u\u017cytkownika."
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Tekst"
+        },
+        "03272093fac940815539048b032444ea": {
+            "text": "Pojedyncza linia tekstu"
+        }
+    }
+}

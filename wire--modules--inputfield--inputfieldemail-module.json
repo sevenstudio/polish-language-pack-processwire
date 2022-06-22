@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldEmail.module",
+    "textdomain": "wire--modules--inputfield--inputfieldemail-module",
+    "translations": {
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Potwierd\u017a"
+        },
+        "082e55a73f10496681c84231dc1c88f7": {
+            "text": "="
+        },
+        "16f09bacbf690906417db0a60cda359c": {
+            "text": "Prosz\u0119 poda\u0107 poprawny adres e-mail"
+        },
+        "729be41e3a896b691a703fda562f4c98": {
+            "text": "podane adresy e-mail nie pasuj\u0105 do siebie, prosz\u0119 sprawdzi\u0107 i spr\u00f3bowa\u0107 ponownie"
+        },
+        "afce6fcb2d736e43b0bf509e385d477a": {
+            "text": "Potwierdzi\u0107 adres email?"
+        },
+        "f98e5e5fd93bc01f60e2a0a30c90618a": {
+            "text": "Je\u015bli zaznaczono, pojawi\u0105 si\u0119 dwa pola adresu, u\u017cytkownik b\u0119dzie musia\u0142 wprowadzi\u0107 ten sam adres e-mail dwukrotnie aby go potwierdzi\u0107. Opcja ta pozwala unikn\u0105\u0107 b\u0142\u0119d\u00f3w w adresie - liter\u00f3wek."
+        },
+        "3918809b01dd88b1c1c892aec102512b": {
+            "text": "Adres e-mail w odpowiednim formacie"
+        },
+        "14d866744fd30744389cd711c4a8d4c7": {
+            "text": "E-mail \u201e%s\u201d jest ju\u017c w u\u017cyciu, u\u017cyj innego"
+        },
+        "f462a55cf22cc9382696a17a198c2aae": {
+            "text": "E-mail przekroczy\u0142 maksymaln\u0105 dozwolon\u0105 d\u0142ugo\u015b\u0107 znak\u00f3w - %d"
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "="
+        }
+    }
+}

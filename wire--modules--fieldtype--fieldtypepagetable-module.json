@@ -1,0 +1,81 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePageTable.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepagetable-module",
+    "translations": {
+        "56d29e2358c489ca2ba085412d22b543": {
+            "text": "Wybierz jeden lub wi\u0119cej szablon\u00f3w dla element\u00f3w"
+        },
+        "23eb7651d596fbeec11e64a6c67925d9": {
+            "text": "S\u0105 to szablony, kt\u00f3re b\u0119d\u0105 u\u017cywane przez strony zarz\u0105dzane z tego pola. Mo\u017cesz stworzy\u0107 nowy szablon dostosowany do potrzeb tego pola."
+        },
+        "cc338cc1f9035c657183288e8a8679c4": {
+            "text": "Po wybraniu szablonu kliknij Zapisz, a pozosta\u0142a konfiguracja w karcie b\u0119dzie zawiera\u0107 wi\u0119cej kontekstu."
+        },
+        "280bdbf9e514764e2b558c5a45b03ba3": {
+            "text": "Wybierz rodzica(stron\u0119 nadrz\u0119dn\u0105) dla element\u00f3w"
+        },
+        "0aa782b2995bb478abdc16ebbb4a3e12": {
+            "text": "Wszystkie elementy utworzone i zarz\u0105dzane z tego pola b\u0119d\u0105 znajdowa\u0107 si\u0119 pod wybranym tutaj rodzicem nadrz\u0119dnym."
+        },
+        "5243227b5f4a58e7cc1be6b30f4bbce8": {
+            "text": "Je\u015bli nie zostanie wybrany \u017caden element nadrz\u0119dny(rodzic), elementy zostan\u0105 umieszczone jako elementy podrz\u0119dne edytowanej strony."
+        },
+        "fcb2facea33821286bfd4cad3f7ac76d": {
+            "text": "Wyrzuci\u0107 elementy do kosza po usuni\u0119ciu strony?"
+        },
+        "08f53f44f5a22058682ec7c305c2f37b": {
+            "text": "Po zaznaczeniu elementy utworzone\/zarz\u0105dzane przez dan\u0105 stron\u0119 zostan\u0105 automatycznie wyrzucone do kosza, gdy ta strona zostanie usuni\u0119ta. Je\u015bli nie jest zaznaczone, elementy pozostan\u0105 pod rodzicem wybranym powy\u017cej."
+        },
+        "276fe80c8306b8f1211c933c5b0789dd": {
+            "text": "Ta opcja ma zastosowanie tylko wtedy, gdy powy\u017cej wybra\u0142e\u015b rodzica."
+        },
+        "7a25f2fb1df8b415ae376a1bc744ddc1": {
+            "text": "Zachowania strony"
+        },
+        "f80a4ad87fee7c9fdc19b7769495fdb5": {
+            "text": "Nic"
+        },
+        "4cfd1fcdeecdd1e6acb46393d787316c": {
+            "text": "Wyrzu\u0107 je do kosza"
+        },
+        "6ac9a034dc3a8b4cf5a3902d2b7755d4": {
+            "text": "Usu\u0144 je"
+        },
+        "eb2f5e1930872f2aed78a2ffca4af260": {
+            "text": "Wy\u0142\u0105cz z publikacji"
+        },
+        "8840e48a3c2b71738f5a52d5ae1e084f": {
+            "text": "Ukryj"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Usu\u0144"
+        },
+        "88ab1471027561ff02fc8cfbd073ebc2": {
+            "text": "Co powinno si\u0119 sta\u0107 z elementami \u201e%s\u201d, gdy zawieraj\u0105ca je strona zostanie trwale usuni\u0119ta?"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Kosz"
+        },
+        "bdea0eb389c61e57930d661c74b21423": {
+            "text": "Co powinno si\u0119 sta\u0107 z elementami \u201e%s\u201d, gdy zawieraj\u0105ca je strona zostanie wyrzucona do kosza?"
+        },
+        "181e9a13059454fb2212f1bf10f394ac": {
+            "text": "Wy\u0142\u0105cz publikacj\u0119"
+        },
+        "22b094a7d09fdb1839dbfe384a0f4fac": {
+            "text": "Co powinno si\u0119 sta\u0107 z elementami \u201e%s\u201d, gdy zawieraj\u0105ca je strona nie zostanie opublikowana?"
+        },
+        "113931420c7a2560f63fcd9af198df3f": {
+            "text": "Sortuj wg p\u00f3l"
+        },
+        "b72b1e7470d1bbec8cb9ae2eb8843131": {
+            "text": "Wprowad\u017a nazw\u0119 pola, wed\u0142ug kt\u00f3rej chcesz sortowa\u0107 tabel\u0119. W przypadku sortowania malej\u0105cego poprzed\u017a nazw\u0119 pola \u0142\u0105cznikiem, tj. \u201e-data\u201d zamiast \u201edata\u201d."
+        },
+        "bad3d943c1f7443d2205de6edd995d6e": {
+            "text": "Mo\u017cesz okre\u015bli\u0107 wiele p\u00f3l sortowania, oddzielaj\u0105c je przecinkami, np. \u201enazwisko, imi\u0119, -urodziny\u201d."
+        },
+        "8198f788c0d53d819605c0dcdfdfe413": {
+            "text": "Pozostaw to pole puste, aby r\u0119cznie sortowa\u0107 metod\u0105 \u201eprzeci\u0105gnij i upu\u015b\u0107\u201d (domy\u015blnie)."
+        }
+    }
+}

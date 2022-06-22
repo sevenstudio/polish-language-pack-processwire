@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Session\/SessionHandlerDB\/SessionHandlerDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--sessionhandlerdb-module",
+    "translations": {
+        "6514b2122a2e569491dccb69eebe383c": {
+            "text": "Zaznaczenie tego pola spowoduje, \u017ce dane zostan\u0105 wy\u015bwietlone na li\u015bcie sesji administracyjnych."
+        },
+        "262f42ad28e2d01d7dc5afa698716099": {
+            "text": "\u015aledzenie adres\u00f3w IP w danych sesji?"
+        },
+        "ab5b4b2116f61fda9325e6deb591bb8f": {
+            "text": "\u015aledzenie agenta u\u017cytkownika w danych sesji?"
+        },
+        "703fdc8134134754f6630df73ee50572": {
+            "text": "Agent u\u017cytkownika zazwyczaj zawiera informacje dotycz\u0105ce u\u017cywanej przegl\u0105darki."
+        },
+        "ba361c497e1c5943748b4df7933d353f": {
+            "text": "Nie zezwala\u0107 na sesje r\u00f3wnoleg\u0142e?"
+        },
+        "34fde9e07a3a1cae09017ec0a9ae2c31": {
+            "text": "Gdy w\u0142\u0105czone, aktywne sesje jednego u\u017cytkownika wygasaj\u0105 r\u00f3wnocze\u015bnie na wszystkich innych urz\u0105dzeniach\/przegl\u0105darkach"
+        },
+        "d95cdb1f2c4fd9c3c22f548068589fa3": {
+            "text": "Zanzaczenie tego pola zezwoli jednemu u\u017cytkownikowi na posiadanie tylko jednej aktywnej sesji."
+        },
+        "8883240d9c18322fd43dfd39c8b32e14": {
+            "text": "Poprzednia sesja logowania dla \u201c%s\u201d zosta\u0142a usuni\u0119ta\/wylogowana."
+        },
+        "38c612b0c7404dbf10629354dfc1ec43": {
+            "text": "Limit czasu blokady sesji (sekundy)"
+        },
+        "b0736da4c0683db9382ba750a5f0073b": {
+            "text": "Je\u015bli blokada bazy danych dla sesji nie mo\u017ce zosta\u0107 uzyskana w ci\u0105gu tylu sekund, zostanie wy\u015bwietlony b\u0142\u0105d \u201e%s\u201d, informuj\u0105cy u\u017cytkownika, aby ponowi\u0142 pr\u00f3b\u0119 za %d sekund."
+        },
+        "c1ab83af87ac0bb0dab8511d14260c73": {
+            "text": "429: Zbyt wiele po\u0142\u0105cze\u0144"
+        }
+    }
+}

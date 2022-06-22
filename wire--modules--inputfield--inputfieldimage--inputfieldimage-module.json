@@ -1,0 +1,126 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/InputfieldImage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--inputfieldimage-module",
+    "translations": {
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Przytnij (kadrowanie)"
+        },
+        "a4374740662193b987e63eb5b727c994": {
+            "text": "Wariacje"
+        },
+        "f4843c1c797abf1a256c8802b6cd9f51": {
+            "text": "Wymiary"
+        },
+        "b18c29b8470190a02813415a04a2191f": {
+            "text": "Rozmiar pliku"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Edycja"
+        },
+        "f6462f94fa453f425245109b06f64d22": {
+            "text": "Przeci\u0105gnij i upu\u015b\u0107 nowe obrazy powy\u017cej"
+        },
+        "382b0f5185773fa0f67a8ed8056c7759": {
+            "text": "="
+        },
+        "f4795ac01103c68bc75e637665b7bd12": {
+            "text": "To pole obraz\u00f3w posiada niezapisane zmiany, kt\u00f3re mog\u0105 zosta\u0107 utracone po wykonaniu tej akcji. Prosz\u0119 zapisa\u0107 przed kadrowaniem, lub prosz\u0119 klikn\u0105\u0107 przycisk dwukrotnie aby kontynuowa\u0107 mimo to."
+        },
+        "d6a369d29506d3151a76c33791fc80b6": {
+            "text": "dodaj nowy obraz aby zast\u0105pi\u0107"
+        },
+        "f0b3dbf5ce5950ff0ecc7dbea5f8a874": {
+            "text": "Istniej\u0105 starsze\/gorszej jako\u015bci miniatury obraz\u00f3w, zaznacz to pole aby wygenerowa\u0107 nowe."
+        },
+        "126b21ce46c39d12c24058791a236777": {
+            "text": "Niew\u0142a\u015bciwy obraz"
+        },
+        "41cfe40655c4b51507eff9d22bd777f2": {
+            "text": "Obraz %s nie spe\u0142nia minimalnego wymaganego rozmiaru"
+        },
+        "5e244fccb2d4cda18bebf756dacce94c": {
+            "text": "Obraz %s przekracza dopuszczalny maksymalny rozmiar"
+        },
+        "7e4cc6c00140cefcecd178df1836fbba": {
+            "text": "Rozmiar obrazu zosta\u0142 dopasowany do maksymalnych dopuszczalnych wymiar\u00f3w"
+        },
+        "96733a97d96b04ddd6e06cdf3147df1e": {
+            "text": "Nie-edytowalny."
+        },
+        "36400352f439e8894099e79dc33fada1": {
+            "text": "Stw\u00f3rz ponownie wszystkie starsze miniatury"
+        },
+        "fff0d600f8a0b5e19e88bfb821dd1157": {
+            "text": "Obrazy (images)"
+        },
+        "8a29508fcba587b8af0cfb36c544ee0d": {
+            "text": "Przesy\u0142anie jednego lub wi\u0119cej obraz\u00f3w (z mo\u017cliwo\u015bci\u0105 sortowania)"
+        },
+        "e24ee2487879116dcab772c0ac4fe341": {
+            "text": "Punkt centralny"
+        },
+        "819258e827e9ef9ba926940f30b2697e": {
+            "text": "Przeci\u0105gnij aby wybra\u0107 punk centralny zdj\u0119cia"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Akcje"
+        },
+        "9356bea0f207cd50faacd40798850038": {
+            "text": "Akcje zastosowane przy zapisie."
+        },
+        "9ffbd422925a6839ee820ddbc59278c5": {
+            "text": "Odwr\u00f3\u0107"
+        },
+        "8d2de5368588552fbae54044ac5c7b3d": {
+            "text": "Obr\u00f3\u0107"
+        },
+        "ed75712b0eb1913c28a3872731ffd48d": {
+            "text": "Zduplikuj"
+        },
+        "9d639c16d0e22f1f4f9b79593e260ce6": {
+            "text": "Usu\u0144 warianty"
+        },
+        "baca1adb243ae63002bbb02b3ce5c28d": {
+            "text": "Odtw\u00f3rz warianty"
+        },
+        "40c760714d188227815e2e1ed3369c29": {
+            "text": "Usu\u0144 punkt centralny"
+        },
+        "c9b416167392c2b301810695b92efa12": {
+            "text": "pion"
+        },
+        "2ef2dfb893d25c30e3e2bda1a10c8952": {
+            "text": "poziom"
+        },
+        "f6cb3e816496528d4187db53bc66567f": {
+            "text": "oba"
+        },
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "Skopiuj"
+        },
+        "36bb6559696dc9124986ae120515984f": {
+            "text": "Wklej"
+        },
+        "e4ddc7e3d69547eea44ee08c02eb350d": {
+            "text": "Zmniejsz 50%"
+        },
+        "60e7841801c8734e320b527cbfa8d022": {
+            "text": "czarno-bia\u0142y"
+        },
+        "b84a9a38377dc1ab6c6d5005cb461f0d": {
+            "text": "Sefia"
+        },
+        "0cb9400e4e73f627d6587cf549c60907": {
+            "text": "Zduplikowano plik %1$s => %2$s"
+        },
+        "80a599081d30053c4cf6bc91230a9e6c": {
+            "text": "Wykonano akcje \u201c%1$s\u201d na pliku %2$s"
+        },
+        "a45c16f718396868c97a72efcc571842": {
+            "text": "B\u0142\u0105d akcji \u201c%1$s\u201d na pliku %2$s"
+        },
+        "ac8883f9998c8b328a96855575eebcc5": {
+            "text": "Nie znaleziono obs\u0142ugi akcji \u201c%1$s\u201d na pliku %2$s"
+        }
+    }
+}

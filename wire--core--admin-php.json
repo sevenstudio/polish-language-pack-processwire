@@ -1,0 +1,33 @@
+{
+    "file": "wire\/core\/admin.php",
+    "textdomain": "wire--core--admin-php",
+    "translations": {
+        "657e7a4fc0a8b4f44a06c216edf02d64": {
+            "text": "Nierozpoznany host HTTP:"
+        },
+        "b6823820033b6cf18c3aa27d252861e0": {
+            "text": "Zaktualizuj ustawienia $config->httpHosts w pliku\/site\/config.php"
+        },
+        "d959bbe25cc020e2db5276cb42927c7c": {
+            "text": "czytaj wi\u0119cej"
+        },
+        "af1595f0c5186db6cc35577429366e6d": {
+            "text": "Ta strona nie ma przypisanego procesu"
+        },
+        "905d286d5f512b563448eedeb744206d": {
+            "text": "Proces nie zwr\u00f3ci\u0142 \u017cadnych tre\u015bci"
+        },
+        "c0e293a452a1d7be53a199d8b0a387bd": {
+            "text": "Odblokowanie trybu DEBUG"
+        },
+        "3d6623b8d5249788a0d797d4bbc5e5a1": {
+            "text": "Konieczne s\u0105 dzia\u0142ania"
+        },
+        "cfdf33cbd93768327b807066fb473750": {
+            "text": "W\u0142\u0105cz dwustopniowe uwierzytelnianie"
+        },
+        "7d1e877f40bcb7e917038fddfbc95043": {
+            "text": "Osi\u0105gni\u0119to maksymaln\u0105 warto\u015b\u0107 ustawienia PHP \u201emax_input_vars\u201d w %d - zwi\u0119ksz warto\u015b\u0107 w ustawieniach PHP serwera."
+        }
+    }
+}

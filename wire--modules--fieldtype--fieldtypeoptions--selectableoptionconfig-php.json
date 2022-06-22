@@ -1,0 +1,69 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/SelectableOptionConfig.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--selectableoptionconfig-php",
+    "translations": {
+        "d5d394071928f1f25b0e3c0f0a336d13": {
+            "text": "Prosz\u0119 potwierdzi\u0107 usuni\u0119cie opcji"
+        },
+        "69e27cd6eff790dbbd4b6f65275ebaf7": {
+            "text": "USU\u0143:"
+        },
+        "2193a0641b7380e976778074efdfec0a": {
+            "text": "Jenda z opcji"
+        },
+        "06a7c76b256c778d08e1c9548a9e679d": {
+            "text": "Wiele opcji"
+        },
+        "1465fa2b1c38fd4e8579e84e2b31a6d6": {
+            "text": "Jaki typ listy wyboru powinien zosta\u0107 u\u017cyty?"
+        },
+        "a088b8e4d1d572f82e2661ab0862f00b": {
+            "text": "W zale\u017cno\u015bci od wybranego typu u\u017cytkownik b\u0119dzie m\u00f3g\u0142 wybra\u0107 jedn\u0105 z opcji lub wiele opcji. Niekt\u00f3re typy p\u00f3l (np. AsmSelect) obs\u0142uguj\u0105 tak\u017ce opcje sortowania przez u\u017cytkownika. Niekt\u00f3re typy list zawieraj\u0105 tak\u017ce wi\u0119cej ustawie\u0144 na karcie * Input * (widoczna po zapisaniu)."
+        },
+        "2b19b4791a203f60ffe7369493dd7b5f": {
+            "text": "Jakie s\u0105 dost\u0119pne opcje?"
+        },
+        "7ca00a9ac9a521d8e1d62919da2e66c6": {
+            "text": "Wpisz po jednej opcji wyboru w wierszu. Po zapisaniu dla ka\u017cdej z opcji zostanie przypisany numer identyfikacyjny ID, na przyk\u0142ad jako \"123 = tytu\u0142\". Prosz\u0119 zapozna\u0107 si\u0119 z naszymi [instrukcjami dotycz\u0105cymi wykorzystania tego pola] (%s)."
+        },
+        "ebe68b1a7edd199230885058ca3f3351": {
+            "text": "Informacja (wielojezyczno\u015b\u0107): okre\u015bl opcje w domy\u015blnym j\u0119zyku i zapisz przed wpisywaniem t\u0142umacze\u0144 w innych j\u0119zykach."
+        },
+        "0581f7830fb426e1d56efadbc1a09edb": {
+            "text": "Jaka opcja powinna zosta\u0107 domy\u015blnie wybrana? (je\u015bli powinna)"
+        },
+        "ad560982b535502d63dbf2f46ea8b3a6": {
+            "text": "To pole s\u0142u\u017cy tak\u017ce jako podgl\u0105d wybranego typu listy (%s) i opcji."
+        },
+        "c3524d56fb147114b84d6e9dd56110a9": {
+            "text": "Usu\u0144 t\u0105 opcj\u0119"
+        },
+        "c766e5be484b0e0a2104bc2fe925000c": {
+            "text": "Usu\u0144 te opcje"
+        },
+        "7a55572484844c1b337505ee266d3007": {
+            "text": "Przyk\u0142ad wykorzystania API"
+        },
+        "9786dd72ff72c22b5cde66e2ef3a6c6a": {
+            "text": "Wy\u015bwietl wybran\u0105 jedn\u0105 warto\u015b\u0107:"
+        },
+        "c575fc08137bccf13da4fff3117ff3e2": {
+            "text": "Wy\u015bwietl wybrane wiele warto\u015bci:"
+        },
+        "d51f7ee41ebdd5252b9a4410e297b306": {
+            "text": "Je\u015bli chcesz wy\u015bwietli\u0107 warto\u015bci zamiast tytu\u0142\u00f3w, zamie\u0144 \"tytu\u0142\" z \"warto\u015b\u0107\" w przyk\u0142adzie powy\u017cej."
+        },
+        "d8773b3c985910685f4f4aca03604c14": {
+            "text": "Wiele warto\u015bci, kt\u00f3re mo\u017cna sortowa\u0107"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Brak"
+        },
+        "69a114a946943d26c4ea03ba031b4124": {
+            "text": "Uwaga: Tw\u00f3j wyb\u00f3r wst\u0119pny nie jest aktywny, poniewa\u017c to pole nie jest polem wymaganym. Aktywuj opcj\u0119 \u201ewymagane\u201d w zak\u0142adce pole."
+        },
+        "67f541f6547ed8217b9d81909acc241f": {
+            "text": "Wst\u0119pna selekcja jest aktywna, poniewa\u017c to pole jest polem wymaganym."
+        }
+    }
+}

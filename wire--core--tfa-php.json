@@ -1,0 +1,66 @@
+{
+    "file": "wire\/core\/Tfa.php",
+    "textdomain": "wire--core--tfa-php",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Anuluj"
+        },
+        "c8cf6eea8f096ed51160b484d97c5bbd": {
+            "text": "W\u0142\u0105czone"
+        },
+        "cbb29c6546b8bc6d75f7601de9fbf02b": {
+            "text": "B\u0142\u0105d podczas tworzenia lub wysy\u0142ania kodu uwierzytelniaj\u0105cego"
+        },
+        "80a295c9fe7bed66295f4d8c1b52e110": {
+            "text": "Kod uwierzytalniaj\u0105cy"
+        },
+        "fcb94183c23245426ccf40bd6d531c69": {
+            "text": "Osi\u0105gni\u0119ty limit czasowy"
+        },
+        "8ced11807059756862f53c217354b63a": {
+            "text": "Kod wygas\u0142"
+        },
+        "e4282a24d0473bcf155064341f71e92b": {
+            "text": "B\u0142\u0119dny kod"
+        },
+        "3b4101362473ebcc69709f89fb96660b": {
+            "text": "W\u0142\u0105czono uwierzytelnianie dwusk\u0142adnikowe!"
+        },
+        "659bdd9c46c5d70535873ddb56cafd06": {
+            "text": "Osi\u0105gni\u0119to maksymaln\u0105 liczb\u0119 pr\u00f3b"
+        },
+        "6e7655b2bfff79f61f88c1d0b503ff48": {
+            "text": "Aby wy\u0142\u0105czy\u0107 lub zmieni\u0107 ustawienia, wybierz opcj\u0119 \"Brak\" powy\u017cej i zapisz."
+        },
+        "f9be528468706e84485c5baa7f553fb9": {
+            "text": "Prosz\u0119 skonfigurowa\u0107"
+        },
+        "e9b342b9b4fa34f406761f626823a71b": {
+            "text": "Typ dwustopniowego uwierzytelniania"
+        },
+        "90d6f81578cb44ed4be183c66d52c7f9": {
+            "text": "Po dokonaniu lub zmianie wyboru prze\u015blij formularz i wr\u00f3\u0107 tutaj, aby go skonfigurowa\u0107."
+        },
+        "e8b4a77d06cf81dc696a4a31e6a46ae2": {
+            "text": "Wyczy\u015b\u0107 zapami\u0119tane przegl\u0105darki, kt\u00f3re pomijaj\u0105 wprowadzanie kodu uwierzytelniaj\u0105cego"
+        },
+        "f8b67530ae39d240111ec69291985123": {
+            "text": "Wyczyszczono zapami\u0119tane przegl\u0105darki"
+        },
+        "02737b9a82aa8e3b6e9090dcdbcd2431": {
+            "text": "Zapami\u0119ta\u0107 ten komputer\/przegl\u0105dark\u0119?"
+        },
+        "4e74313cb658d8e75c33cc16caa0b078": {
+            "text": "Ten komputer\/przegl\u0105darka jest teraz zapami\u0119tana na maksymalnie %d dni."
+        },
+        "5e54e7c01119f2724ce0acbd4c8f6ed3": {
+            "text": "Zmiany w przegl\u0105darce i\/lub lokalizacji mog\u0105 wymaga\u0107 nowego kodu."
+        },
+        "287f75369eba76b6634a6cdf2f1cb915": {
+            "text": "Kod nie by\u0142 wymagany, poniewa\u017c przegl\u0105darka zosta\u0142a rozpoznana po poprzednim logowaniu."
+        },
+        "2f8ed7fafd3c1784a3be4da8eb3d106a": {
+            "text": "="
+        }
+    }
+}

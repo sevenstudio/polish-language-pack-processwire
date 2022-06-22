@@ -1,0 +1,30 @@
+{
+    "file": "wire\/core\/FieldsTableTools.php",
+    "textdomain": "wire--core--fieldstabletools-php",
+    "translations": {
+        "94777a4cdd469b1dc32114c7b148336e": {
+            "text": "Usuni\u0119to %d pustych wierszy dla pola %s"
+        },
+        "a4db6555067e463d9e1fb57bd771d115": {
+            "text": "Nie mo\u017cna jeszcze doda\u0107 unikalnego indeksu, poniewa\u017c istniej\u0105 ju\u017c nieunikalne wiersze:"
+        },
+        "f4775f230d3ee4ca1c2dfd515cde799a": {
+            "text": "Pojawia si\u0119 %d razy"
+        },
+        "019b1bbcaa4011c7a88e681bc504656c": {
+            "text": "(identyfikatory stron: %s)"
+        },
+        "a452be585de41c827d68057d84a60524": {
+            "text": "Dodano unikalny indeks"
+        },
+        "95295f6c09473739797030905b9e7239": {
+            "text": "Usuni\u0119to unikalny indeks"
+        },
+        "d019979a29c88c8d69bab3a63388da97": {
+            "text": "Unikalny"
+        },
+        "2091d533e5569b95274f7f7c93cb5a73": {
+            "text": "Po zaznaczeniu dana warto\u015b\u0107 nie mo\u017ce by\u0107 u\u017cyta w tym polu wi\u0119cej ni\u017c jeden raz, a co za tym idzie nie mo\u017ce pojawi\u0107 si\u0119 na wi\u0119cej ni\u017c jednej stronie."
+        }
+    }
+}

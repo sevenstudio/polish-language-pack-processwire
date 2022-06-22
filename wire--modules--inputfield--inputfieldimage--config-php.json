@@ -1,0 +1,126 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/config.php",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--config-php",
+    "translations": {
+        "fefc3e3c3400216f77f0b3c6b12adfb7": {
+            "text": "Funkcje pola"
+        },
+        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
+            "text": "Domy\u015blny tryb siatki obrazu"
+        },
+        "c53c009277b900e7292c4b49f07ddaec": {
+            "text": "W panelu administracyjnym lista obraz\u00f3w b\u0119dzie domy\u015blnie wy\u015bwietlana w tym trybie. U\u017cytkownik mo\u017ce to zmieni\u0107 w dowolnym momencie, klikaj\u0105c ikony w prawym g\u00f3rnym rogu pola."
+        },
+        "e6c7b90087278c53b5361182358a2d92": {
+            "text": "Je\u015bli ostatnio korzysta\u0142e\u015b z tego pola obraz\u00f3w, b\u0119dziesz musia\u0142 wyczy\u015bci\u0107 pliki cookie, zanim zobaczysz jakiekolwiek zmiany w tym ustawieniu."
+        },
+        "a188c29fb8020eee47113073e366f78e": {
+            "text": "Kwadratowa siatka miniatur obraz\u00f3w"
+        },
+        "06d5ddb736061086ad90f364eca1c56d": {
+            "text": "Proporcjonalne miniatury obraz\u00f3w"
+        },
+        "fa996d5ac4351e7e603f3ab1b9f77afe": {
+            "text": "Lista pionowa (pe\u0142na)"
+        },
+        "e0f4085735da81540154c2c351147301": {
+            "text": "Wyb\u00f3r punktu g\u0142\u00f3wnego"
+        },
+        "f6a9e8b3977d98dd0e4b7b13720c858b": {
+            "text": "Umo\u017cliwia przeci\u0105ganie punktu g\u0142\u00f3wnego celu wybrania istotnej cz\u0119sci obrazu. Pomaga to w w trakcie generowania miniatur (system stara si\u0105 przyci\u0105\u0107 obrazy z zachowaniem punktu g\u0142\u00f3wnego w obrazie)"
+        },
+        "17450a5a8844e5a36f3911d94bea2b72": {
+            "text": "Podgl\u0105d punktu g\u0142\u00f3wnego jest r\u00f3wnie\u017c wy\u015bwietlany, gdy obrazy s\u0105 w trybie \u201eKwadratowa siatka miniatur obraz\u00f3w\u201d."
+        },
+        "470ede3fd1e5fcf4fca77d7fbf5df11a": {
+            "text": "Punkt g\u0142\u00f3wny"
+        },
+        "2d07823e1de7d7eb6f09477f9070524f": {
+            "text": "Punkt g\u0142\u00f3wny i powi\u0119kszenie"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Wy\u0142\u0105czone"
+        },
+        "84a327773a9172357f703ebdbb28680b": {
+            "text": "Maksymalny rozmiar obraz\u00f3w"
+        },
+        "ef375d406da59811c42dc0f5a245dca3": {
+            "text": "Opcjonalnie wprowad\u017a maksymaln\u0105 szeroko\u015b\u0107 i\/lub wysoko\u015b\u0107 przesy\u0142anych obraz\u00f3w. Je\u015bli zostanie okre\u015blony, rozmiar obraz\u00f3w zostanie zmieniony w momencie przesy\u0142ania, gdy przekrocz\u0105 maksymaln\u0105 szeroko\u015b\u0107 lub wysoko\u015b\u0107. Zmiana rozmiaru jest wykonywana w momencie przesy\u0142ania, a zatem nie wp\u0142ywa na \u017cadne obrazy w systemie ani obrazy dodawane za po\u015brednictwem interfejsu API."
+        },
+        "16e3e850ce20fe9fa8340e6d27693f61": {
+            "text": "Ma zastosowanie do plik\u00f3w JPG, PNG i GIF."
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "Wpisz warto\u015b\u0107 w pikselach lub pozostaw puste, je\u015bli nie ma limitu."
+        },
+        "e69ccb31941d2fd7923c6b0c01957db3": {
+            "text": "Maksymalna szeroko\u015b\u0107 przes\u0142anych obraz\u00f3w"
+        },
+        "c58e466902d0ff945d0677114e41682b": {
+            "text": "Maksymalna wysoko\u015b\u0107 przes\u0142anych obraz\u00f3w"
+        },
+        "9fdc5bac96032d0465aa6cc6543d1871": {
+            "text": "Jak zmieni\u0107 rozmiar do maksymalnych wymiar\u00f3w"
+        },
+        "434352c2b6134b909827f386b3644f0f": {
+            "text": "Korzystanie ze zmiany rozmiaru po stronie klienta umo\u017cliwia zmniejszenie rozmiaru i wymiar\u00f3w pliku przed przes\u0142aniem."
+        },
+        "c265ab5c0405e78595f05a15d5279278": {
+            "text": "Korzystaj\u0105c ze zmiany rozmiaru po stronie klienta, okre\u015bl maksymaln\u0105 szeroko\u015b\u0107 *i* maksymaln\u0105 wysoko\u015b\u0107 w powy\u017cszych polach lub maksymaln\u0105 liczb\u0119 megapikseli w polu poni\u017cej."
+        },
+        "edcf99dacdc6160d6eb8d2efb90ee189": {
+            "text": "Je\u015bli to mo\u017cliwe, u\u017cyj zmiany rozmiaru po stronie klienta"
+        },
+        "4421a363b922af1808ae2b258c9d11bb": {
+            "text": "U\u017cywaj tylko zmiany rozmiaru po stronie serwera"
+        },
+        "41d833b452340b52caa65fdcfe181945": {
+            "text": "Maks. megapiksele dla przes\u0142anych obraz\u00f3w"
+        },
+        "86d448ef6f037ce16fc358a22921c45c": {
+            "text": "Mo\u017cna to wykorzysta\u0107 jako alternatyw\u0119 dla maksymalnej szeroko\u015bci\/wysoko\u015bci. Okre\u015bl warto\u015b\u0107 zmiennoprzecinkow\u0105."
+        },
+        "bd035d6e1aa04d38e61f36c27150e39d": {
+            "text": "Dotyczy tylko zmiany rozmiaru po stronie klienta."
+        },
+        "fe64c68c1aa30e687be4aa011b33f15f": {
+            "text": "Dobra warto\u015b\u0107 dla stron internetowych to 1,7, czyli oko\u0142o 1600x1000 pikseli, gdzie 1600 i 1000 mog\u0105 by\u0107 szeroko\u015bci\u0105 lub wysoko\u015bci\u0105."
+        },
+        "c719e0f0e40f5193e0bbe6f9afc408e5": {
+            "text": "Inne przyk\u0142ady:"
+        },
+        "a29b9e543bb7bc0f4b7e2c04d0a1c820": {
+            "text": "Procent jako\u015bci zmiany rozmiaru po stronie klienta dla plik\u00f3w JPEG"
+        },
+        "ab00b0c8eb852647eee9553c75a100fe": {
+            "text": "Podaj liczb\u0119 z zakresu od 10 (najni\u017csza jako\u015b\u0107\/najmniejszy rozmiar pliku) do 100 (najwy\u017csza jako\u015b\u0107\/najwi\u0119kszy rozmiar pliku). Warto\u015b\u0107 domy\u015blna to 90."
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "Odrzuci\u0107 obrazy przekraczaj\u0105ce maksymalne wymiary?"
+        },
+        "aa09d92fbba4044af814b7504798dec3": {
+            "text": "Je\u015bli zaznaczone, obrazy przekraczaj\u0105ce maksymaln\u0105 szeroko\u015b\u0107\/wysoko\u015b\u0107 (kt\u00f3re nie mog\u0105 by\u0107 zmieniane po stronie klienta) b\u0119d\u0105 odrzucane, a nie zmieniane."
+        },
+        "2d77facadb02370d5dd7c076b5afbee7": {
+            "text": "Minimalne wymiary obrazu"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "Opcjonalnie wprowad\u017a minimaln\u0105 szeroko\u015b\u0107 i\/lub wysoko\u015b\u0107 przesy\u0142anych obraz\u00f3w. Je\u015bli zostanie okre\u015blony, obrazy, kt\u00f3re nie spe\u0142niaj\u0105 tych warto\u015bci minimalnych, zostan\u0105 odrzucone."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "Minimalna szeroko\u015b\u0107 dla przes\u0142anych obraz\u00f3w"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "Minimalna wysoko\u015b\u0107 dla przes\u0142anych obraz\u00f3w"
+        },
+        "a39e1de5e7b995d90322ab7d047428bc": {
+            "text": "Zamieni\u0107 minimalne\/maksymalne wymiary w obrazach pionowych?"
+        },
+        "7f3d934927a1c106f5191c01b36c7766": {
+            "text": "Je\u015bli zaznaczone, minimalna szeroko\u015b\u0107\/wysoko\u015b\u0107 i maksymalna szeroko\u015b\u0107\/wysoko\u015b\u0107 zostan\u0105 zamienione na obrazy pionowe, aby dostosowa\u0107 je do r\u00f3\u017cnych proporcji."
+        },
+        "98ebe60c452735dc2ef2249c835eddfe": {
+            "text": "Dotyczy tylko zmian rozmiaru po stronie serwera."
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTextTags\/InputfieldTextTags.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtexttags--inputfieldtexttags-module",
+    "translations": {
+        "5ada8a9286e44da2221cd82e3ec857be": {
+            "text": "Usuni\u0119to nieprawid\u0142ow\u0105 warto\u015b\u0107 tagu: %s"
+        },
+        "fcf2ecb6c5c5991e49690fd12f0950dd": {
+            "text": "Opcje do wyboru\/\u017ar\u00f3d\u0142o tag\u00f3w"
+        },
+        "a1d8d28cd17bc9713cb6d9bf779b1422": {
+            "text": "Okre\u015bl je tutaj"
+        },
+        "2d4026ab7ebafbc34d0c0cee4bc6a8f9": {
+            "text": "Za\u0142aduj z podanego adresu URL (ajax)"
+        },
+        "6b1b91dab4876004505181d49ae7bc27": {
+            "text": "U\u017cy\u0107 \u0142adowania ajax opcji\/stron?"
+        },
+        "e793cb635b6f498edd8f78ecaa4f1cc3": {
+            "text": "Po w\u0142\u0105czeniu b\u0119dzie zachowywa\u0107 si\u0119 jak autouzupe\u0142nianie, w kt\u00f3rym u\u017cytkownik zaczyna pisa\u0107 i pyta o adres URL pasuj\u0105cych stron."
+        },
+        "26644aceea0417eed7cc9b89b5d217fe": {
+            "text": "B\u0119dziesz tak\u017ce musia\u0142 poda\u0107 \u201eAdres URL Ajax\u201d (pokazany poni\u017cej, gdy wybrano \u201eTak\u201d), aby wykona\u0107 zapytanie. Do\u0142\u0105czono przyk\u0142adowy kod roboczy."
+        },
+        "113e5eb7479e4757efe217b2b4df3a9c": {
+            "text": "Gdy nie jest w\u0142\u0105czone, wszystkie opcje do wyboru zostan\u0105 wype\u0142nione w czasie \u0142adowania."
+        },
+        "860b7a69d838e2a510f79123bb657026": {
+            "text": "Korzystanie z \u0142adowania opcji\/stron ajax jest przydatne, gdy potencjalna liczba stron do wyboru jest du\u017ca."
+        },
+        "9cba2db480057b2c65e239915198a3bc": {
+            "text": "Rozwa\u017c to, gdy istnieje kilkaset lub tysi\u0105ce (lub wi\u0119cej) stron, kt\u00f3re mo\u017cna wybra\u0107."
+        },
+        "8d303ccb1721972ffbf890a84a24c7a5": {
+            "text": "Predefiniowana lista opcji\/tag\u00f3w"
+        },
+        "dcf387ef8e5f3f0bbd745b1855a2a9a5": {
+            "text": "Wprowad\u017a predefiniowane tagi, po 1 w wierszu. Aby zdefiniowa\u0107 oddzieln\u0105 warto\u015b\u0107 i etykiet\u0119 dla tagu, okre\u015bl warto\u015b\u0107=etykieta w wierszu."
+        },
+        "b23854b10090d03184c424927a1c221f": {
+            "text": "Tagi mog\u0105 nie zawiera\u0107 ogranicznika wybranego poni\u017cej, ale etykiety mog\u0105."
+        },
+        "3f29cea14274476fd290ab2357acf53b": {
+            "text": "Aby zdefiniowa\u0107 oddzielne etykiety dla ka\u017cdego j\u0119zyka, wprowad\u017a ponownie ka\u017cdy tag \u201ewarto\u015b\u0107=etykieta\u201d dla ka\u017cdego j\u0119zyka, gdzie \u201ewarto\u015b\u0107\u201d jest dla ka\u017cdego taka sama, a \u201eetykieta\u201d jest inna."
+        },
+        "863a617186799199c167888e3f858ed7": {
+            "text": "Przyk\u0142ad obs\u0142ugi adresu URL w pliku %s dla adresu URL %s"
+        },
+        "0e3fd3cf510a091336f62cffa8fed928": {
+            "text": "Skopiuj i wklej ten adres URL w polu powy\u017cej, je\u015bli chcesz u\u017cy\u0107 poni\u017cszego przyk\u0142adu."
+        },
+        "ae43497613e9bce166e79c93a3a3288f": {
+            "text": "="
+        },
+        "578b189f9605804a55dec2f726107836": {
+            "text": "Gdy wprowadzisz adres URL, zostanie on zapytany o elementy pasuj\u0105ce do danych wprowadzonych przez u\u017cytkownika w spos\u00f3b autouzupe\u0142niania."
+        },
+        "3094591b42aeeae0f6f5743dd58ff360": {
+            "text": "Podany adres URL musi gdzie\u015b zawiera\u0107 symbol zast\u0119pczy {q}, kt\u00f3ry zostanie zast\u0105piony tekstem wpisanym przez u\u017cytkownika."
+        },
+        "6de08d5e99d2f49b707fbe84bf2babc4": {
+            "text": "Mo\u017cesz poda\u0107 pe\u0142ny adres URL http\/https lub wzgl\u0119dny adres URL."
+        },
+        "b9b2836d05319756a7f9b1797166d2c5": {
+            "text": "Je\u015bli okre\u015blisz wzgl\u0119dny adres URL (bez schematu\/hosta), bie\u017c\u0105cy schemat, adres URL hosta i g\u0142\u00f3wny adres URL zostan\u0105 do niego dodane w czasie wykonywania."
+        },
+        "3d68dddcd3aa8f6a61b89149dc3cd5ac": {
+            "text": "B\u0119dziesz tak\u017ce musia\u0142 zdefiniowa\u0107 procedur\u0119 obs\u0142ugi adresu URL, jak w przyk\u0142adzie pokazanym poni\u017cej."
+        },
+        "c55228ab9fb65392d44a1ad232555e5b": {
+            "text": "\u015acie\u017cka adresu URL %s to tylko przyk\u0142ad, mo\u017cesz j\u0105 zast\u0105pi\u0107 dowolnym innym."
+        },
+        "61900119c9b2f987bb0f2784d219d460": {
+            "text": "W tym przyk\u0142adzie znajduj\u0105 si\u0119 tytu\u0142y stron, kt\u00f3re maj\u0105 by\u0107 u\u017cywane jako tagi, ale mo\u017cesz u\u017cy\u0107 dowolnego \u017ar\u00f3d\u0142a danych."
+        },
+        "a4ead355e5bbbd25f264cae5a69d5d72": {
+            "text": "selektor wyszukiwania strony tutaj"
+        },
+        "1505f61747adf41e94a27b064a284b40": {
+            "text": "Pami\u0119taj, \u017ce je\u015bli zmienisz ustawienia \u201eStrony do wyboru\u201d lub \u201ePole etykiety\u201d, b\u0119dziesz musia\u0142 r\u00f3wnie\u017c zaktualizowa\u0107 sw\u00f3j kod obs\u0142ugi adresu URL."
+        },
+        "6aa01c4fdc82ff85bc6299056ef15167": {
+            "text": "Symbol zast\u0119pczy \u201e{q}\u201d jest wymagany gdzie\u015b w adresie URL Ajax."
+        },
+        "4c38a85c32ea7ee51ac917693c988269": {
+            "text": "Zezwoli\u0107 u\u017cytkownikowi na wprowadzanie w\u0142asnych tag\u00f3w?"
+        },
+        "f03041db1e5b27242c249d020d997331": {
+            "text": "Zamkn\u0105\u0107 menu po dokonaniu ka\u017cdego wyboru?"
+        },
+        "e077077fcf3ef41f3ad162f4cc681209": {
+            "text": "(dla tag\u00f3w jednowyrazowych)"
+        },
+        "826be3095514fef3d79e6f899b887ecc": {
+            "text": "(dla tag\u00f3w wielowyrazowych)"
+        },
+        "dfb1a97826511d6e6732545b6e536bd5": {
+            "text": "Ogranicznik tag\u00f3w"
+        },
+        "d511f8439ecde36647437fbba67a4394": {
+            "text": "Spacja"
+        },
+        "58be47db9455679e6a44df2eff9c9fa6": {
+            "text": "przecinek"
+        },
+        "2ab1f3f893823298751fdf60b4e0365a": {
+            "text": "Kreska pionowa"
+        },
+        "4192f616db902e9df5391f247482d3b8": {
+            "text": "Maksymalna liczba tag\u00f3w\/opcji"
+        },
+        "66553e3b94c6fdf004b777c7e8187afd": {
+            "text": "U\u017cyj 0 dla braku limitu lub wprowad\u017a maksymaln\u0105 liczb\u0119 opcji\/znacznik\u00f3w, kt\u00f3re u\u017cytkownik mo\u017ce wybra\u0107 lub wprowadzi\u0107."
+        },
+        "fd9b78d0ec0b8004cc27a0872e531698": {
+            "text": "Zwr\u00f3\u0107 uwag\u0119, \u017ce wprowadzenie 1 sprawia, i\u017c pole wygl\u0105da bardziej jak lista wyboru ni\u017c jak pole tekstowe."
+        },
+        "910370309c0af1e93df0ae98ff8cfe5a": {
+            "text": "tymczasowy tekst"
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Opcjonalny tymczasowy tekst, kt\u00f3ry pojawia si\u0119 w pustym polu."
+        },
+        "350efb22a387fd0b416e2835e7ddd4e8": {
+            "text": "Tagi tekstowe"
+        },
+        "28e1cc9b637fcfb04e136e18800240ff": {
+            "text": "Umo\u017cliwia dodawanie tag\u00f3w wprowadzonych przez u\u017cytkownika lub wyb\u00f3r tag\u00f3w predefiniowanych."
+        }
+    }
+}

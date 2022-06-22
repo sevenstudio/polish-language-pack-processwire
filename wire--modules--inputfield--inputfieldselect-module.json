@@ -1,0 +1,69 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselect-module",
+    "translations": {
+        "7c63f89ebf4832b00f3e7365c794b642": {
+            "text": "Aby zosta\u0142y wybrane domy\u015blne warto\u015bci (warto\u015b\u0107), wprowad\u017a warto\u015b\u0107 opcji (jedna na linie) poni\u017cej."
+        },
+        "032f6def0f9076885bcd8366ce324178": {
+            "text": "Aby ustawi\u0107 domy\u015blnie wybran\u0105 warto\u015b\u0107, wprowad\u017a warto\u015b\u0107 opcji poni\u017cej."
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Domy\u015blna warto\u015b\u0107"
+        },
+        "d1fd1babab2eaee3f04bcbc5278193d2": {
+            "text": "Dla domy\u015blnego wyboru strony, warto\u015b\u0107 powinna zawiera\u0107 number identyfikacyjny ID strony."
+        },
+        "5c6d4a4ac74797a290100dc74f6cd79d": {
+            "text": "WA\u017bNE: Domy\u015blna warto\u015b\u0107 nie b\u0119dzie u\u017cyta je\u015bli to pole nie jest oznaczone jako wymagane (zobacz pole do zaznaczanie \"wymagane\" na tej stronie)"
+        },
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "Opcje"
+        },
+        "3a4accfa68ff7300f67ad7d89e07770e": {
+            "text": "Podaj opcje kt\u00f3re mog\u0105 zosta\u0107 wybrane, jedna opcja na linie."
+        },
+        "6cdf2b7c6a202509ddad22ed4e6d1c3d": {
+            "text": "Aby poprzedzi\u0107 list\u0119 pust\u0105 opcj\u0105, wprowad\u017a jako pierwsz\u0105 opcj\u0119 znak \"=\"."
+        },
+        "378f6008c3dc6eb2be984683df372592": {
+            "text": "Aby zaznaczy\u0107 opcj\u0119 jako wybran\u0105, dodaj przed ni\u0105 znak plus. Przyk\u0142ad +Moja Opcja"
+        },
+        "75d2fefda1196dd14f506b0273ebed38": {
+            "text": "Aby zachowa\u0107 oddzieln\u0105 warto\u015b\u0107 i etykiet\u0119, oddziel je znakiem r\u00f3wno\u015bci. Przyk\u0142ad: value=Moja opcja"
+        },
+        "663f303f44a9a25504e3c434fc37b34d": {
+            "text": "Aby utworzy\u0107 grup\u0119 optgroup (grupa opcjonalna), nale\u017cy stworzy\u0107 wci\u0119cie opcji w grupie z co najmniej 3 spacjami."
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Pole Wyboru (Select)"
+        },
+        "eed6fbc4de3755e7189b1461a4844bea": {
+            "text": "Wyb\u00f3r pojedynczej warto\u015bci z z rozwijanej listy wyboru (HTML select)"
+        },
+        "be1ae5e510797cd29556ba58e16bb3cd": {
+            "text": "Aby u\u017cy\u0107 opcji wieloj\u0119zyczych etykiet, zapoznaj si\u0119 z instrukcj\u0105 poni\u017cej tego pola."
+        },
+        "e1d42070d11f4e125dd41933a7931336": {
+            "text": "Instrukcje:"
+        },
+        "c3a5b7cc9aad41a355971c9da775b523": {
+            "text": "Podaj jedn\u0105 opcj\u0119 na lini\u0119."
+        },
+        "318d7ecad4ade4ae80008273a964b97d": {
+            "text": "Instrukcje wieloj\u0119zyczne:"
+        },
+        "f79f891c4cdcad35f5c97b6d5abf6338": {
+            "text": "Rekomendujemy u\u017cycie warto\u015b\u0107=etykieta, gdzie warto\u015b\u0107 jest niezmienna dla wszystkich j\u0119zyk\u00f3w a etykieta jest t\u0142umaczona."
+        },
+        "276062e72d8dad493a3c12ee48129c09": {
+            "text": "Najpierw podaj opcj\u0119 dla domy\u015blnego j\u0119zyka, potem skopiuj i wklej dla innych j\u0119zyk\u00f3w i przet\u0142umacz etykiety."
+        },
+        "1de150b2c32ea78f720ed5680ede3e36": {
+            "text": "Wybrane opcje i grupy opcji s\u0105 zdefiniowane w domy\u015blnym j\u0119zyku; pozosta\u0142e dane s\u0142u\u017c\u0105 wy\u0142\u0105cznie do t\u0142umaczenia etykiet."
+        },
+        "6fad098a8ac595a164cf68a53d2669ec": {
+            "text": "Etykiety, kt\u00f3re nie s\u0105 przet\u0142umaczone, dziedzicz\u0105 nazw\u0119 etykiety  domy\u015blnego j\u0119zyka."
+        }
+    }
+}

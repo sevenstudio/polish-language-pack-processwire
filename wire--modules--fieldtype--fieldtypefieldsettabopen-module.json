@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFieldsetTabOpen.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefieldsettabopen-module",
+    "translations": {
+        "7d46168ae11400e7b496a22b2bfe6c6f": {
+            "text": "Otw\u00f3rz w wyskakuj\u0105cym oknie?"
+        },
+        "fb6e6fc9f3f435218d01763c02dec7c3": {
+            "text": "Zaznacz aby wy\u015bwietli\u0107 zak\u0142adk\u0119 we w\u0142asnym oknie wyskakuj\u0105cym. Mo\u017ce to zwi\u0119kszy\u0107 wydajny\u0107 w przypadku du\u017cych formularzy."
+        },
+        "e9f1e9337e418af0267d9475c5b46940": {
+            "text": "Aby rozwi\u0105za\u0107 podobny problem, mo\u017cesz rozwa\u017cy\u0107 u\u017cycie opcji AJAX, dost\u0119pna w zak\u0142adce: Pole > Widoczno\u015b\u0107 > Prezentacja"
+        }
+    }
+}

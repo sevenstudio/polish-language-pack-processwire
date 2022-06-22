@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportPageNames.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportpagenames-module",
+    "translations": {
+        "ae739a236065a45c64ad51aacb19498c": {
+            "text": "Aktywny?"
+        },
+        "35b837a5674ea74e192fc0fa8b68f46c": {
+            "text": "Prefiks numeru strony dla paginacji (podzia\u0142u stron)"
+        },
+        "68d765216e3092d42524f9f6f14ce93c": {
+            "text": "Numer strony jest do\u0142\u0105czony do tego s\u0142owa w adresie URL paginacji dla tego j\u0119zyka. Je\u015bli pomini\u0119te, zostanie u\u017cyte  \"%s\""
+        },
+        "5b5fec43bb1313c56d2e944d9567cd96": {
+            "text": "Czy adres URL domy\u015blnego j\u0119zyka jest taki sam jak domy\u015blny adres URL witryny?"
+        },
+        "6fbae724946d15c837d8d88af35ed18c": {
+            "text": "Wybierz ** Tak **, je\u015bli domena domy\u015blnego j\u0119zyka ma by\u0107 obs\u0142ugiwana przez g\u0142\u00f3wny adres URL ** \/ ** (zalecane). Wybierz opcj\u0119 ** Nie **, je\u015bli chcesz, aby Tw\u00f3j adres URL przekierowa\u0142 do ** \/ nazwa \/ ** (gdzie \/ nazwa \/ to nazwa domy\u015blnego j\u0119zyka)."
+        },
+        "fccde8e7592dffb93fe985bc462771c0": {
+            "text": "To ustawienie ma wp\u0142yw tylko na zachowanie na stronie g\u0142\u00f3wnej. Je\u015bli wybierzesz Nie, musisz upewni\u0107 si\u0119, \u017ce strona g\u0142\u00f3wna ma nazw\u0119 zdefiniowan\u0105 dla j\u0119zyka domy\u015blnego."
+        },
+        "ff88cd079dc8d2fb836b8807f5d266a4": {
+            "text": "Tak - G\u0142\u00f3wny adres URL s\u0142u\u017cy jako strona g\u0142\u00f3wna domy\u015blnego j\u0119zyka (zalecane)"
+        },
+        "f1bd84fbcee1b287fe538f7df1cbd700": {
+            "text": "Nie - G\u0142\u00f3wny adres URL przekierowuje do: \/nazwa\/"
+        },
+        "d5af3f8c985a3592422462cce67bc86c": {
+            "text": "Podobna strona (id=%1$d) u\u017cywa ju\u017c nazwy \"%2$s\" dla j\u0119zyka: %3$s"
+        },
+        "47a71e39bf348953dfdfb22317c3e29c": {
+            "text": "Zachowanie, gdy strona nie jest dost\u0119pna w \u017c\u0105danym j\u0119zyku (ale jest dost\u0119pna w j\u0119zyku domy\u015blnym)"
+        },
+        "fdee766baf806159afbcd542efbe9b3d": {
+            "text": "To ustawienie nie ma zastosowania, je\u015bli strona jest dost\u0119pna do edycji dla u\u017cytkownika, poniewa\u017c zawsze b\u0119dzie dost\u0119pna dla cel\u00f3w podgl\u0105du."
+        },
+        "34529e0f7f3dd583b0aed3b8a46bff6e": {
+            "text": "Zg\u0142asza b\u0142\u0105d 404 (nie znaleziono strony) - zachowanie domy\u015blne"
+        },
+        "395c201c2729d5c7c5e9c1c6cbc2889b": {
+            "text": "Mimo to zezw\u00f3l na renderowanie dla j\u0119zyka (je\u015bli jest dost\u0119pny bezpo\u015brednio przez adres URL)"
+        },
+        "ac7c3f2fbc9e8f4fa1d719d6319ee58b": {
+            "text": "Wykonaj przekierowanie 301 (sta\u0142e) do strony w domy\u015blnym j\u0119zyku"
+        },
+        "483bb77bebead8ed45f75192b8ea3d78": {
+            "text": "Wykonaj 302 (tymczasowe) przekierowanie na stron\u0119 w domy\u015blnym j\u0119zyku"
+        }
+    }
+}

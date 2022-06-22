@@ -1,0 +1,69 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFile\/InputfieldFile.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfile--inputfieldfile-module",
+    "translations": {
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Opis"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Tagi"
+        },
+        "5e176961ecb3a67e9c653e60de703fdb": {
+            "text": "Przeci\u0105gnij i upu\u015b\u0107 pliki tutaj"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Usu\u0144"
+        },
+        "e635032a5f71d809146d3872389f5b0c": {
+            "text": "Wybierz plik"
+        },
+        "96baacdc276036c2b8fb65264750a3b4": {
+            "text": "Wybierz pliki"
+        },
+        "004a10c5de4a2eea5fc8f15e97a8030c": {
+            "text": "\u017badne rozszerzenia plik\u00f3w nie zosta\u0142y zdefiniowane dla tego pola."
+        },
+        "e8b3e55c0f4d6cce7d8ee14772ec33e2": {
+            "text": "Niedozowolny plik"
+        },
+        "1a6d5576222d1a16320dda443f43b1fa": {
+            "text": "Dodano plik:"
+        },
+        "5d28dcd09c5073bb0e454aee16d9b349": {
+            "text": "Odrzucono plik %s poniewa\u017c istnieje on ju\u017c w systemie i jest przypisany do innego pola."
+        },
+        "a2c68b109a7c8855b92e56e64bdf4c01": {
+            "text": "Usuni\u0119to plik:"
+        },
+        "b15dd49c58da836d9802f6e9e063a998": {
+            "text": "Zmieniono nazw\u0119 pliku \"%1$s\" na \"%2$s\""
+        },
+        "d7c8c85bf79bbe1b7188497c32c3b0ca": {
+            "text": "Niepowodzenie"
+        },
+        "cde86841445e53259c5beb7b61aaf389": {
+            "text": "destinationPath jest pusta lub nie istnieje"
+        },
+        "53fbb1f98e15224437792f2ea80847a2": {
+            "text": "destinationPath nie jest zapisywalna"
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "Osi\u0105gni\u0119to limit przesy\u0142ania - Max file"
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Pliki (files)"
+        },
+        "fbf221ff984c277d7fea5d290e817767": {
+            "text": "Jeden lub wi\u0119cej plik\u00f3w do przes\u0142ania (z mo\u017cliwo\u015bci\u0105 sortowania)"
+        },
+        "e72ce31f0ee80699eb03ad6cc894fe3a": {
+            "text": "Nieobs\u0142ugiwane rozszerzenie pliku, u\u017cyj tylko: EXTENSIONS"
+        },
+        "6ebd01ddd3a5422eb7dcdd0ce4b677c7": {
+            "text": "Plik jest za du\u017cy - maksymalny dozwolony rozmiar to MAX_KB kb"
+        },
+        "c62fc670ac122455cc5853bf97130711": {
+            "text": "Pole \u201c%1$s\u201d typu \u201c%2$s\u201d nie jest obs\u0142ugiwane w polu \u201c%3$s\u201d"
+        }
+    }
+}

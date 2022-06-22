@@ -1,0 +1,156 @@
+{
+    "file": "wire\/modules\/Process\/ProcessTemplate\/ProcessTemplateExportImport.php",
+    "textdomain": "wire--modules--process--processtemplate--processtemplateexportimport-php",
+    "translations": {
+        "ad32e604e17467fc435538334fbddf3e": {
+            "text": "Nazwa"
+        },
+        "6f434c508ad901b8667ed22f713e52bb": {
+            "text": "Etykieta"
+        },
+        "40e3819215b52841e19a7cac06b5f065": {
+            "text": "Zmodyfikowano"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "Nowa"
+        },
+        "19b7fb53a85de3c8ba85672a91a7398b": {
+            "text": "Eksportuj"
+        },
+        "12c658575040446e9b2ffdfaaf7bc115": {
+            "text": "Importuj"
+        },
+        "a7820bfdb5b31eb4ee4165f2c8bef779": {
+            "text": "Tak"
+        },
+        "1354eb301e2c7c55f79a7f13adb363e3": {
+            "text": "Nie"
+        },
+        "60f5cde0d3f7fde81ba481a6a2ea2c49": {
+            "text": "Pola"
+        },
+        "e5d07991c975607a12edce23c0da9824": {
+            "text": "Klikni\u0119cie + shift aby zaznaczy\u0107 wiele w sekwencji. Klikni\u0119cie + ctrl (lub klikniecie + Cmd) aby wybra\u0107 wiele indywidualnie. Ctrl+A (lub Cmd+A) aby wybra\u0107 wszystkie."
+        },
+        "2f1fb3d9f25082e7fdb0befdad16da5f": {
+            "text": "Eksportuj dane"
+        },
+        "6af8cf07d769a110f0b2483692ef424c": {
+            "text": "Skopiuj i wklej te dane to pola \"Import\" w innej instalacji."
+        },
+        "9d823cda278191490c2a99bbb912cc9d": {
+            "text": "Kliknij gdziekolwiek w polu aby zaznaczy\u0107 wszystkie dane do eksportu. Kiedy zaznaczono, skopiuj dane naciskaj\u0105\u0107 CTRL+C lub CMD+C."
+        },
+        "dce8c8fe6bdf804f2a98384dedea1360": {
+            "text": "Wklej dane z eksportu"
+        },
+        "139ef19d3b2f902827257b2ebc33d708": {
+            "text": "Skopiuj dane eksportu z innej instalacji po czym wklej je w polu powy\u017cej naciskaj\u0105c CTRL+V lub CMD+V."
+        },
+        "31fde7b05ac8952dacf4af8a704074ec": {
+            "text": "Podgl\u0105d"
+        },
+        "c112bb3542e98308d12d5ecb10a67abc": {
+            "text": "Zmiany"
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "W\u0142a\u015bciwo\u015b\u0107"
+        },
+        "56f05ff480907494bd933f4ad4faf9e2": {
+            "text": "Stara warto\u015b\u0107"
+        },
+        "943f335b83ec6549ef45388ececff4e1": {
+            "text": "Nowa warto\u015b\u0107"
+        },
+        "34eb90456e45e06048e287f649c4fba0": {
+            "text": "Brak oczekuj\u0105cych zmian."
+        },
+        "10683c4dcfaf72824f906297f56bf7a5": {
+            "text": "Zmodyfikowa\u0107 ten szablon?"
+        },
+        "8ed3116cc653ca014c306d4750f6fdb4": {
+            "text": "Stworzy\u0107 ten szablon?"
+        },
+        "83e14aace19687fe9e1fbb8f913bf569": {
+            "text": "Kliknij Tak aby pokaza\u0107 zmiany"
+        },
+        "47a35a358887cc2c9994fb517d6a2b0b": {
+            "text": "Czasami wymagane s\u0105 dwa zg\u0142oszenia zanim zmiany zostan\u0105 zastosowane. Prosz\u0119 zapozna\u0107 si\u0119 z oczekuj\u0105cymi zmianami poni\u017cej i zg\u0142osi\u0107 je wed\u0142ug wymaga\u0144."
+        },
+        "b2ba5835eaaa55607da59f696dcd4a87": {
+            "text": "Prosz\u0119 zapozna\u0107 si\u0119 ze zmianami poni\u017cej i zg\u0142osi\u0107 je kiedy gotowe. Je\u015bli s\u0105 zmiany kt\u00f3rych nie chcesz zastosowa\u0107, odznacz odpowiednie pola."
+        },
+        "b604e6f64e19eea098f6d87c63552c53": {
+            "text": "Zastosuj zmiany"
+        },
+        "16babeb0401a3e00da9891b97e94d6fe": {
+            "text": "Twoje zmiany zosta\u0142y zastosowane!"
+        },
+        "15055fb4c054396bf293c21c12c578be": {
+            "text": "Nie wykryto \u017cadnych zmian"
+        },
+        "426de2596501a3cff8977e60c271889c": {
+            "text": "Zapisano:"
+        },
+        "9e8f440807ceee9139987ab8fc6af288": {
+            "text": "Dodano:"
+        },
+        "c5537dee88da6f333d20bfd49cfe1ce4": {
+            "text": "Zmodyfikowano:"
+        },
+        "722034114c47bfa859a1be8200469fcf": {
+            "text": "="
+        },
+        "1de056630a16e4be557e090c25f5791e": {
+            "text": "%d ostrze\u017cenie"
+        },
+        "f96edcbe75239be800209c48ae9beb65": {
+            "text": "(%d) ostrze\u017ce\u0144"
+        },
+        "8ba486983cfbf272f154102c788863e6": {
+            "text": "Znaleziono %d w\u0142a\u015bciow\u015b\u0107 do zastosowania"
+        },
+        "dbda450b59595e4fd37fd581d205334f": {
+            "text": "Znaleziono %d w\u0142a\u015bciow\u015bci do zastosowania"
+        },
+        "55c3a7525ed259e874a6d8f5e7e1b951": {
+            "text": "Ostrze\u017ce\u0144 w %d szablonie"
+        },
+        "c444fb69a513bb955e7fc6d2743259c0": {
+            "text": "Ostrze\u017ce\u0144 w szablonach (%d)"
+        },
+        "941d6506a00bb692b6fef9cd4ae4b5e1": {
+            "text": "Znaleziono %d nowy szablon do dodania"
+        },
+        "5788268970dc1d50bc88a88494487e11": {
+            "text": "Znaleziono nowych szablon\u00f3w do dodania %d"
+        },
+        "6c0ca3ff5408385efd5418b46d06cd85": {
+            "text": "Znaleziono %d istniej\u0105cy szablon do aktualizacji"
+        },
+        "b51b8d4de5d4fd2422af0fb2ad529875": {
+            "text": "Znaleziono %d istniej\u0105cych szablon\u00f3w do aktualizacji"
+        },
+        "9b64d9a70291ddd3f6c42edec1bb9866": {
+            "text": "Dodano %d element"
+        },
+        "0f1a6168f03f3ac45f46090fef3bf688": {
+            "text": "Dodano %d element\u00f3w"
+        },
+        "1992f81aea256b7d907c455b395d5ea4": {
+            "text": "Zmodyfikowano %d element"
+        },
+        "91cfce0d08404cef27087ea2d7c9043a": {
+            "text": "Zmodyfikowano %d element\u00f3w"
+        },
+        "c95e1b7b8cdab666cefec077890996f5": {
+            "text": "Pomni\u0119to %d element"
+        },
+        "fc9475948584941277524f1216bb18ff": {
+            "text": "Pomni\u0119to %d element\u00f3w"
+        },
+        "adb6c5041788e54ab20e2a3ef58fbe6e": {
+            "text": "Wybierz szablony kt\u00f3re chcesz wyeksportowa\u0107"
+        }
+    }
+}

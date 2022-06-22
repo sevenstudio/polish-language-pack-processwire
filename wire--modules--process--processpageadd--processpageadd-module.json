@@ -1,0 +1,84 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageAdd\/ProcessPageAdd.module",
+    "textdomain": "wire--modules--process--processpageadd--processpageadd-module",
+    "translations": {
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Dodaj"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Zapisz"
+        },
+        "a3e80c9c5e2dfb9f58712a83e2006a5e": {
+            "text": "Gdzie chcez doda\u0107 now\u0105: %s?"
+        },
+        "100e1438e523c6553ac21fd872262d56": {
+            "text": "Prosz\u0119 wybra\u0107 stron\u0119 nadrz\u0119dn\u0105 (rodzica) poni\u017cej:"
+        },
+        "b0324fdebb63032317bba7c66bff89fc": {
+            "text": "Obecnie nie ma szablon\u00f3w z zdefiniowanymi relacjami rodzic\/dziecko, kt\u00f3re s\u0105 wymagane aby doda\u0107 tutaj skr\u00f3t \"Dodaj\". Aby to skonfigurowa\u0107, zmie\u0144 dowolny szablon (Ustawienia > Szablony) i kliknij kart\u0119 \"Relacje\"."
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "="
+        },
+        "5ffb937a7aaced6b2c652cd8b8650135": {
+            "text": "Wprowadzona nazwa jest ju\u017c u\u017cywana. Je\u015bli jej nie zmienisz, nazwa zostanie automatycznie zmieniona na unikalna po zapisie."
+        },
+        "d337f7f6b3b52602b84f206e80fc6a85": {
+            "text": "Nie ma szablon\u00f3w pozwalaj\u0105cych na dodanie tutaj nowych stron."
+        },
+        "76effbf5625101a8e29d5720e986ee6a": {
+            "text": "Szablon \"%s\" nie mo\u017ce tutaj zosta\u0107 wykorzystany."
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Szablon"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Strona nadrz\u0119dna (rodzic)"
+        },
+        "7d4be9f67818bd22d064880270a3e4af": {
+            "text": "Zapisz + Publikuj"
+        },
+        "591d3e7786bdfa26890da22a5565f1f5": {
+            "text": "Zapisz + Publikuj + Dodaj Nast\u0119pn\u0105"
+        },
+        "41553b358b6daba19bf079d5ad3eefb1": {
+            "text": "Nieu\u017cywana strona tymczasowa"
+        },
+        "9c99ecab6aa8967c077e01a0b3f51668": {
+            "text": "Utworzono stron\u0119: %1$s korzystaj\u0105c\u0105 z szablonu: %2$s"
+        },
+        "abc32b2bc5cd1b61b5d3738f09405c0d": {
+            "text": "Brakuj\u0105ce wymagane pole: nazwa"
+        },
+        "a713b3cf3828f00d541e6ae14b294a8f": {
+            "text": "Strony wybrane powy\u017cej reprezentuj\u0105 zak\u0142adki do stron nadrz\u0119dnych (rodzic\u00f3w), dla kt\u00f3rych b\u0119dzie mo\u017cna dodawa\u0107 strony podrz\u0119dne (dzieci). Nale\u017cy pami\u0119ta\u0107, \u017ce je\u015bli u\u017cytkownik nie ma uprawnie\u0144 do dodawania strony do danej strony nadrz\u0119dnej (niezale\u017cnie od tego, czy jest to spowodowane kontrol\u0105 dost\u0119pu czy ustawieniami rodziny\/relacji szablon\u00f3w), zak\u0142adka nie zostanie wy\u015bwietlona."
+        },
+        "e0f8c45404ac3252900cc035530cd905": {
+            "text": "Zmiana kolejno\u015bci skr\u00f3t\u00f3w szablon\u00f3w"
+        },
+        "94eef4670f102676a952d0989f852649": {
+            "text": "Aby zmieni\u0107 kolejno\u015b\u0107 skr\u00f3tu strona-szablon \"Dodaj Nowy\", przeci\u0105gnij i up\u015b\u0107 opcj\u0119 w wybranej kolejno\u015bci."
+        },
+        "557335482992652fdefe6cc17332688f": {
+            "text": "Aby doda\u0107 lub usun\u0105\u0107 szablon z tych skr\u00f3t\u00f3w, zobacz zak\u0142adk\u0119 Relacje podczas edycji szablonu."
+        },
+        "bb8bbda58833ce19eef6193e1918e8cf": {
+            "text": "Wy\u0142\u0105cz automatyczne publikowanie"
+        },
+        "13148993e6c4399880e879c88a664347": {
+            "text": "Domy\u015blnie, strony z polami globalnymi (najcz\u0119\u015bciej \"tytu\u0142\") zostan\u0105 automatycznie opublikowane po dodaniu, pomijaj\u0105c zwyk\u0142y niepublikowany stan. Mo\u017cesz jednak anulowa\u0107 to zachowanie, zaznaczaj\u0105c poni\u017csze pole."
+        },
+        "c4f4f1adddc771c086745ca04050d415": {
+            "text": "Strona dodaj"
+        },
+        "e1622ba9f41f5b695bddc69e3ceaa204": {
+            "text": "Dodaj now\u0105 stron\u0119"
+        },
+        "9d9c4e8d05601024166b9a3b0cb46ad6": {
+            "text": "Wymagany jet wyb\u00f3r szablonu"
+        },
+        "bd71df4fde063d60b0fe33d87f52f7ff": {
+            "text": "Ostrze\u017cenie, nazwa, kt\u00f3r\u0105 wybra\u0142e\u015b \"%1$s\" by\u0142a ju\u017c w u\u017cyciu i zosta\u0142a zmieniona na \"%2$s\"."
+        }
+    }
+}

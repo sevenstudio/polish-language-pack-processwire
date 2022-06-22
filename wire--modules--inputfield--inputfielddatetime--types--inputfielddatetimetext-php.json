@@ -1,0 +1,108 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/types\/InputfieldDatetimeText.php",
+    "textdomain": "wire--modules--inputfield--inputfielddatetime--types--inputfielddatetimetext-php",
+    "translations": {
+        "ce7581417b903cd7bb99be8785822ce8": {
+            "text": "Wprowadzanie tekstu za pomoc\u0105 selektora daty jQuery UI"
+        },
+        "b69f42ea4444ae5aa888b53cf6045710": {
+            "text": "\/wire\/modules\/Jquery\/JqueryUI\/i18n\/jquery.ui.datepicker-pl.js"
+        },
+        "7db50c3ca59f3f55260013a5e3481f47": {
+            "text": "timepicker\/i18n\/jquery-ui-timepicker-pl.js"
+        },
+        "566235c7913fdded5a84d4578758515f": {
+            "text": "Element wyboru daty"
+        },
+        "7962180f3333f0ccaa9e208cccaac049": {
+            "text": "Brak dodatkowego elementu daty\/godziny"
+        },
+        "aa547f01eea89a5b845b6db3870ba757": {
+            "text": "Element wyboru daty\/czasu przy fokusie na polu"
+        },
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(rekomendowane)"
+        },
+        "edcc19a354ad1b61e258b993a1ff09c4": {
+            "text": "Element wyboru daty\/czasu po klikni\u0119ciu w przycisk"
+        },
+        "c3119c40400e0c55178bba8a9b8e36d8": {
+            "text": "Element liniowy wyboru dat zawsze widoczny (bez wyboru czasu)"
+        },
+        "53e628836cd60f6dbb5fe56320f776ef": {
+            "text": "Formaty wprowadzania daty\/godziny"
+        },
+        "38322714c2bfe9eba81ea980714fd0a6": {
+            "text": "Format wprowadzania daty"
+        },
+        "7656e28d6e435ffecc453794149e6a0d": {
+            "text": "Wybierz format, kt\u00f3ry ma by\u0107 u\u017cywany do wprowadzania danych przez u\u017cytkownika w tym polu. Tw\u00f3j wyb\u00f3r wype\u0142ni pole poni\u017cej, kt\u00f3re w razie potrzeby mo\u017cesz dostosowa\u0107."
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "(stempel czasowy (timestamp) w formacie unix)"
+        },
+        "91c0a51785efc109b0fdb5d710a2656e": {
+            "text": "Format wprowadzania czasu"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Brak"
+        },
+        "44d9d932f51a771c8c76c2dc6ff57e1f": {
+            "text": "Wybierz opcjonalny format godziny, kt\u00f3ry ma by\u0107 u\u017cywany do wprowadzania. Je\u015bli zostanie u\u017cyty, opcja kalendarza b\u0119dzie zawiera\u0107 element wyboru czasu."
+        },
+        "91c4223a8591eed0ecab28c3a1a880b2": {
+            "text": "Typ pola czasu"
+        },
+        "08d3eb379def33331427b243c363eef5": {
+            "text": "Suwaki (domy\u015blnie) pozwalaj\u0105 u\u017cytkownikowi przesuwa\u0107 elementy steruj\u0105ce, aby wybra\u0107 czas, gdzie Lista pozwala u\u017cytkownikowi wybra\u0107 czas z listy rozwijanej."
+        },
+        "9ad46d2d4f10955abfc9ca97565bba87": {
+            "text": "Suwaki"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Lista"
+        },
+        "4dc865ad9218b271e212f2656a4415e4": {
+            "text": "Kod formatu wprowadzania daty"
+        },
+        "20f706119fa58d0787ea397d413bf1e0": {
+            "text": "Jest on tworzony automatycznie od daty wybranej powy\u017cej, chyba \u017ce go zmodyfikujesz."
+        },
+        "e87ce06927649f8cdfff9e27c4ac8e3d": {
+            "text": "Zobacz opis funkcji [PHP date](http:\/\/www.php.net\/manual\/en\/function.date.php), aby uzyska\u0107 wi\u0119cej informacji na temat dostosowywania tych format\u00f3w."
+        },
+        "3668c3ec43f4b401c6de009e3abb73f9": {
+            "text": "Mo\u017cesz opcjonalnie okre\u015bli\u0107 tutaj r\u00f3wnie\u017c formaty dla innych j\u0119zyk\u00f3w. Wszystkie j\u0119zyki pozostawione puste odziedzicz\u0105 ustawienia domy\u015blne."
+        },
+        "b3641a0b694cd7a82856611ce58d4979": {
+            "text": "Kod formatu wprowadzania czasu"
+        },
+        "3dd984b18a5880f9279e17ff2e53a5de": {
+            "text": "Jest on tworzony automatycznie z czasu wybranego powy\u017cej, chyba \u017ce go zmodyfikujesz."
+        },
+        "6485c7641245873388f0170f472183c6": {
+            "text": "Tekst tymczasowy"
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Opcjonalny tekst tymczasowy, kt\u00f3ry pojawia si\u0119 w pustym polu."
+        },
+        "6f6cb72d544962fa333e2e34ce64f719": {
+            "text": "Rozmiar"
+        },
+        "49e0e66405106d4f9cf741207255476f": {
+            "text": "Wy\u015bwietlana szeroko\u015b\u0107 tego pola (w znakach)."
+        },
+        "0825dd56fbac59b910dff90abf30024d": {
+            "text": "Zakres roku"
+        },
+        "105145f02985f6f81d519b78eaca6dfb": {
+            "text": "Gdy mo\u017cliwy jest wst\u0119pnie zdefiniowany wyb\u00f3r roku, istnieje zakres plus lub minus 10 lat od bie\u017c\u0105cego roku."
+        },
+        "57bed892b74c37659d8705088727032e": {
+            "text": "Aby zmodyfikowa\u0107 ten zakres, okre\u015bl liczb\u0119 lat przed i po bie\u017c\u0105cym roku w nast\u0119puj\u0105cym formacie: `-30:+20`, co oznacza 30 lat przed obecnym i 20 lat po obecnym."
+        },
+        "ef538874da76f56a05956925c0a162bb": {
+            "text": "Domy\u015blna warto\u015b\u0107 to -10:+10, kt\u00f3ra pokazuje zakres lat - 10 lat przed i 10 od teraz."
+        }
+    }
+}

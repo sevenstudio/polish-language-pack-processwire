@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeSelector.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeselector-module",
+    "translations": {
+        "edcca7404d60fa39e1e56bbb6c85c519": {
+            "text": "Pocz\u0105tkowa warto\u015b\u0107 selektora"
+        },
+        "7705e5655113c7b4e5b224010ac7af38": {
+            "text": "Podaj domy\u015bln\u0105 warto\u015b\u0107 selektora, kt\u00f3ra zostanie wykorzystana jako element pocz\u0105tkowy ka\u017cdego selektora wygenerowanego przez to pole. \nWpisz pocz\u0105tkow\u0105 warto\u015b\u0107 selektora, kt\u00f3ry b\u0119dzie u\u017cywany jako wymuszony punkt pocz\u0105tkowy dla dowolnych selektor\u00f3w generowanych z tego pola. \nKa\u017cda strona pasuj\u0105ca do selektora u\u017cytkownika zostanie powi\u0105zana z warto\u015bci\u0105 wprowadzon\u0105 tutaj."
+        },
+        "4795bb99893dc26981eb889746b21499": {
+            "text": "Przyk\u0142ad: template=product"
+        },
+        "8de040fe605622e9683d5c72a79d28b4": {
+            "text": "Podejrzyj kolumny"
+        },
+        "e4dad406b489c052036f2de2bd7dc3a5": {
+            "text": "Wprowad\u017a ci\u0105g CSV zawieraj\u0105cy nazwy kolumn\/p\u00f3l, kt\u00f3re b\u0119d\u0105 wy\u015bwietlane w podgl\u0105dach wygenerowanych z tego pola."
+        },
+        "9079d8cb5302982d2d861798bc2a2d38": {
+            "text": "Przyk\u0142ad: name, template, parent, id"
+        }
+    }
+}

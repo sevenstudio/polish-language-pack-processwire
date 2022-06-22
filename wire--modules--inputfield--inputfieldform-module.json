@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldForm.module",
+    "textdomain": "wire--modules--inputfield--inputfieldform-module",
+    "translations": {
+        "98c9c3ab74a1b32e2278dd17586938f2": {
+            "text": "Pozosta\u0142y niezapisane zmiany:"
+        },
+        "d359c6df99b25183d81f7d728b71de0e": {
+            "text": "Formularz"
+        },
+        "d1e114b786b9fa971fbba24b8e584a43": {
+            "text": "Zawiera jedno lub wi\u0119cej p\u00f3l w formie formularza."
+        }
+    }
+}

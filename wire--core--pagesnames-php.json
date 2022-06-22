@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/PagesNames.php",
+    "textdomain": "wire--core--pagesnames-php",
+    "translations": {
+        "b0c7034324356a3debb02f65432da4cb": {
+            "text": "Inna strona u\u017cywa nazwy\"%s\" i wymaga aby nazwa by\u0142a unikalna globalnie"
+        },
+        "dc4285f03b7d0a9a40a437530f567e94": {
+            "text": "Inna strona bed\u0105ca podstron\u0105 tej samej strony nadrz\u0119dnej u\u017cywa nazwy \"%s\""
+        },
+        "fca123eb0b6f4465da6e62e5b07927e9": {
+            "text": "Nie mo\u017cna u\u017cy\u0107 nazwy \"%s\" jako unikalnej globalnie, poniewa\u017c jest ju\u017c u\u017cywana przez inne strony"
+        },
+        "0bfad70a433eea8a1d6211bc771098b5": {
+            "text": "Inny u\u017cytkownik korzysta ju\u017c z nazwy \u201c%s\u201d"
+        }
+    }
+}

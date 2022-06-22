@@ -1,0 +1,99 @@
+{
+    "file": "wire\/modules\/Process\/ProcessRole\/ProcessRole.module",
+    "textdomain": "wire--modules--process--processrole--processrole-module",
+    "translations": {
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Uprawnienia"
+        },
+        "e0c8b59640bc35bac606431203d2d9b0": {
+            "text": "Aby uzyska\u0107 szczeg\u00f3\u0142owy opis tych uprawnie\u0144, zobacz [referencje uprawnie\u0144] (% s)."
+        },
+        "dc3abfaff3190368a09f01d6589eeeea": {
+            "text": "Dodaje podstron\u0119 do stron korzystaj\u0105cych z szablonu"
+        },
+        "9c281188158fc34cf5afc9d2820a761c": {
+            "text": "Dodaje strony korzystaj\u0105ce z szablonu"
+        },
+        "9bfb6e6af6e6793bfa9387e728187c87": {
+            "text": "(wymagane)"
+        },
+        "3cac60e98937c01a72ef6e6cfe66f90f": {
+            "text": "Te uprawnienia s\u0105 wymagane przez wszystkie role."
+        },
+        "1def073965e264ae40ae1d9877290fd3": {
+            "text": "Ma zastsowanie do wszystkich edytowalnych szablon\u00f3w"
+        },
+        "26c77f67debae46ee5b0a12626817076": {
+            "text": "%1$s dodane przez szablon %2$s, kliknij aby edytowa\u0107"
+        },
+        "37ef521112472af77d381e834922a7af": {
+            "text": "%1$s cofni\u0119te przez szablon %2$s, kliknij aby edytowa\u0107"
+        },
+        "1754bfdd544e98486c2ed46753ca8edd": {
+            "text": "Zaznaczenie tego pola dodaje uprawnienia do wszystkich edytowalnych szablon\u00f3w, ale te uprawnienia s\u0105 ju\u017c zastosowane oddzielnie przez jeden lub wi\u0119cej szablon\u00f3w. Sugerujemy usuni\u0119cie tych uprawnie\u0144 w tych szablonach przed w\u0142\u0105czeniem ich tutaj. Czy chcesz w\u0142\u0105czy\u0107 teraz?"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Role"
+        },
+        "e5e77ccf470959bc6be60127730908b5": {
+            "text": "Zarz\u0105dzaj rolami u\u017cytkownik\u00f3w i ich uprawnieniami"
+        },
+        "10928cc0ee4f4ca5cd54b8f7d90fe439": {
+            "text": "Uwaga: Rola super administratora zawsze posiada wszystkie dozwolone uprawnienia, wi\u0119c pole uprawnie\u0144 nie jest wy\u015bwietlane."
+        },
+        "73a0430d4108945b73c1d27c8d048339": {
+            "text": "Jakie typy stron mo\u017ce zobaczy\u0107 u\u017cytkownik przypisany do tej roli?"
+        },
+        "1c572404150327a35e463b4638740073": {
+            "text": "Jakie typy stron mo\u017ce edytowa\u0107 u\u017cytkownik przypisany do tej roli?"
+        },
+        "b2295468aae810dba114aeafc6affecc": {
+            "text": "Do jakego typu stron u\u017cytkownik przypisany do tej roli mo\u017ce dodawa\u0107 podstrony?"
+        },
+        "a94285c99473e5cb477bfebd41f5b479": {
+            "text": "Jakie typy stron mo\u017ce tworzy\u0107 u\u017cytkownik przypisany do tej roli?"
+        },
+        "2121718f2638e1afe762097a7981ea3c": {
+            "text": "Je\u015bli chcesz doda\u0107 {permission} tylko dla konkretnych szablon\u00f3w, zaznacz pola poni\u017cej przy szablonach do kt\u00f3rych chcesz je doda\u0107, i pozostaw uprawnienie {permission} nie zaznaczone."
+        },
+        "308b65bff5801587885912db1a2aacdf": {
+            "text": "Uprawnienia {permission} s\u0105 zaznaczone, b\u0119d\u0105 mia\u0142y zastosowanie do wszystkich szablon\u00f3w edytowalnych przez t\u0105 rol\u0119 u\u017cytkownika. Aby cofn\u0105\u0107 uprawnienia  {permission} dla konkretnych szablon\u00f3w, zaznacz je poni\u017cej. \nAby doda\u0107 uprawnienia do konkretnych szablon\u00f3w, odznacz najpierw uprawnienia {permission}."
+        },
+        "0cb74f3f98993beb92d1fa5e9dbdeb64": {
+            "text": "Uwaga, rola u\u017cytkownika musi tak\u017ce posiada\u0107 uprawnienia do edycji stron dla szablon\u00f3w wbranych powy\u017cej."
+        },
+        "46e843d341c23fcc923e4057f2011f5e": {
+            "text": "Wi\u0119kszo\u015b\u0107 uprawnie\u0144, kt\u00f3re mog\u0105 zosta\u0107 przypisane do szablonu wymagaj\u0105 tak\u017ce, aby u\u017cytkownik posiada\u0142 prawa edycji strony szablonu. Je\u015bli \u017c\u0105dany szablon nie znajduje si\u0119 na li\u015bcie, nale\u017cy najpierw w\u0142\u0105czy\u0107"
+        },
+        "bd6e3218368542ea8b8ec79e212960c3": {
+            "text": "W przeciwie\u0144stwie do wi\u0119kszo\u015bci innych uprawnie\u0144, uprawnienie edycji strony do szablonu nie jest wymaganym warunkiem koniecznym dla tego uprawnienia."
+        },
+        "e92cdb67062c4b4fa95179b9130677a9": {
+            "text": "nazwa|opis|"
+        },
+        "bdeb3e0cbe3d8f44757a86e8da219abc": {
+            "text": "To rodzaj uprawnie\u0144 mo\u017ce by\u0107 przypisany tylko przez szablon."
+        },
+        "76ea2cfb7138b9f6db1ca5385ffd6bec": {
+            "text": "Dodaj do: %s"
+        },
+        "484a603504d7ed70ae95310674989236": {
+            "text": "Cofnij uprawnienia z: %s"
+        },
+        "862ca20a14a289ffa53aa7b458c0f288": {
+            "text": "Kliknij, aby otworzy\u0107\/zamkn\u0105\u0107 ustawienia uprawnie\u0144 wed\u0142ug szablonu"
+        },
+        "4106d43df925487225450293085f8bad": {
+            "text": "Brak uprawnie\u0144 \u201c%1$s\u201d dla szablonu \u201c%2$s\u201d  (wymagane \u201c%3$s\u201d)"
+        },
+        "596d1c90537af3c3c588dceedde6bf03": {
+            "text": "(wymagane, poniewa\u017c odziedziczono po roli go\u015bcia)"
+        },
+        "2c32a8fe6caf47e8f89b0929211639df": {
+            "text": "Szablony oznaczone gwiazdk\u0105 (*) s\u0105 skonfigurowane pod k\u0105tem uprawnie\u0144 zwi\u0105zanych z edycj\u0105, aby dziedziczy\u0107 tak\u017ce elementy potomne i poprzez drzewo strony, chyba \u017ce s\u0105 nadpisane przez stron\u0119 korzystaj\u0105c\u0105 z  innego szablonu z kontrol\u0105 dost\u0119pu."
+        },
+        "1900cd4f8e202940060d2129a70df995": {
+            "text": "To uprawnienie jest r\u00f3wnie\u017c dziedziczone przez podstrony i za po\u015brednictwem drzewa strony, chyba \u017ce\/dop\u00f3ki ustawienia uprawnie\u0144 nie zostan\u0105 zast\u0105pione przez inny szablon z innymi ustawieniami uprawnie\u0144."
+        }
+    }
+}

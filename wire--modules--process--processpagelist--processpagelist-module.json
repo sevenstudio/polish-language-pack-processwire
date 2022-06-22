@@ -1,0 +1,108 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module",
+    "textdomain": "wire--modules--process--processpagelist--processpagelist-module",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Anuluj"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Dodaj"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Kosz"
+        },
+        "f4ec5f57bd4d31b803312d873be40da9": {
+            "text": "Zmie\u0144"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Wybierz"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Odznacz"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Wi\u0119cej"
+        },
+        "d95deddfb80310ff0d1d63013611777c": {
+            "text": "Kliknij i przeci\u0105gnij, aby przenie\u015b\u0107"
+        },
+        "5ca370c3b4f85b5c8308b75ea46984cb": {
+            "text": "B\u0142\u0105d AJAX, spr\u00f3buj ponownie za chwil\u0119"
+        },
+        "024dae797f407f0f2bd724f6301999a1": {
+            "text": "Nieznany b\u0142\u0105d, spr\u00f3buj ponownie za chwil\u0119"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Poka\u017c wszystkie"
+        },
+        "9f8ce5c6cbebc34795f4241c8932573a": {
+            "text": "stron (%d)"
+        },
+        "157fa6b945671169a76bc677977f368d": {
+            "text": "Nazwa pola strony do wy\u015bwietlenia"
+        },
+        "bdfca484a650a86abab2578865834ac3": {
+            "text": "Ka\u017cda strona na li\u015bcie stron jest identyfikowana przez etykiet\u0119, typowo przez tytu\u0142 lub nag\u0142\u00f3wek. Mo\u017cesz tutaj okre\u015bli\u0107, kt\u00f3re pole powinno by\u0107 u\u017cywane. Aby okre\u015bli\u0107 wiele p\u00f3l, oddziel wszystkie nazwy p\u00f3l spacjami lub u\u017cyj w\u0142asnego formatu z nazwami p\u00f3l otoczonymi {nawiasami}. Je\u015bli pole wskazuje na obiekt (podobnie jak inna strona), okre\u015bl w\u0142a\u015bciwo\u015b\u0107 kropk\u0105, np. {innastrona.tytul}. Nale\u017cy zauwa\u017cy\u0107, \u017ce je\u015bli format zwr\u00f3ci pust\u0105 warto\u015b\u0107, w\u00f3wczas ProcessWire u\u017cyje pola \"nazwa\" strony."
+        },
+        "8593fb74b02478b2734e442f86507d7b": {
+            "text": "Opcjonlanie mo\u017cesz napidsa\u0107 to ustawienie odr\u0119bnie dla szablonu, w zak\u0142adce \"zaawansowane\" w ustawieniach szblonu."
+        },
+        "eceb8bf0921f19bb3ae6972e7902c887": {
+            "text": "Domy\u015blna warto\u015b\u0107: %d."
+        },
+        "f0ebf50a114d563bc9bd51eb8df08f5a": {
+            "text": "Je\u015bli pozostawiono domy\u015bln\u0105 warto\u015b\u0107, to ustawienie mo\u017ce by\u0107 tak\u017ce okre\u015blone w  tablicy $config->pageList."
+        },
+        "43da4fffe875f34908241df94ccb535b": {
+            "text": "Ilo\u015b\u0107 stron do w\u015bwietlenia przed paginacj\u0105"
+        },
+        "94d3f06b64640bda750ee1d7c7527fe4": {
+            "text": "Pr\u0119dko\u015b\u0107 animacji (w milisekundach ms)"
+        },
+        "453420e78223c3c2ff7a28bfc3a44dde": {
+            "text": "Jest to pr\u0119dko\u015b\u0107 rozwijania\/zwijania \"drzewa\" stron na li\u015bcie."
+        },
+        "7f46e875eed0badd2516b23657f4f320": {
+            "text": "Poka\u017c akcje strony po najechaniu mysz\u0105?"
+        },
+        "04f8c71ea1d550c45b3c987978fe56b3": {
+            "text": "Domy\u015blnie, dost\u0119pne akcje widoczne s\u0105 po klikni\u0119ciu (przynajmniej w domy\u015blnym szablonie administracyjnym), aby zmieni\u0107 je na pojawiaj\u0105ce si\u0119 po najechaniu mysz\u0105 znazacz to pole."
+        },
+        "bcf77f341a0ec5189588bdad819c9ee7": {
+            "text": "Dla wi\u0119kszej ilo\u015bci opcji sprawd\u017a ustawienia $config->pageList w pliku \/wire\/config.php. Mo\u017cesz skopiowa\u0107 te ustawienia do \/site\/config.php i je nadpisa\u0107."
+        },
+        "e834b638a7a5df6f0de0c57b1d6ac901": {
+            "text": "Zezw\u00f3l u\u017cytkownikom bez najwy\u017cszych uprawnie\u0144 na u\u017cycie kosza?"
+        },
+        "6288d796be4065eb3b00cf1fe1f7b613": {
+            "text": "Je\u015bli zaznaczono, u\u017cytkownicy b\u0119d\u0105 mogli zobaczy\u0107 strony w koszu (tylko strony do kt\u00f3rych maj\u0105 dost\u0119p)."
+        },
+        "98ee3deee3a12fa7795a82801d19a020": {
+            "text": "W\u0142\u0105czy to tak\u017ce funkcje \"Kosz\" i \"Przywr\u00f3\u0107\" tam gdzie kontrola dost\u0119pu na to zezwala."
+        },
+        "a8a530c941af87d6dc1d0d907cd4ee3f": {
+            "text": "Rodzaj ilo\u015bci podstron"
+        },
+        "f472347ec718962a0e4560a410768cf1": {
+            "text": "Na li\u015bcie stron liczba podstron jest wy\u015bwietlana obok ka\u017cdej strony, gdy jest to mo\u017cliwe. Jaki rodzaj ilo\u015bci powinien zosta\u0107 pokazany?"
+        },
+        "8c06d8c7bf685599eb5de83ad4d79d08": {
+            "text": "Przy pokazywaniu podstron liczba obejmuje wszystkie strony potomne, niezale\u017cnie od tego, czy s\u0105 one dost\u0119pne dla u\u017cytkownika."
+        },
+        "1cf8145a75b3d3d0f52759b1808c9cac": {
+            "text": "Bezpo\u015brednie podstrony (domy\u015blnie)"
+        },
+        "f9e98f3e587cf5da4ddb460f0aa52437": {
+            "text": "Wszystkie podstrony"
+        },
+        "3f842a2d7d72a4f7fb3e400a5b569f0b": {
+            "text": "Oba typy: podstrony\/strony potomne"
+        },
+        "d86d2e0723883a6f48c9c0c05d3584b6": {
+            "text": "Oba typy: strony potomne\/podstrony"
+        },
+        "69ff054adc667458622b780aabe13d60": {
+            "text": "Zamiast tego poka\u017c numer identyfikacyjny strony"
+        }
+    }
+}

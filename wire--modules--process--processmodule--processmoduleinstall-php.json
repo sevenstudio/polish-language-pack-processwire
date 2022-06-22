@@ -1,0 +1,90 @@
+{
+    "file": "wire\/modules\/Process\/ProcessModule\/ProcessModuleInstall.php",
+    "textdomain": "wire--modules--process--processmodule--processmoduleinstall-php",
+    "translations": {
+        "ccb108ad977122d69f8bbc7758997ff2": {
+            "text": "Upewnij si\u0119 \u017ce katalog \/site\/assets\/cache\/ posiada prawa do zapisu dla PHP"
+        },
+        "cfe1ee62b0efc597562d0b78c5196d47": {
+            "text": "Upewnij si\u0119 \u017ce katalog modu\u0142\u00f3w Twojej strony (\/site\/modules\/) posiada prawa do zapisu dla PHP"
+        },
+        "34484ec9b680d2670f6c0d0a6ea5cb5a": {
+            "text": "Klasa PHP ZipArchive jest wymagana, lecz nie jest dost\u0119pna\/w\u0142\u0105czona w Twojej wersji PHP"
+        },
+        "af32834e6517e929e3993eb018b46ac0": {
+            "text": "Nie odnaleziono \u017cadnych plik\u00f3w modu\u0142u"
+        },
+        "2a3cd9a18eaf3b274b4fa40068fff003": {
+            "text": "Poprawnie skopiowano pliki do nowego katalogu:"
+        },
+        "5bb84f541cde4c248e5f6f58ae92c49e": {
+            "text": "Nie uda\u0142o si\u0119 skopiowa\u0107 plik\u00f3w do katalogu:"
+        },
+        "5a3527463defe3c1e1ab721c4942f331": {
+            "text": "Nie mo\u017cna stworzy\u0107 katalogu:"
+        },
+        "a7e401f040fc37065b5d7a8b01e5a592": {
+            "text": "Nie uda\u0142o si\u0119 skopiowa\u0107 plik\u00f3w modu\u0142u:"
+        },
+        "82d70ccfc2a2e0bb66507a3f90c4690e": {
+            "text": "Nie mo\u017cna usun\u0105\u0107\/ niepoprawny katalog modu\u0142u"
+        },
+        "04abd66e622f247f079329fcbc51b97c": {
+            "text": "Nale\u017cy zauwa\u017cy\u0107, \u017ce% s by\u0142 symbolicznym likniem i zosta\u0142 przekszta\u0142cony w zwyk\u0142y katalog"
+        },
+        "0e30f791217cbeee87323db58731e58f": {
+            "text": "Wykonano kopie istniej\u0105cego %s"
+        },
+        "34e8dc0a73d373618c591be38800cd3c": {
+            "text": "Przywr\u00f3cono kopi\u0119: %s"
+        },
+        "21b1483780050057a84adbf35ec57c05": {
+            "text": "Nie mo\u017cna uko\u0144czy\u0107 przesy\u0142ania"
+        },
+        "e7df9a3e1460bdfcaabe5b2e451a6594": {
+            "text": "Nie znaleziono przes\u0142anych plik\u00f3w"
+        },
+        "a4e29333ef852fef776eecdb5b3ac6a1": {
+            "text": "Podano nieprawid\u0142owo adres URL pobierania"
+        },
+        "e830879e542fd52ca82f599ce41b6668": {
+            "text": "Opbrano plik archiwum ZIP: %s (%d bytes)"
+        },
+        "38933d5ecc7b9e5ac7859a9b6a1de7eb": {
+            "text": "Opcja instalacji modu\u0142u \u201e%s\u201d"
+        },
+        "d83612969f53282acff312397c6d8fa8": {
+            "text": "Wyodr\u0119bniono: %s"
+        },
+        "c8d7cc9fd8f6298a8ee52a937c29c97d": {
+            "text": "Twoja \u015bcie\u017cka %s jest obecnie niedost\u0119pna do zapisu."
+        },
+        "58c9ef751665d75133cd9f06c2e99f71": {
+            "text": "Musi zosta\u0107 udost\u0119pniony do zapisu dla ProcessWire, zanim b\u0119dzie mo\u017cna w\u0142\u0105czy\u0107 t\u0119 opcj\u0119 instalacji modu\u0142u."
+        },
+        "5fcb2e65954f268db4a5e500f8187817": {
+            "text": "w\u0142\u0105czy\u0107 zawsze"
+        },
+        "5e13c331fbe3baf04626f93b56d7fb30": {
+            "text": "tymczasowo"
+        },
+        "a1af683d99a3a6a621a2c27ec9e468fb": {
+            "text": "w\u0142\u0105czy\u0107 tylko w trybie debugowania"
+        },
+        "060aa54c407428fd1b33c89d00abb0db": {
+            "text": "Aby w\u0142\u0105czy\u0107, edytuj plik %1$s i okre\u015bl: %2$s \u2026lub\u2026 %3$s"
+        },
+        "7c67236ffb79ce4bb59a4ec3b5a3de0e": {
+            "text": "Ta opcja instalacji jest skonfigurowana tak, aby by\u0142a dost\u0119pna tylko w trybie debugowania."
+        },
+        "3d32978a99cfd1c17aa9effcace86b1c": {
+            "text": "Ta opcja instalacji jest obecnie wy\u0142\u0105czona."
+        },
+        "43b2e82a51daa1adee20374e35b3caa9": {
+            "text": "Rozpakowano %d plik"
+        },
+        "aeb9dc1c219e430958416b2390306776": {
+            "text": "Rozpakowano plik\u00f3w -  %d"
+        }
+    }
+}

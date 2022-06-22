@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/PageBookmarks.php",
+    "textdomain": "wire--modules--process--processpageedit--pagebookmarks-php",
+    "translations": {
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Zak\u0142adki"
+        },
+        "d0b0f5485a703781d56c4c55bdce4da7": {
+            "text": "Edytuj zak\u0142adki"
+        },
+        "a181a603769c1f98ad927e7367c7aa51": {
+            "text": "wszystkie"
+        },
+        "e0748a9891a21b21d3c6f6376ab12f8f": {
+            "text": "Obecnie nie ma \u017cadnych zdefiniowanych zak\u0142adek"
+        },
+        "ed881bac6397ede33c0a285c9f50bb83": {
+            "text": "wszyscy"
+        },
+        "d5a8dcb24e93ee00847e32750d56eca5": {
+            "text": "Zak\u0142adka dla:  %s"
+        },
+        "9a013ed2472d5e17678963b8a653a0ac": {
+            "text": "(%s) Edyotr Zak\u0142adek"
+        },
+        "cfbe50a1f9e891f884e3e6318d635a89": {
+            "text": "Tylko super administratorzy mog\u0105 zobaczy\u0107 t\u0105 stron\u0119 edycji"
+        },
+        "7317631eaad804856acd03ce85bd8ef7": {
+            "text": "Dodaj zak\u0142adk\u0119"
+        },
+        "1aaddfb42057a3f42fbd26b95d3b9c78": {
+            "text": "Kliknij \"Dodaj zak\u0142adk\u0119\" poni\u017cej aby wybra\u0107 stron\u0119(strony) kt\u00f3re b\u0119d\u0105 dodane do zak\u0142adek. Je\u015bli chcesz aby zak\u0142adki by\u0142y wy\u015bwietlane tylko dla u\u017cytkownik\u00f3w z wybranymi rolami, wybierz najpierw role u\u017cytkownik\u00f3w powy\u017cej."
+        },
+        "09c3829dccd8e7db10887f1ec26c7431": {
+            "text": "Zapisano zak\u0142adki"
+        },
+        "e750f199f551e1b0b52dd0f5228da48d": {
+            "text": "Zezwoli\u0107 na u\u017cycie zak\u0142adek?"
+        },
+        "53b820d38e547eb253a74a242a29e16f": {
+            "text": "Zak\u0142adki pozwalaj\u0105 na tworzenie skr\u00f3t\u00f3w do stron z tego modu\u0142u, konfigurowalne na podstawie r\u00f3l u\u017cytkownik\u00f3w. U\u017cyteczne dla du\u017cych aplikacji."
+        }
+    }
+}

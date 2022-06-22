@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/PageRender.module",
+    "textdomain": "wire--modules--pagerender-module",
+    "translations": {
+        "22a38306ce7556a0a5eeebca65cd9b58": {
+            "text": "Wygas\u0142a pami\u0119\u0107 podr\u0119czna stron dla ca\u0142ej witryny"
+        },
+        "af4137a5254dfe8654d87ff05286b80e": {
+            "text": "Usuni\u0119to plik pami\u0119ci podr\u0119cznej:"
+        },
+        "f3fbe32b9b2f8a4b6b3eecc5084e999c": {
+            "text": "Usuni\u0119to plik pami\u0119ci podr\u0119cznej dla %d strony\/stron"
+        },
+        "403c89515b16b3417cd2e426612b4a53": {
+            "text": "Usuni\u0119to pliki pami\u0119ci podr\u0119cznej dla stron"
+        },
+        "0c22fad509c478c3442a310a7a2b2c52": {
+            "text": "Usun\u0105\u0107 plik pami\u0119ci podr\u0119cznej generowania stron?"
+        },
+        "b4999a543edcfefc8c56ed6eafdcb98f": {
+            "text": "Obecnie istnieje %d stron w pami\u0119ci podr\u0119cznej w %s"
+        },
+        "3a160df105e3d9d54575466354bdd312": {
+            "text": "Generator Stron"
+        },
+        "d2c5ea4202c4c692852b7e10fbceabd3": {
+            "text": "Dodaje motod\u0119 generowania strony i przechowuje efekty w pami\u0119ci podr\u0119cznej."
+        }
+    }
+}

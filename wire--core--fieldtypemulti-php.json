@@ -1,0 +1,36 @@
+{
+    "file": "wire\/core\/FieldtypeMulti.php",
+    "textdomain": "wire--core--fieldtypemulti-php",
+    "translations": {
+        "e2942a04780e223b215eb8b663cf5353": {
+            "text": "Ilo\u015b\u0107"
+        },
+        "0f87dcdd9cbafb48e5d9e444ba7c14a7": {
+            "text": "Sortowanie i Paginacja"
+        },
+        "7f99274f686fafb79a69fb49fd22b087": {
+            "text": "The ustawienia maj\u0105 zastosowanie zar\u00f3wno do edytora na stronie jak i w panelu administracyjnym."
+        },
+        "bfc4400f3a3f1f3ad8647c7391cc3f1c": {
+            "text": "(odwrotnie)"
+        },
+        "1785200c818e6b465cab76d18f05aa40": {
+            "text": "Automatyczne sortowanie"
+        },
+        "c1e2087d761e1449f626c96d45bb1c3e": {
+            "text": "Wybierz poni\u017cej jedno lub wi\u0119cej p\u00f3l do sortowania. Dla sortowania manualnego pozostaw puste."
+        },
+        "53fc83e55c6d5a04fd63ffe5c4e90d1c": {
+            "text": "Limit paginacji (ilo\u015b\u0107 element\u00f3w na stronie)"
+        },
+        "cc4713abaa08f23ce8f1a1143a04ee77": {
+            "text": "Ogranicza to liczb\u0119 element\u00f3w za\u0142adowenych\/edytowanych na stronie paginacji. Warto\u015b\u0107 \"0\" oznacza brak limitu (domy\u015blnie)."
+        },
+        "0b01fc6afe7ee324751846ccf0dfc735": {
+            "text": "Paginacja jest wskazana je\u015bli b\u0119dziesz pracowa\u0142 z setkami lub tysi\u0105cami element\u00f3w (lub wi\u0119cej ..)."
+        },
+        "ab7c5fc204d8e160a7b731a0799bf450": {
+            "text": "Te ustawienia nie s\u0105 uwzgl\u0119dniane dop\u00f3ki nie zostanie wybrane \"Automatyczne sortowanie\"."
+        }
+    }
+}

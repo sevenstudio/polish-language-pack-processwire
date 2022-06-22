@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Image\/ImageSizerEngineAnimatedGif\/ImageSizerEngineAnimatedGif.module",
+    "textdomain": "wire--modules--image--imagesizerengineanimatedgif--imagesizerengineanimatedgif-module",
+    "translations": {
+        "fa08346eefc233da84efcce389e121f6": {
+            "text": "plik '%s' nie znajduje si\u0119 na li\u015bcie poprawnych rodzaj\u00f3w obraz\u00f3w"
+        }
+    }
+}

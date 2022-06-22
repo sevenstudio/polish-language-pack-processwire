@@ -1,0 +1,42 @@
+{
+    "file": "wire\/core\/AdminThemeFramework.php",
+    "textdomain": "wire--core--adminthemeframework-php",
+    "translations": {
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Nowy"
+        },
+        "90dd5a9776ef2638eebdd94ae76a1902": {
+            "text": "Zobacz witryn\u0119"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profil"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Wyloguj"
+        },
+        "fbbbb283efc814825613301c22951ba7": {
+            "text": "Zamnkij wszystkie"
+        },
+        "878620e7a3c84a803c9a70bfe346be57": {
+            "text": "Wykorzysta\u0107 ten szablon administracyjny w panelu logowania?"
+        },
+        "ffd8fa387acec9945788ad7c39400b1b": {
+            "text": "Je\u015bli zaznaczono, ten szablon administracyjny b\u0119dzie wykorzystywany w panelu logowania."
+        },
+        "9d228734f81e102a94540a1508e69d1d": {
+            "text": "="
+        },
+        "5d245d16dae6579f37c78f49f078b36a": {
+            "text": "Prze\u0142\u0105cz u\u017cytkownik\u00f3w na ten szablon panelu administracyjnego"
+        },
+        "5b5cb08a3f289568f6d628e8f4858906": {
+            "text": "Wybierz rol\u0119 u\u017cytkownika, dla kt\u00f3rej u\u017cytkownik\u00f3w zastosowa\u0107 ten szablon panelu administracyjnego."
+        },
+        "bb387a29dee8d495ac6a7870d5e10442": {
+            "text": "Rola: %s"
+        },
+        "f590c9f5400a3be977d2027832a99e02": {
+            "text": "Dla %d u\u017cytkownik\u00f3w ustawiono ten szablon panelu."
+        }
+    }
+}

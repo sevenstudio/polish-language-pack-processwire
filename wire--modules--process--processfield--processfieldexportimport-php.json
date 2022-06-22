@@ -1,0 +1,156 @@
+{
+    "file": "wire\/modules\/Process\/ProcessField\/ProcessFieldExportImport.php",
+    "textdomain": "wire--modules--process--processfield--processfieldexportimport-php",
+    "translations": {
+        "ad32e604e17467fc435538334fbddf3e": {
+            "text": "Nazwa"
+        },
+        "6f434c508ad901b8667ed22f713e52bb": {
+            "text": "Etykieta"
+        },
+        "948495146facadfe8859789036313d79": {
+            "text": "Typ"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "Nowa"
+        },
+        "19b7fb53a85de3c8ba85672a91a7398b": {
+            "text": "Eksportuj"
+        },
+        "e37dfad06455f0c5d79778a5020d946d": {
+            "text": "Importuj"
+        },
+        "a7820bfdb5b31eb4ee4165f2c8bef779": {
+            "text": "Tak"
+        },
+        "1354eb301e2c7c55f79a7f13adb363e3": {
+            "text": "Nie"
+        },
+        "71eaa2b13692809e39c2f0c36e7f1d7f": {
+            "text": "Wybierz pola kt\u00f3re chcesz wyeksportowa\u0107"
+        },
+        "e5d07991c975607a12edce23c0da9824": {
+            "text": "Shift+klikni\u0119cie aby zaznaczy\u0107 wiele w sekwencji.Ctrl+klikni\u0119cie (lub Cmd+klikni\u0119cie) aby zaznaczy\u0107 wiele pojedynczo. Ctrl+A (lub Cmd+A) aby zaznaczy\u0107 wszystkie."
+        },
+        "2f1fb3d9f25082e7fdb0befdad16da5f": {
+            "text": "Eksportuj dane"
+        },
+        "6af8cf07d769a110f0b2483692ef424c": {
+            "text": "Skopiuj i wklej te dane to pola \"Import\" w innej instalacji."
+        },
+        "9d823cda278191490c2a99bbb912cc9d": {
+            "text": "Kliknij gdziekolwiek w polu aby zaznaczy\u0107 wszystkie dane do eksportu. Kiedy zaznaczono, skopiuj dane naciskaj\u0105\u0107 CTRL+C lub CMD+C."
+        },
+        "dce8c8fe6bdf804f2a98384dedea1360": {
+            "text": "Wklej dane z eksportu"
+        },
+        "139ef19d3b2f902827257b2ebc33d708": {
+            "text": "Skopiuj dane eksportu z innej instalacji po czym wklej je w polu powy\u017cej naciskaj\u0105c CTRL+V lub CMD+V."
+        },
+        "31fde7b05ac8952dacf4af8a704074ec": {
+            "text": "Podgl\u0105d"
+        },
+        "c112bb3542e98308d12d5ecb10a67abc": {
+            "text": "Zmiany"
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "W\u0142a\u015bciwo\u015b\u0107"
+        },
+        "56f05ff480907494bd933f4ad4faf9e2": {
+            "text": "Stara warto\u015b\u0107"
+        },
+        "943f335b83ec6549ef45388ececff4e1": {
+            "text": "Nowa warto\u015b\u0107"
+        },
+        "939704657d1c6c48005bdb67bc14ee75": {
+            "text": "Rekomendujemy manualn\u0105 zmian\u0119 typu pola \"%s\", wr\u00f3\u0107 tutaj p\u00f3\u017aniej aby zostosowa\u0107 dodatkowe zmiany."
+        },
+        "34eb90456e45e06048e287f649c4fba0": {
+            "text": "Brak oczekuj\u0105cych zmian."
+        },
+        "c4fd77379e1e463339786fbbc671068c": {
+            "text": "Zmodyfikowa\u0107 to pole?"
+        },
+        "2f4ddf245d305802ffed479ba3b88451": {
+            "text": "Utworzy\u0107 to pole?"
+        },
+        "83e14aace19687fe9e1fbb8f913bf569": {
+            "text": "Kliknij Tak aby pokaza\u0107 zmiany"
+        },
+        "47a35a358887cc2c9994fb517d6a2b0b": {
+            "text": "Czasami wymagane s\u0105 dwa potwierdzenia, aby zastosowa\u0107 wszystkie zmiany. Prosz\u0119 przejrze\u0107 oczekuj\u0105ce zmiany poni\u017cej, i zastosowa\u0107 wed\u0142ug potrzeb."
+        },
+        "b2ba5835eaaa55607da59f696dcd4a87": {
+            "text": "Prosz\u0119 przejrze\u0107 oczekuj\u0105ce zmiany poni\u017cej, i zastosowa\u0107 je kiedy b\u0119d\u0105 gotowe. Je\u015bli istniej\u0105 zmiany kt\u00f3rych nie chcesz zastosowa\u0107, odznacz odpowiednie pola."
+        },
+        "b604e6f64e19eea098f6d87c63552c53": {
+            "text": "Zastosuj zmiany"
+        },
+        "16babeb0401a3e00da9891b97e94d6fe": {
+            "text": "Twoje zmiany zosta\u0142y zastosowane!"
+        },
+        "15055fb4c054396bf293c21c12c578be": {
+            "text": "Nie wykryto \u017cadnych zmian"
+        },
+        "426de2596501a3cff8977e60c271889c": {
+            "text": "Zapisano:"
+        },
+        "22e3e6ff427708ffbb7a54e2e91bc99e": {
+            "text": "Dodano pole"
+        },
+        "9de8e0c21384ddfd634fd87a48f6b3b2": {
+            "text": "Zmodyfikowano pole"
+        },
+        "722034114c47bfa859a1be8200469fcf": {
+            "text": "="
+        },
+        "c3005b0d579421afe9654e94b7f60c41": {
+            "text": "%d b\u0142\u0105d"
+        },
+        "2169b4627df97333ed94d1e30a9b8148": {
+            "text": "b\u0142\u0119d\u00f3w - %d"
+        },
+        "8ba486983cfbf272f154102c788863e6": {
+            "text": "Znaleziono %d w\u0142a\u015bciow\u015b\u0107 do zastosowania"
+        },
+        "dbda450b59595e4fd37fd581d205334f": {
+            "text": "Znaleziono %d w\u0142a\u015bciow\u015bci do zastosowania"
+        },
+        "9e06b5dbfb31f1828888bca905c2e88e": {
+            "text": "Znaleziono b\u0142\u0105d w polu %d"
+        },
+        "68949530f08adb8c1a98b2a452c25604": {
+            "text": "Znaleziono b\u0142\u0119dy w polu %d"
+        },
+        "98e916ede6d185f77336fd8e0c08bfe0": {
+            "text": "Znaleziono nowe pole %d do dodania"
+        },
+        "9bdf5048d07cd31f11ccd839cc2d077a": {
+            "text": "Znaleziono %d - nowych p\u00f3l do dodania"
+        },
+        "927d189873b1f34075deb20406d33644": {
+            "text": "Znaleziono %d pole do aktualizacji"
+        },
+        "5cc06b731a19a2b34a1e3a0e79e35690": {
+            "text": "Znaleziono p\u00f3l - %d do aktualizacji"
+        },
+        "99dc52a2961a9de2d42d6dbd498b0103": {
+            "text": "Dodano pole %d"
+        },
+        "46b6c6eede6b98b8ac580770f6215f35": {
+            "text": "Dodano pola %d"
+        },
+        "0ecf1cc5ca067272faabd8c0900efe68": {
+            "text": "Zmodyfikowano %d pole"
+        },
+        "18e7924633aa136c8b5ba3827b3f7058": {
+            "text": "Zmodyfikowano %d - p\u00f3l"
+        },
+        "c9185726324b2953e521ff596b287f25": {
+            "text": "Pomini\u0119to %d pole"
+        },
+        "0cf5f939a615a083962e96f06b8ed6ea": {
+            "text": "Pomini\u0119to p\u00f3l - %d"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/PagePaths.module",
+    "textdomain": "wire--modules--pagepaths-module",
+    "translations": {
+        "d6fee4e5741568290c0f4c4edc81f70f": {
+            "text": "Zaktualizowano %d \u015bcie\u017ck\u0119"
+        },
+        "b198072961bf47ed9c790c1006f98372": {
+            "text": "Zaktualizowano %d \u015bcie\u017cki"
+        },
+        "c78ef210c4712423d0b4d857718f9bed": {
+            "text": "Zako\u0144czono przebudow\u0119 indeksu \u015bcie\u017cek w czasie %d (sekund)"
+        },
+        "197b94887c65d8aa396bb5080f7d66ff": {
+            "text": "Przebuduj indeks \u015bcie\u017cek stron dla %d stron."
+        },
+        "2eac6090faeb03e3bc9dab9323642864": {
+            "text": "Przebuduj teraz"
+        },
+        "db40fb4d30b0f723a429818f05983c74": {
+            "text": "Przewidywany czas wykonania wynosi do 5 sekund dla 1000 stron."
+        },
+        "c46d2f416d22eb335a7f85725b516a6d": {
+            "text": "Istnieje (%d) stron do przetworzenia."
+        },
+        "059ede5738edbc41d9d2037e1785f3a9": {
+            "text": "Obecnie w tym module przechowywanych jest %d wierszy (\u015bcie\u017cki \u015bcie\u017cek i wersje \u015bcie\u017cek)."
+        },
+        "fff87d4b1b8c614ab3389cb892a53361": {
+            "text": "Wybierz opcj\u0119 \u201eprzebuduj teraz\u201d, aby utworzy\u0107 indeks \u015bcie\u017cek do stron."
+        }
+    }
+}

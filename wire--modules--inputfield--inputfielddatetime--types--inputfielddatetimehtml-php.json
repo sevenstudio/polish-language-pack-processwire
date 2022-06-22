@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/types\/InputfieldDatetimeHtml.php",
+    "textdomain": "wire--modules--inputfield--inputfielddatetime--types--inputfielddatetimehtml-php",
+    "translations": {
+        "0e8f21f09ae327a89b030e9df934de30": {
+            "text": "Natywna data, godzina HTML5 lub oba te elementy w przegl\u0105darce"
+        },
+        "3d6b7b2eaab198f0dca6f741d6cd7178": {
+            "text": "pole HTML"
+        },
+        "44749712dbec183e983dcd78a7736c41": {
+            "text": "Data"
+        },
+        "a76d4ef5f3f6a672bbfab2865563e530": {
+            "text": "Czas"
+        },
+        "d060352fa78723b152199ca69e02ff18": {
+            "text": "Zar\u00f3wno data jak i czas"
+        },
+        "d836d96f45dbb0d871fc892d4a4dc073": {
+            "text": "Ilo\u015b\u0107 dni (co ile) dla pola daty"
+        },
+        "0ad6f617180d27600edab7be9a079f90": {
+            "text": "Minimalna dozwolona data"
+        },
+        "62d2ced9bc40c8d0d5bed70b2b32d9e5": {
+            "text": "Maksymalna dozwolona data"
+        },
+        "d5a7df727e5b8e2f4beae7377e5e00be": {
+            "text": "Ilo\u015b\u0107 sekund (co ile) dla pola czasu"
+        },
+        "881f6f061eac7055ad209a17121c5130": {
+            "text": "Minimalny dozwolony czas"
+        },
+        "65a779047df07c9cd6b487739e402ddf": {
+            "text": "Maksymalny dozwolony czas"
+        }
+    }
+}

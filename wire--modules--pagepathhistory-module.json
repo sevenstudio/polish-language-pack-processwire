@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/PagePathHistory.module",
+    "textdomain": "wire--modules--pagepathhistory-module",
+    "translations": {
+        "112a51baa056cba6320b36b7a71bcb1c": {
+            "text": "Minimalny czas od dodania (w sekundach)"
+        },
+        "6f6974b30b7af85a0b0b8e3382fc9345": {
+            "text": "Rozpocznij zapisywanie historii strony tyle sekund po jej utworzeniu. Zalecane co najmniej 2 sekundy."
+        },
+        "b26126a5fdfea23d379aa813c392d533": {
+            "text": "Domy\u015blne: %s"
+        },
+        "2bcf586c695b0ada1781efb8ac78d294": {
+            "text": "Usuni\u0119to %d historycznych \u015bcie\u017cek do stron"
+        },
+        "c6d134febe49205b49a3d50c095359e1": {
+            "text": "Usun\u0105\u0107 ca\u0142\u0105 histori\u0119 \u015bcie\u017cek do strony?"
+        },
+        "49ec38867ac66d1ebc5e03d7d27b5939": {
+            "text": "Obecnie w bazie danych znajduje si\u0119 %d historycznych \u015bcie\u017cek do stron."
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Napewno?"
+        },
+        "7d77cfb1efb2f2ae3b3870708b58d7ee": {
+            "text": "Te informacje s\u0105 wykorzystywane do automatycznych przekierowa\u0144 i nie tylko. Po usuni\u0119ciu nie mog\u0105 zosta\u0107 odzyskane. Zaznacz pole, aby potwierdzi\u0107, \u017ce naprawd\u0119 chcesz to zrobi\u0107."
+        }
+    }
+}

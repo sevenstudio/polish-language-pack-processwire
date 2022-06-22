@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDecimal.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedecimal-module",
+    "translations": {
+        "0f26309b1be1b637d35f604c298b57df": {
+            "text": "Zaktualizowany pola \u201e%1$s\u201d schemat: %2$s => %3$s"
+        },
+        "506c2c0c7f5b70af3df68c45c46f45a7": {
+            "text": "Na przyk\u0142ad:"
+        },
+        "a495e52f576ff7677bb1ebe793e5cc9e": {
+            "text": "Ca\u0142kowita liczba obs\u0142ugiwanych cyfr"
+        },
+        "6bc3814dd7bc238bb8c0f906e323d4d7": {
+            "text": "Zawiera cyfry zar\u00f3wno przed, jak i po przecinku."
+        },
+        "7a12767f99c7a4fcac27286992c2030f": {
+            "text": "999,99 to \u0142\u0105cznie 5 cyfr, wi\u0119c wymaga\u0142oby to warto\u015bci 5 lub wy\u017cszej."
+        },
+        "7d06ba10369f702102235f72dc0f34c8": {
+            "text": "Liczba cyfr po przecinku"
+        },
+        "0e2cec5723266f020033868d628d6061": {
+            "text": "Ta warto\u015b\u0107 b\u0119dzie mniejsza ni\u017c (lub w niekt\u00f3rych przypadkach r\u00f3wna) ca\u0142kowita liczba cyfr."
+        },
+        "6acc82c74212c97024e366c4c20d7e3c": {
+            "text": "999,99 i 100,00 maj\u0105 2 cyfry po przecinku"
+        },
+        "937504f318f04eaf0f1d701df4c4d7f3": {
+            "text": "Dziesi\u0119tne"
+        },
+        "c9abe09f2a14ec066fadf2954ea16aa6": {
+            "text": "Pole przechowuj\u0105ce liczb\u0119 dziesi\u0119tn\u0105"
+        }
+    }
+}

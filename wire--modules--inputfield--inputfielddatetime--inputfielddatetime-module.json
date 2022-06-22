@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/InputfieldDatetime.module",
+    "textdomain": "wire--modules--inputfield--inputfielddatetime--inputfielddatetime-module",
+    "translations": {
+        "1feebee2f4ca4af215e8b47f37695f99": {
+            "text": "Je\u015bli zaznaczono, to pole zachowa dzisiejsz\u0105 dat\u0119 jako warto\u015b\u0107, gdy data nie zostanie wybrana."
+        },
+        "a1af5f0718bfae275ce162362d0e43c5": {
+            "text": "Data\/Czas (datetime)"
+        },
+        "d27357121209bd712604d8af46cd2460": {
+            "text": "Pole kt\u00f3re s\u0142u\u017cy do wyboru daty i opcjonalnie godziny."
+        },
+        "a749642e2afeea63aac9d550e51abf64": {
+            "text": "Typ pola"
+        },
+        "13f25c1325ea96579dff3ca9b5c408de": {
+            "text": "Wybra\u0107 domy\u015blnie dzisiejsz\u0105 dat\u0119?"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDatetime.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedatetime-module",
+    "translations": {
+        "eb44c7b0eebc98a8441abb862a254b3d": {
+            "text": "Format Daty"
+        },
+        "e7033eefffec056f8898dab5295ef2f6": {
+            "text": "Wybierz format daty wykorzystywany przez to pole"
+        },
+        "5bdb46a370b6d6a509c68a76551e5e3d": {
+            "text": "Dla relatywnych dat\/ formatu czasu prosz\u0119 zobaczy\u0107 Format Czasu"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Brak"
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "YYYY-MM-DD"
+        },
+        "8a4b7daad69389d978a2ea6bab5b07f8": {
+            "text": "Format Czasu"
+        },
+        "cce774e589c4c23ce9c8cc7cb958861a": {
+            "text": "Je\u015bli chcesz wy\u015bwietli\u0107 godzin\u0119 wraz z dat\u0105, wybierz format czasu stosowany przy wy\u015bwietlaniu warto\u015bci. Format b\u0119dzie po\u0142\u0105czony z formatem daty."
+        },
+        "c1a326c2753f410fad585781390da97f": {
+            "text": "Data\/Czas wy\u015bwietlany format"
+        },
+        "7b9ea642d1b10d7efc18d2c64a8940f8": {
+            "text": "Data\/Czas zostanie wy\u015bwietlony w formacie wybranym poni\u017cej. Format zostanie ustawiony automatycznie na podstawie wcze\u015bniej wybranego formatu daty\/czasu powy\u017cej, ale je\u015bli jest to potrzebne, mo\u017cesz dopasowa\u0107 format do w\u0142asnych potrzeb."
+        },
+        "e606a86ec2852d83f2ea4622de245889": {
+            "text": "Zobacz informacje dotycz\u0105ce funkcji PHP [PHP date](http:\/\/www.php.net\/manual\/en\/function.date.php). Opcjonalnie mo\u017cesz wykorzysta\u0107 format [PHP strftime](http:\/\/www.php.net\/manual\/en\/function.strftime.php) w celach lokalizacji (ewentualnych t\u0142umacze\u0144)."
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFile\/config.php",
+    "textdomain": "wire--modules--inputfield--inputfieldfile--config-php",
+    "translations": {
+        "7ed67c541834e8611ff12de806594362": {
+            "text": "Dozwolone rozszerzenia plik\u00f3w do przes\u0142ania"
+        },
+        "f95a2203d4668a44286d8955c270b809": {
+            "text": "Co najmniej jedno rozszerzenie pliku oddzielone spacj\u0105."
+        },
+        "6231c154d164f467041abbb0151816dc": {
+            "text": "Maksymalna dozwolona liczba plik\u00f3w"
+        },
+        "2383ea51d67a0b84eda10737be272a9e": {
+            "text": "0=Brak limitu"
+        },
+        "831c1d34e1624ee969c96e66273a5b8a": {
+            "text": "Pliki do przes\u0142ania"
+        },
+        "bed8a5795ff53ecfd7b9dab0face84b6": {
+            "text": "Rozpakowa\u0107 archiwum ZIP?"
+        },
+        "fab7f7d0de48baa58342b39e975c9aab": {
+            "text": "Je\u015bli zaznaczone, archiwa ZIP zostan\u0105 zdekompresowane, a wszystkie prawid\u0142owe pliki zostan\u0105 dodane jako przes\u0142ane (je\u015bli s\u0105 obs\u0142ugiwane przez \u015brodowisko hostingu). Maksymalna liczba plik\u00f3w musi by\u0107 ustawiona na 0 (brak maks.), aby przesy\u0142anie ZIP dzia\u0142a\u0142o."
+        },
+        "4839f7d2588943e6763c3c91cbd8d7f2": {
+            "text": "Nadpisa\u0107 istniej\u0105ce pliki?"
+        },
+        "35a96944722fb825db8bf04ab791c209": {
+            "text": "Je\u015bli zaznaczone, przes\u0142any plik o tej samej nazwie co istniej\u0105cy plik zast\u0105pi istniej\u0105cy plik (opis i tagi pozostan\u0105). Je\u015bli nie jest zaznaczone, nazwy przes\u0142anych plik\u00f3w zostan\u0105 zmienione na unikalne."
+        },
+        "2713d4f20fb5e7947fb2bb844d57322d": {
+            "text": "Nale\u017cy pami\u0119ta\u0107, \u017ce gdy ta opcja jest w\u0142\u0105czona, pliki przes\u0142ane przez AJAX s\u0105 zapisywane ze stron\u0105 natychmiast po przes\u0142aniu, a nie po klikni\u0119ciu przycisku \u201eZapisz\u201d. W rezultacie mo\u017cesz pozostawi\u0107 t\u0119 opcj\u0119 niezaznaczon\u0105, chyba \u017ce masz konkretn\u0105 potrzeb\u0119."
+        },
+        "43628388b79e6369717cab54df99fc62": {
+            "text": "Opisy plik\u00f3w"
+        },
+        "91015caeadb6afed86544257b5d796f5": {
+            "text": "Liczba wierszy w polu opisu?"
+        },
+        "27eebd9281cfaa6f4173d02986c9ad71": {
+            "text": "Wprowad\u017a liczb\u0119 wierszy dost\u0119pnych dla pola opisu pliku lub wprowad\u017a 0, aby nie mie\u0107 pola opisu."
+        },
+        "1aac69c83eb57d215a710401956430f1": {
+            "text": "Wy\u0142\u0105czy\u0107 opisy w wielu j\u0119zykach?"
+        },
+        "d2bb3cb572d2e8478e3f5eed6cd914aa": {
+            "text": "Domy\u015blnie opisy s\u0105 wieloj\u0119zyczne, je\u015bli masz zainstalowan\u0105 obs\u0142ug\u0119 j\u0119zyk\u00f3w."
+        },
+        "e1b05eaa8a39a1ff5b825c94b80e77db": {
+            "text": "Je\u015bli nie potrzebujesz wieloj\u0119zycznych opis\u00f3w plik\u00f3w, mo\u017cesz je tutaj wy\u0142\u0105czy\u0107."
+        }
+    }
+}

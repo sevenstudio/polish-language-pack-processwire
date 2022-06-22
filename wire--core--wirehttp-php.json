@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/WireHttp.php",
+    "textdomain": "wire--core--wirehttp-php",
+    "translations": {
+        "77c7f3f51ebd4fa702990b4e33b1b168": {
+            "text": "Adres URL musi zaczyna\u0107 si\u0119 od http:\/\/ lub https:\/\/"
+        },
+        "467af8bc03dee4f2214f406ef27a2cd2": {
+            "text": "b\u0142\u0105d fopen dla pliku:"
+        },
+        "0209b06558d47ad36cee247c670ff405": {
+            "text": "Plik nie mo\u017ce zosta\u0107 pobrany"
+        }
+    }
+}

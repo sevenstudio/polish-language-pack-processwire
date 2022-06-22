@@ -1,0 +1,120 @@
+{
+    "file": "wire\/modules\/Page\/PageFrontEdit\/PageFrontEditConfig.php",
+    "textdomain": "wire--modules--page--pagefrontedit--pagefronteditconfig-php",
+    "translations": {
+        "2e3924cdf708580effa1682a30cc024c": {
+            "text": "Przed korzystaniem z edycji na froncie witryny, prosz\u0119 zapoznaj si\u0119 z doukmentacj\u0105 ProcessWire dotycz\u0105c\u0105 edycji we froncie witryny."
+        },
+        "728f08c6a5722017ce7fb9747da7bac3": {
+            "text": "Ustawienia edytora liniowego"
+        },
+        "180efa8a9b1cfee25988715f7d673dbc": {
+            "text": "Opcja A: pole edytowalne na froncie witryny"
+        },
+        "d0526ac74110f73ee2926fd2d650c4a9": {
+            "text": "** Zachowaj ostro\u017cno\u015b\u0107 przy korzystaniu z tej opcji: ** Je\u015bli wy\u015bwietlasz warto\u015b\u0107 pola w wi\u0119cej ni\u017c jednym miejscu na stronie, zamiast tego u\u017cyj [Opcji B, C lub D] (https:\/\/processwire.com\/api\/modules\/front-end-editing\/)."
+        },
+        "78badcbc932189f3c876e9f2f55350cd": {
+            "text": "( niezalecane)"
+        },
+        "f16845125537677cf6b52cc53b2e1ee7": {
+            "text": "Opcja A: w zakresie edytora"
+        },
+        "5fd733ebd21770ef2dff6a0382db2117": {
+            "text": "Kiedy s\u0105 zaznaczone pola powy\u017cej s\u0105 \u017ar\u00f3d\u0142em, gdzie powinny by\u0107 edytowalne?"
+        },
+        "2fac3d64842df30df607c68da216acd7": {
+            "text": "Pola mog\u0105 by\u0107 edytowane tylko wtedy, gdy pochodz\u0105 z wy\u015bwietlonej strony (zalecane)"
+        },
+        "aa27ca4492b42802705a21889bb9a27e": {
+            "text": "Pola mog\u0105 by\u0107 edytowane bez wzgl\u0119du na stron\u0119."
+        },
+        "8b0326c326b1dddbdc4bf7b3519c02f6": {
+            "text": "Zapisz\/anuluj przyciski"
+        },
+        "046d8235ad520c64afae23d7aaa4ffcc": {
+            "text": "Pozycja przycisk\u00f3w"
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "automatyczna"
+        },
+        "a4d0d101d6a34bf80ffeee601c3ff84a": {
+            "text": "G\u00f3ra lewo"
+        },
+        "d3708546a929dfcf66eaeaba794486eb": {
+            "text": "G\u00f3ra prawo"
+        },
+        "b67554192c50f4f6a4c1bd4797f6c3f8": {
+            "text": "D\u00f3\u0142 lewo"
+        },
+        "5968e3c37145f57587afcba727d2b120": {
+            "text": "D\u00f3\u0142 prawo"
+        },
+        "61a4338583e41efc9ecde01cc622f21c": {
+            "text": "Typ przycisk\u00f3w"
+        },
+        "de39b6da18c671eec0524a2bfc0da0c2": {
+            "text": "Automatyczne (ikony i tekst dla komputer\u00f3w, ikony dla urz\u0105dze\u0144 dotykowych)"
+        },
+        "fb8bc05d9bb7a27307aff0d799f995fd": {
+            "text": "Ikony i tekst"
+        },
+        "e01d2e7e85c1522149ddd1abead1167f": {
+            "text": "Tylko tekst"
+        },
+        "bf1079a9cc453b4caaa03e1b4d3c41d7": {
+            "text": "Tylko ikony"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Wi\u0119cej"
+        },
+        "fdf8ef9fa133d1852bef33c7c85144cb": {
+            "text": "Istnieje kilka sposob\u00f3w w\u0142\u0105czania edycji front-end dla tego polu. Niezale\u017cnie od wybranej opcji, edycja b\u0119dzie wy\u015bwietlana tylko wtedy, gdy u\u017cytkownik ma odpowiednie uprawnienia do strony i pola."
+        },
+        "4cb305eca1333573edc880819fc7c977": {
+            "text": "Wymagane uprawnienia to edycja-strony i edycja-strony-front (page-edit and page-edit-front.)"
+        },
+        "5e7f95d663a3711b9965a6fa8707ef6f": {
+            "text": "Gdy pole jest edytowalne, po najechaniu mysz\u0105 wy\u015bwietlany jest wska\u017anik myszy kontekstowej, a nie zwyk\u0142y wska\u017anik. Aby edytowa\u0107 pole na musisz ** podw\u00f3jnie klikn\u0105\u0107 **."
+        },
+        "17dc7a031f9540dbeb3cf9e10a7a1ebf": {
+            "text": "Ta opcja nie jest wspierana przez to pole."
+        },
+        "5f858c76077c44036b1442243b30ac34": {
+            "text": "Option A: Automatyczna edycja"
+        },
+        "88dad1b60aca7105bd5e7e185fa221ec": {
+            "text": "Gdy sformatowana warto\u015b\u0107 pola jest pobierana z $page, b\u0119dzie mo\u017cna j\u0105 edytowa\u0107 bez konieczno\u015bci pisania jakiegokolwiek znacznika \/ kodu. Zak\u0142adaj\u0105c, \u017ce u\u017cytkownik ma uprawnienia do edytowania."
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Konfiguruj"
+        },
+        "c214147662040e46e52c3cd0006a1122": {
+            "text": "Ta opcja jest obecnie W\u0141\u0104CZONA dla tego pola."
+        },
+        "c4755719068ffa0049bab373cee32aef": {
+            "text": "Opcja B: metoda wywo\u0142ania przez API"
+        },
+        "b4da834069eb28c98cdf74c0dd7179d3": {
+            "text": "U\u017cyj $page->edit(\"%s\"); zamiast $page->%s; kiedy chcesz wy\u015bwietli\u0107 warto\u015b\u0107."
+        },
+        "a88ea479a9d66a019262dbfd5b4879b7": {
+            "text": "Obs\u0142ugiwana jest dowolna z nast\u0119puj\u0105cych sk\u0142adni (wybierz jedn\u0105). \"1001\" mo\u017ce by\u0107 dowolnym identyfikatorem strony lub \u015bcie\u017ck\u0105, a \"...\" mo\u017ce by\u0107 dowolnym znacznikiem lub kodem, zazwyczaj w miejscu gdzie wy\u015bwietlana jest warto\u015b\u0107 pola."
+        },
+        "48f403566075715027bd7fc9e1902cbc": {
+            "text": "Opcja C: Dodaj znaczniki edycji HTML, aby utworzy\u0107 edytowalny region"
+        },
+        "ee885b8843c6c111129d0eaca536bbbe": {
+            "text": "Opcja D: dodaj atrybuty edycji HTML do istniej\u0105cego znacznika, aby utworzy\u0107 edytowalny region"
+        },
+        "0e060a7eca98daf0e3c2e5280319e907": {
+            "text": "Tag div pokazany poni\u017cej mo\u017ce by\u0107 dowolnym istniej\u0105cym tagiem HTML, kt\u00f3ry s\u0142u\u017cy za kontener dla edytowalnego regionu."
+        },
+        "5c23fae6f3e37e699b6663a4fa6dbf08": {
+            "text": "Nale\u017cy pami\u0119ta\u0107, \u017ce przy korzystaniu z atrybut\u00f3w, zawsze u\u017cywany jest edytor modalny. Wszystkie inne opcje b\u0119d\u0105 u\u017cywa\u0107 edytora w wierszu, je\u015bli jest obs\u0142ugiwany."
+        },
+        "6e8a63eb8616bdb680f111e0b1a5bea3": {
+            "text": "Pola tekstowe zaznaczone poni\u017cej b\u0119d\u0105 mog\u0142y by\u0107 edytowane bezpo\u015brednio na froncie witryny."
+        }
+    }
+}

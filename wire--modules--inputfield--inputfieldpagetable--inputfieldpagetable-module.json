@@ -1,0 +1,111 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageTable\/InputfieldPageTable.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagetable--inputfieldpagetable-module",
+    "translations": {
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[puste]"
+        },
+        "140092f149378fe66bcd1b7e472cde79": {
+            "text": "Prosz\u0119 skonfigurowa\u0107 to pole z wyborem szablonu zanim zostanie wykorzystane."
+        },
+        "541d5efe9732bde27704a4d578691629": {
+            "text": "Prosz\u0119 poda\u0107 jedn\u0105 lub wi\u0119cej kolumn w ustawieniach pola, zanim to pole zostanie wykorzytane."
+        },
+        "ff63ad7fe05686c64e062c5c034ad04f": {
+            "text": "Odnaleziono strony potomne kt\u00f3re mog\u0105 by\u0107 dodane do tej tabeli. Zaznacz te kt\u00f3re chcesz doda\u0107."
+        },
+        "4c41e0bd957698b58100a5c687d757d9": {
+            "text": "Wybierz wszystkie"
+        },
+        "6a73e132a6818bc067a0cdec443689a1": {
+            "text": "="
+        },
+        "3c59f93c033e789777be18c1ad66b13b": {
+            "text": "Dodano %d istniej\u0105c\u0105 stron\u0119 (strony) do tabeli"
+        },
+        "9ea0c76f6c8f1bc93ccb7f5825d8da15": {
+            "text": "Pola tabeli do wy\u015bwietlenia w panelu administracyjnym"
+        },
+        "420fb882b998481add0d526522ffff81": {
+            "text": "Podaj nazwy p\u00f3l (jedno na lini\u0119) kt\u00f3re chcesz wy\u015bwietli\u0107 jako kolumny tabeli. Aby okre\u015bli\u0107 szeroko\u015b\u0107 pola w komunie, podaj \"field_name=30\" gdzie \"30\" jest szeroko\u015bci\u0105 (w procentach) kolumny. Podczas podawania szeroko\u015bci, upewnij si\u0119 \u017ce \u0142\u0105czna warto\u015b\u0107 szeroko\u015bci jest r\u00f3wna 100."
+        },
+        "290cc1b749092b6f62035343a4e4f9eb": {
+            "text": "Mo\u017cesz okre\u015bli\u0107 dowolne pole systemowe lub niestandardowe. Mo\u017cna tak\u017ce u\u017cywa\u0107 pod-p\u00f3l (pola.subfield) z polami zawieraj\u0105cymi wiele w\u0142a\u015bciwo\u015bci, np. odwo\u0142aniami do stron."
+        },
+        "c775db1b4b86e060f703a4e7cedc292f": {
+            "text": "NIestandardowe pola przypisane do wybranych szablon\u00f3w to:"
+        },
+        "8ea5a88f78fabcfdc906c9cb8ec013f2": {
+            "text": "Aby zobaczy\u0107 list\u0119 mo\u017cliwych p\u00f3l niestandardowych, wybierz szablon na karcie Szczeg\u00f3\u0142y, Zapisz i wr\u00f3\u0107 tutaj."
+        },
+        "34ff6bbc0c075f35e92dc68a218b7cc2": {
+            "text": "Automatyczny format nazwy strony"
+        },
+        "9264201faa8a6ca75fc27583eafe1e88": {
+            "text": "Po wype\u0142nieniu, gdy u\u017cytkownik kliknie przycisk \"Dodaj now\u0105\" strony b\u0119d\u0105 tworzone automatycznie przy u\u017cyciu tego formatu. Je\u015bli pozostanie puste, u\u017cytkownik zostanie poproszony o wprowadzenie nazwy strony przed jej utworzeniem."
+        },
+        "e4f63a8ac32b32675310ab45dd15e6cb": {
+            "text": "Je\u015bli format nazwy zawiera znaki inne ni\u017c alfanumeryczne, jest on uwa\u017cany za format daty [PHP date] (http:\/\/www.php.net\/manual\/en\/function.date.php). Je\u015bli zawiera tylko znaki alfanumeryczne, b\u0119dzie on u\u017cywany bezpo\u015brednio, z liczb\u0105 do\u0142\u0105czon\u0105 do ko\u0144ca (je\u015bli konieczne), aby zapewni\u0107 unikalno\u015b\u0107."
+        },
+        "9ad1067becc6f575ac4c13c7294fdffe": {
+            "text": "Przyk\u0142ad: Ymd:His jest odpowiednim formatem dla stron, kt\u00f3rych nazwy bazuj\u0105 na dacie\/czasie."
+        },
+        "1b599a361b1d70e9e618b990e78c3bac": {
+            "text": "Zachowanie modalnego okna edycji"
+        },
+        "ddc5451d4ec8474b52d0c29aa3a0d475": {
+            "text": "Automatycznie zamknij po zapisie (domy\u015blne)"
+        },
+        "7d3bd56da0d093058cd12ccf10411b3d": {
+            "text": "Pozostaw okno otwarte, wymaga zamkni\u0119cia przez u\u017cytkownika"
+        },
+        "fd77179553ab23331a3bb360662cbf47": {
+            "text": "="
+        },
+        "0a897fae6e81285f1da55dd87457ec94": {
+            "text": "Pole kt\u00f3re jest wykorzystywane z FieldtypePageTable"
+        },
+        "26fbcf76e1954ff7641a38a979ac4b62": {
+            "text": "="
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Nazwa"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "Utworzono"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Zmodyfikowano"
+        },
+        "f45cf450f2435b8e50cee88a4ac15112": {
+            "text": "Opublikowano"
+        },
+        "036eabaedf4f638437a5ecdf7582d541": {
+            "text": "Modyfikowane przez"
+        },
+        "5058207150146a31a3722ea410dac987": {
+            "text": "Utworzone przez"
+        },
+        "6ca734172827db670a1e2ea88e6c5401": {
+            "text": "="
+        },
+        "fab3cb63defc8837e34f8ff45d16299f": {
+            "text": "\u015bcie\u017cka"
+        },
+        "df286bfb6dd8fa62b0271fac208797fe": {
+            "text": "Szablon"
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "Rodzic"
+        },
+        "1817eacf444b166d0c26160f2176ae96": {
+            "text": "Element potomny"
+        },
+        "8e1c1f71742a04abf811af399e149b72": {
+            "text": "="
+        },
+        "d02df721111f58d691538543749d7ce0": {
+            "text": "Nowy"
+        }
+    }
+}
