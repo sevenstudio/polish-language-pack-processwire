@@ -1,9 +1,0 @@
-{
-    "file": "wire\/core\/SessionCSRF.php",
-    "textdomain": "wire--core--sessioncsrf-php",
-    "translations": {
-        "f5456cee91779e33a9f38ddca5081710": {
-            "text": "To \u017cadanie zosta\u0142o odrzucone, gdy\u017c wygl\u0105da na nieautoryzowane."
-        }
-    }
-}
