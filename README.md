@@ -5,7 +5,7 @@ version 1.0.8 ( June 22, 2022 ) - compatibile with the latest ProcessWire master
 
 Installation:
 
-To install a language pack, you must have the ProcessWire Language Support module installed. This is included with ProcessWire, so all you have to do is click to Modules > Language > Language Support > install.
+To install a language pack, you must have the ProcessWire Language Support module installed. This is included with ProcessWire, so all you have to do is click to Modules > Install > Language Support > install.
 
 Once you have Language Support installed, you can install this language pack by going to Setup > Languages > Add New Language. Enter a title and name for the language and save.
 
